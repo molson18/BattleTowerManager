@@ -1,0 +1,468 @@
+Aerial Ace,Physical,flying,60,--,The user confounds the foe with speed then slashes. The attack lands without fail.
+Aqua Jet,Physical,water,40,100,The user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.
+Aqua Tail,Physical,water,90,90,The user attacks by swinging its tail as if it were a vicious wave in a raging storm. 
+Arm Thrust,Physical,fighting,15,100,The user looses a flurry of open-palmed arm thrusts that hit two to five times in a row.
+Assurance,Physical,dark,50,100,If the foe has already taken some damage in the same turn this attack's power is doubled.
+Astonish,Physical,ghost,30,100,The user attacks the foe while shouting in a startling fashion. It may also make the target flinch.
+Attack Order,Physical,bug,90,100,The user calls out its underlings to pummel the foe. It has a high critical-hit ratio.
+Avalanche,Physical,ice,60,100,An attack move that inflicts double the damage if the user has been hurt by the foe in the same turn.
+Barrage,Physical,normal,15,85,Round objects are hurled at the foe to strike two to five times in a row. 
+Beat Up,Physical,dark,10,100,The user gets all the party Pok�mon to attack the foe. The more party Pok�mon the more damage.
+Bide,Physical,normal,--,--,The user endures attacks for two turns then strikes back to cause double the damage taken.
+Bind,Physical,normal,15,75,A long body or tentacles are used to bind and squeeze the foe for two to five turns.
+Bite,Physical,dark,60,100,The foe is bitten with viciously sharp fangs. It may make the target flinch. 
+Blaze Kick,Physical,fire,85,90,The user launches a kick with a high critical-hit ratio. It may also leave the target with a burn.
+Body Slam,Physical,normal,85,100,The user drops onto the foe with its full body weight. It may leave the foe paralyzed.
+Bone Club,Physical,ground,65,85,The user clubs the foe with a bone. It may also make the target flinch. 
+Bone Rush,Physical,ground,25,80,The user strikes at the foe with a hard bone two to five times in a row. 
+Bonemerang,Physical,ground,50,90,The user throws the bone it holds. The bone loops to hit the foe twice coming and going.
+Bounce,Physical,flying,85,85,The user bounces up high then drops on the foe on the second turn. It may also paralyze the foe.
+Brave Bird,Physical,flying,120,100,The user tucks in its wings and charges from a low altitude. The user also takes serious damage.
+Brick Break,Physical,fighting,75,100,The user attacks with tough fists etc. It can also break any barrier such as Light Screen and Reflect.
+Bug Bite,Physical,bug,60,100,The user bites the foe. If the foe is holding a Berry the user eats it and gains its effect.
+Bullet Punch,Physical,steel,40,100,The user strikes with a tough punch as fast as a bullet. This move always goes first.
+Bullet Seed,Physical,grass,10,100,The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession.
+Clamp,Physical,water,35,75,The foe is clamped and squeezed by the user's very thick and sturdy shell for two to five turns.
+Close Combat,Physical,fighting,120,100,The user fights the foe up close without guarding itself. It also cuts the user's Defense and Sp. Def.
+Comet Punch,Physical,normal,18,85,The foe is hit with a flurry of punches that strike two to five times in a row. 
+Complete Burn,Physical,ghost,120,100,The user disappears then strikes the foe on the second turn. It hits even if the foe protects itself.
+Constrict,Physical,normal,10,100,The foe is attacked with long creeping tentacles or vines. It may also lower the target's Speed.
+Counter,Physical,fighting,--,100,A retaliation move that counters any physical attack inflicting double the damage taken.
+Covet,Physical,normal,40,100,The user endearingly approaches the foe then steals the item the foe is holding. 
+Crabhammer,Physical,water,90,85,The foe is hammered with a large pincer. This move has a high critical-hit ratio. 
+Cross Chop,Physical,fighting,100,80,The user delivers a double chop with its forearms crossed. It has a high critical-hit ratio.
+Cross Poison,Physical,poison,70,100,A slashing attack that may also leave the target poisoned. It has a high critical-hit ratio.
+Crunch,Physical,dark,80,100,The user crunches up the foe with sharp fangs. It may also lower the target's Defense stat.
+Crush Claw,Physical,normal,75,95,The user slashes the foe with hard and sharp claws. It may also lower the target's Defense.
+Crush Grip,Physical,normal,--,100,The foe is crushed with great force. The attack is more powerful the more HP the foe has left.
+Cut,Physical,normal,50,95,The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.
+Dig,Physical,ground,80,100,The user burrows then attacks on the second turn. It can also be used to exit dungeons.
+Dive,Physical,water,80,100,A two-turn attack. The user dives underwater on the first turn then hits on the next turn.
+Dizzy Punch,Physical,normal,70,100,The foe is hit with rhythmically launched punches that may also leave it confused. 
+Double Hit,Physical,normal,35,90,The user slams the foe with a long tail vines etc. The target is hit twice in a row.
+Double Kick,Physical,fighting,30,100,The foe is quickly kicked twice in succession using both feet. 
+Double-edge,Physical,normal,120,100,A reckless life- risking tackle. It also damages the user by a fairly large amount however.
+Doubleslap,Physical,normal,15,85,The foe is slapped repeatedly back and forth two to five times in a row. 
+Dragon Claw,Physical,dragon,80,100,The user slashes the foe with huge sharp claws. 
+Dragon Rush,Physical,dragon,100,75,The user tackles the foe while exhibiting overwhelming menace. It may also make the target flinch.
+Drain Punch,Physical,fighting,60,100,An energy-draining punch. The user's HP is restored by half the damage taken by the target.
+Drill Peck,Physical,flying,80,100,A corkscrewing attack with the sharp beak acting as a drill. 
+Dynamicpunch,Physical,fighting,100,50,The foe is punched with the user's full concentrated power. It confuses the foe if it hits.
+Earthquake,Physical,ground,100,100,The user sets off an earthquake that hits all the Pok�mon in the battle. 
+Egg Bomb,Physical,normal,100,75,A large egg is hurled with maximum force at the foe to inflict damage. 
+Endeavor,Physical,normal,--,100,An attack move that cuts down the foe's HP to equal the user's HP. 
+Explosion,Physical,normal,250,100,The user explodes to inflict damage on all Pok�mon in battle. The user faints upon using this move.
+Extremespeed,Physical,normal,80,100,The user charges the foe at blinding speed. This attack always goes before any other move.
+Facade,Physical,normal,70,100,An attack move that doubles its power if the user is poisoned paralyzed or has a burn.
+Faint Attack,Physical,dark,60,--,The user draws up to the foe disarmingly then throws a sucker punch. It hits without fail.
+Fake Out,Physical,normal,40,100,An attack that hits first and makes the target flinch. It only works the first turn the user is in battle.
+False Swipe,Physical,normal,40,100,A restrained attack that prevents the foe from fainting. The target is left with at least 1 HP.
+Feint,Physical,normal,50,100,An attack that hits a foe using Protect or Detect. It also lifts the effects of those moves.
+Fire Fang,Physical,fire,65,95,The user bites with flame-cloaked fangs. It may also make the foe flinch or sustain a burn.
+Fire Punch,Physical,fire,75,100,The foe is punched with a fiery fist. It may leave the target with a burn. 
+Fissure,Physical,ground,--,30,The user opens up a fissure in the ground and drops the foe in. The target instantly faints if it hits.
+Flail,Physical,normal,--,100,The user flails about aimlessly to attack. It becomes more powerful the less HP the user has.
+Flame Wheel,Physical,fire,60,100,The user cloaks itself in fire and charges at the foe. It may also leave the target with a burn.
+Flare Blitz,Physical,fire,120,100,The user cloaks itself in fire and charges at the foe. The user sustains serious damage too.
+Fling,Physical,dark,--,100,The user flings its held item at the foe to attack. Its power and effects depend on the item.
+Fly,Physical,flying,90,95,The user soars then strikes on the second turn. It can also be used for flying to any familiar town.
+Focus Punch,Physical,fighting,150,100,The user focuses its mind before launching a punch. It will fail if the user is hit before it is used.
+Force Palm,Physical,fighting,60,100,The foe is attacked with a shock wave. It may also leave the target paralyzed. 
+Frustration,Physical,normal,--,100,A full-power attack that grows more powerful the less the user likes its Trainer.
+Fury Attack,Physical,normal,15,85,The foe is jabbed repeatedly with a horn or beak two to five times in a row. 
+Fury Cutter,Physical,bug,10,95,The foe is slashed with scythes or claws. Its power increases if it hits in succession.
+Fury Swipes,Physical,normal,18,80,The foe is raked with sharp claws or scythes for two to five times in quick succession.
+Giga Impact,Physical,normal,150,90,The user charges at the foe using every bit of its power. The user must rest on the next turn.
+Guillotine,Physical,normal,--,30,A vicious tearing attack with pincers. The foe will faint instantly if this attack hits.
+Gunk Shot,Physical,poison,120,70,The user shoots filthy garbage at the foe to attack. It may also poison the target.
+Gyro Ball,Physical,steel,--,100,The user tackles the foe with a high-speed spin. The slower the user the greater the damage.
+Hammer Arm,Physical,fighting,100,90,The user swings and hits with its strong and heavy fist. It lowers the user's Speed however.
+Head Smash,Physical,rock,150,80,The user delivers a life-endangering attack at full power. The user also takes terrible damage.
+Headbutt,Physical,normal,70,100,The user attacks with its head. It may make the foe flinch. To find Pok�mon hit trees.
+Hi Jump Kick,Physical,fighting,100,90,The foe is attacked with a knee kick from a jump. If it misses the user is hurt instead.
+Horn Attack,Physical,normal,65,100,The foe is jabbed with a sharply pointed horn to inflict damage. 
+Horn Drill,Physical,normal,--,30,The foe is stabbed with a horn rotating like a drill. The foe instantly faints if it hits.
+Hyper Fang,Physical,normal,80,90,The user bites hard on the foe with its sharp front fangs. It may also make the target flinch.
+Ice Ball,Physical,ice,30,90,The user continually rolls into the foe over five turns. It becomes stronger each time it hits.
+Ice Fang,Physical,ice,65,95,The user bites with cold-infused fangs. It may also make the foe flinch or freeze. 
+Ice Punch,Physical,ice,75,100,The foe is punched with an icy fist. It may leave the target frozen. 
+Ice Shard,Physical,ice,40,100,The user flash freezes chunks of ice and hurls them. This move always goes first.
+Icicle Spear,Physical,ice,10,100,The user launches sharp icicles at the foe. It strikes two to five times in a row.
+Iron Head,Physical,steel,80,100,The foe slams the target with its steel-hard head. It may also make the target flinch.
+Iron Tail,Physical,steel,100,75,The foe is slammed with a steel-hard tail. It may also lower the target's Defense stat.
+Jump Kick,Physical,fighting,85,95,The user jumps up high then strikes with a kick. If the kick misses the user hurts itself.
+Karate Chop,Physical,fighting,50,100,The foe is attacked with a sharp chop. It has a high critical-hit ratio. 
+Knock Off,Physical,dark,20,100,The user slaps down the foe's held item preventing the item from being used during the battle.
+Last Resort,Physical,normal,130,100,This move can be used only after the user has used all the other moves it knows in the battle.
+Leaf Blade,Physical,grass,90,100,The foe is slashed with a sharp leaf. It has a high critical-hit ratio. 
+Leech Life,Physical,bug,20,100,A blood-draining attack. The user's HP is restored by half the damage taken by the target.
+Lick,Physical,ghost,20,100,The foe is licked with a long tongue causing damage. It may also paralyze the target.
+Low Kick,Physical,fighting,--,100,A powerful low kick that makes the foe fall over. It inflicts greater damage on heavier foes.
+Mach Punch,Physical,fighting,40,100,The user throws a punch at blinding speed. It is certain to strike first.
+Magnet Bomb,Physical,steel,60,--,The user launches a steel bomb that sticks to the target. This attack will not miss.
+Magnitude,Physical,ground,--,100,The user looses a ground-shaking quake affecting everyone in battle. Its power varies.
+Mega Kick,Physical,normal,120,75,The foe is attacked by a kick launched with muscle-packed power. 
+Mega Punch,Physical,normal,80,85,The foe is slugged by a punch thrown with muscle-packed power. 
+Megahorn,Physical,bug,120,85,Using its tough and impressive horn the user rams into the foe with no letup. 
+Metal Burst,Physical,steel,--,100,The user retaliates against the foe that last inflicted damage on it with much greater power.
+Metal Claw,Physical,steel,50,95,The foe is raked with steel claws. It may also raise the user's Attack stat. 
+Meteor Mash,Physical,steel,100,85,The foe is hit with a hard punch fired like a meteor. It may also raise the user's Attack.
+Natural Gift,Physical,normal,--,100,The user draws power to attack by using its held Berry. The Berry determines its type and power.
+Needle Arm,Physical,grass,60,100,The user attacks by wildly swinging its thorny arms. It may also make the target flinch.
+Night Slash,Physical,dark,70,100,The user slashes the foe the instant an opportunity arises. It has a high critical-hit ratio.
+Outrage,Physical,dragon,120,100,The user rampages and attacks for two to three turns. However it then becomes confused.
+Pay Day,Physical,normal,40,100,Numerous coins are hurled at the foe to inflict damage. Money is earned after battle.
+Payback,Physical,dark,50,100,If the user can use this attack after the foe attacks its power is doubled. 
+Peck,Physical,flying,35,100,The foe is jabbed with a sharply pointed beak or horn. 
+Pin Missile,Physical,bug,14,85,Sharp pins are shot at the foe in rapid succession. They hit two to five times in a row.
+Pluck,Physical,flying,60,100,The user pecks the foe. If the foe is holding a Berry the user plucks it and gains its effect.
+Poison Fang,Physical,poison,50,100,The user bites the foe with toxic fangs. It may also leave the foe badly poisoned. 
+Poison Jab,Physical,poison,80,100,The foe is stabbed with a tentacle or arm steeped in poison. It may also poison the foe.
+Poison Sting,Physical,poison,15,100,The foe is stabbed with a poisonous barb of some sort. It may also poison the target.
+Poison Tail,Physical,poison,50,100,An attack with a high critical-hit ratio. This tail attack may also poison the foe.
+Pound,Physical,normal,40,100,The foe is physically pounded with a long tail or a foreleg etc. 
+Power Whip,Physical,grass,120,85,The user violently whirls its vines or tentacles to harshly lash the foe. 
+Present,Physical,normal,--,90,The user attacks by giving the foe a booby-trapped gift. It restores HP sometimes however.
+Psycho Cut,Physical,psychic,70,100,The user tears at the foe with blades formed by psychic power. It has a high critical-hit ratio.
+Punishment,Physical,dark,--,100,This attack's power increases the more the foe has powered up with stat changes. 
+Pursuit,Physical,dark,40,100,An attack move that inflicts double damage if used on a foe that is switching out of battle.
+Quick Attack,Physical,normal,40,100,The user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.
+Rage,Physical,normal,20,100,While this move is in use it gains attack power each time the user is hit in battle. 
+Rapid Spin,Physical,normal,20,100,A spin attack that can also eliminate such moves as Bind Wrap Leech Seed and Spikes.
+Razor Leaf,Physical,grass,55,95,Sharp-edged leaves are launched to slash at the foe. It has a high critical-hit ratio.
+Return,Physical,normal,--,100,A full-power attack that grows more powerful the more the user likes its Trainer.
+Revenge,Physical,fighting,60,100,An attack move that inflicts double the damage if the user has been hurt by the foe in the same turn.
+Reversal,Physical,fighting,--,100,An all-out attack that becomes more powerful the less HP the user has. 
+Rock Blast,Physical,rock,25,80,The user hurls hard rocks at the foe. Two to five rocks are launched in quick succession.
+Rock Climb,Physical,normal,90,85,A charging attack that may also leave the foe confused. It can also be used to scale rocky walls.
+Rock Slide,Physical,rock,75,90,Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.
+Rock Smash,Physical,fighting,40,100,The user hits with a punch that may lower the target's Defense. It can also smash cracked boulders.
+Rock Throw,Physical,rock,50,90,The user picks up and throws a small rock at the foe to attack. 
+Rock Tomb,Physical,rock,50,80,Boulders are hurled at the foe. It also lowers the foe's Speed by preventing its movement.
+Rock Wrecker,Physical,rock,150,90,The user launches a huge boulder at the foe to attack. It must rest on the next turn however.
+Rolling Kick,Physical,fighting,60,85,The user lashes out with a quick spinning kick. It may also make the target flinch.
+Rollout,Physical,rock,30,90,The user continually rolls into the foe over five turns. It becomes stronger each time it hits.
+Sacred Fire,Physical,fire,100,95,The foe is razed with a mystical fire of great intensity. It may also leave the target with a burn.
+Sand Tomb,Physical,ground,15,70,The user traps the foe inside a harshly raging sandstorm for two to five turns. 
+Scratch,Physical,normal,40,100,Hard pointed and sharp claws rake the foe to inflict damage. 
+Secret Power,Physical,normal,70,100,The user attacks with a secret power. Its added effects vary depending on the user's environment.
+Seed Bomb,Physical,grass,80,100,The user slams a barrage of hard- shelled seeds down on the foe from above.
+Seismic Toss,Physical,fighting,--,100,The foe is thrown using the power of gravity. It inflicts damage equal to the user's level.
+Selfdestruct,Physical,normal,200,100,The user blows up to inflict damage on all Pok�mon in battle. The user faints upon using this move.
+Shadow Claw,Physical,ghost,70,100,The user slashes with a sharp claw made from shadows. It has a high critical-hit ratio.
+Shadow Force,Physical,ghost,120,100,The user disappears then strikes the foe on the second turn. It hits even if the foe protects itself.
+Shadow Punch,Physical,ghost,60,--,The user throws a punch at the foe from the shadows. The punch lands without fail.
+Shadow Sneak,Physical,ghost,40,100,The user extends its shadow and attacks the foe from behind. This move always goes first.
+Skull Bash,Physical,normal,100,100,The user tucks in its head to raise its Defense in the first turn then rams the foe on the next turn.
+Sky Attack,Physical,flying,140,90,A second-turn attack move with a high critical-hit ratio. It may also make the target flinch.
+Sky Uppercut,Physical,fighting,85,90,The user attacks the foe with an uppercut thrown skyward with force. 
+Slam,Physical,normal,80,75,The foe is slammed with a long tail vines etc. to inflict damage. 
+Slash,Physical,normal,70,100,The foe is attacked with a slash of claws etc. It has a high critical-hit ratio.
+Smellingsalt,Physical,normal,60,100,This attack inflicts double damage on a paralyzed foe. It also cures the foe's paralysis however.
+Spark,Physical,electric,65,100,The user throws an electrically charged tackle at the foe. It may also leave the target paralyzed.
+Spike Cannon,Physical,normal,20,100,Sharp spikes are fired at the foe to strike two to five times in rapid succession.
+Steel Wing,Physical,steel,70,90,The foe is hit with wings of steel. It may also raise the user's Defense stat. 
+Stomp,Physical,normal,65,100,The foe is stomped with a big foot. It may also make the target flinch. 
+Stone Edge,Physical,rock,100,80,The user stabs the foe with a sharpened stone. It has a high critical-hit ratio. 
+Strength,Physical,normal,80,100,The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.
+Struggle,Physical,normal,50,--,An attack that is used in desperation only if the user has no PP. It also hurts the user slightly.
+Submission,Physical,fighting,80,80,The user grabs the foe and recklessly dives for the ground. It also hurts the user slightly.
+Sucker Punch,Physical,dark,80,100,This move enables the user to attack first. It fails if the foe is not readying an attack however.
+Super Fang,Physical,normal,--,90,The user chomps hard on the foe with its sharp front fangs. It cuts the target's HP to half.
+Superpower,Physical,fighting,120,100,The user attacks the foe with great power. However it also lowers the user's Attack and Defense.
+Tackle,Physical,normal,35,95,A physical attack in which the user charges and slams into the foe with its whole body.
+Take Down,Physical,normal,90,85,A reckless full-body charge attack for slamming into the foe. It also damages the user a little.
+Thief,Physical,dark,40,100,The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.
+Thrash,Physical,normal,90,100,The user rampages and attacks for two to three turns. It then becomes confused however.
+Thunder Fang,Physical,electric,65,95,The user bites with electrified fangs. It may also make the foe flinch or become paralyzed.
+Thunderpunch,Physical,electric,75,100,The foe is punched with an electrified fist. It may leave the target with paralysis.
+Triple Kick,Physical,fighting,10,90,A consecutive three- kick attack that becomes more powerful with each successive hit.
+Twineedle,Physical,bug,25,100,The foe is stabbed twice by a pair of stingers. It may also poison the target.
+U-turn,Physical,bug,70,100,After making its attack the user rushes back to switch places with a party Pok�mon in waiting.
+Vicegrip,Physical,normal,55,100,Huge impressive pincers grip and squeeze the foe. 
+Vine Whip,Physical,grass,35,100,The foe is struck with slender whiplike vines to inflict damage. 
+Vital Throw,Physical,fighting,70,--,The user allows the foe to attack first. In return this throw move is guaranteed not to miss.
+Volt Tackle,Physical,electric,120,100,The user electrifies itself then charges at the foe. It causes considerable damage to the user as well.
+Wake-up Slap,Physical,fighting,60,100,This attack inflicts high damage on a sleeping foe. It also wakes the foe up however.
+Waterfall,Physical,water,80,100,The user charges at the foe rapidly and may make it flinch. It can also be used to climb a waterfall.
+Wing Attack,Physical,flying,60,100,The foe is struck with large imposing wings spread wide to inflict damage. 
+Wood Hammer,Physical,grass,120,100,The user slams its rugged body into the foe to attack. The user also sustains serious damage.
+Wrap,Physical,normal,15,85,A long body or vines are used to wrap and squeeze the foe for two to five turns. 
+X-scissor,Physical,bug,80,100,The user slashes at the foe by crossing its scythes or claws as if they were a pair of scissors.
+Zen Headbutt,Physical,psychic,80,90,The user focuses its willpower to its head and rams the foe. It may also make the target flinch.
+Absorb,Special,grass,20,100,A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.
+Acid,Special,poison,40,100,The foe is attacked with a spray of harsh acid. It may also lower the target's Sp. Def stat.
+Aeroblast,Special,flying,100,95,A vortex of air is shot at the foe to inflict damage. It has a high critical-hit ratio.
+Air Cutter,Special,flying,55,95,The user launches razorlike wind to slash the foe. It has a high critical-hit ratio.
+Air Slash,Special,flying,75,95,The user attacks with a blade of air that slices even the sky. It may also make the target flinch.
+Ancientpower,Special,rock,60,100,The user attacks with a prehistoric power. It may also raise all the user's stats at once.
+Aura Sphere,Special,fighting,90,--,The user looses a blast of aura power from deep within its body. This move is certain to hit.
+Aurora Beam,Special,ice,65,100,The foe is hit with a rainbow-colored beam. It may also lower the target's Attack stat.
+Blast Burn,Special,fire,150,90,The foe is razed by a fiery explosion. The user must rest on the next turn however.
+Blizzard,Special,ice,120,70,A howling blizzard is summoned to strike the foe. It may also freeze the target solid.
+Brine,Special,water,65,100,If the foe's HP is down to about half this attack will hit with double the power.
+Bubble,Special,water,20,100,A spray of countless bubbles is jetted at the foe. It may also lower the target's Speed stat.
+Bubblebeam,Special,water,65,100,A spray of bubbles is forcefully ejected at the foe. It may also lower the target's Speed stat.
+Bug Buzz,Special,bug,90,100,The user vibrates its wings to generate a damaging sound wave. It may also lower the foe's Sp. Def stat.
+Charge Beam,Special,electric,50,90,The user fires a concentrated bundle of electricity. It may also raise the user's Sp. Atk stat.
+Chatter,Special,flying,60,100,The user attacks using a sound wave based on words it has learned. It may also confuse the foe.
+Confusion,Special,psychic,50,100,The foe is hit by a weak telekinetic force. It may also leave the foe confused.
+Dark Pulse,Special,dark,80,100,The user releases a horrible aura imbued with dark thoughts. It may also make the target flinch.
+Discharge,Special,electric,80,100,A flare of electricity is loosed to strike all Pok�mon in battle. It may also cause paralysis.
+Doom Desire,Special,steel,120,85,Two turns after this move is used the user blasts the foe with a concentrated bundle of light.
+Draco Meteor,Special,dragon,140,90,Comets are summoned down from the sky. The attack's recoil sharply reduces the user's Sp. Atk stat.
+Dragon Pulse,Special,dragon,90,100,The foe is attacked with a shock wave generated by the user's gaping mouth. 
+Dragon Rage,Special,dragon,--,100,The foe is stricken by a shock wave. This attack always inflicts 40 HP damage.
+Dragonbreath,Special,dragon,60,100,The user exhales a mighty gust that inflicts damage. It may also paralyze the target.
+Dream Eater,Special,psychic,100,100,An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user's HP.
+Earth Power,Special,ground,90,100,The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def.
+Ember,Special,fire,40,100,The foe is attacked with small flames. The target may also be left with a burn. 
+Energy Ball,Special,grass,80,100,The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.
+Eruption,Special,fire,150,100,The user attacks in an explosive fury. The lower the user's HP the less powerful this attack becomes.
+Extrasensory,Special,psychic,80,100,The user attacks with an odd unseeable power. It may also make the foe flinch.
+Fire Blast,Special,fire,120,85,The foe is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn.
+Fire Spin,Special,fire,15,70,The foe becomes trapped within a fierce vortex of fire that rages for two to five turns.
+Flamethrower,Special,fire,95,100,The foe is scorched with an intense blast of fire. The target may also be left with a burn.
+Flash Cannon,Special,steel,80,100,The user gathers all its light energy and releases it at once. It may also lower the foe's Sp. Def stat.
+Focus Blast,Special,fighting,120,70,The user heightens its mental focus and unleashes its power. It may also lower the target's Sp. Def.
+Frenzy Plant,Special,grass,150,90,The foe is slammed with an enormous tree. The user can't move on the next turn.
+Future Sight,Special,psychic,80,90,Two turns after this move is used the foe is attacked with a hunk of psychic energy.
+Giga Drain,Special,grass,60,100,A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.
+Grass Knot,Special,grass,--,100,The user snares the foe with grass and trips it. The heavier the foe the greater the damage.
+Gust,Special,flying,40,100,A gust of wind is whipped up by wings and launched at the foe to inflict damage. 
+Heat Wave,Special,fire,100,90,The user exhales a heated breath on the foe to attack. It may also leave the target with a burn.
+Hidden Power,Special,normal,--,100,A unique attack that varies in type and intensity depending on the Pok�mon using it.
+Hydro Cannon,Special,water,150,90,The foe is hit with a watery blast. The user must rest on the next turn however.
+Hydro Pump,Special,water,120,80,The foe is blasted by a huge volume of water launched under great pressure. 
+Hyper Beam,Special,normal,150,90,The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.
+Hyper Voice,Special,normal,90,100,The user lets loose a horribly echoing shout with the power to inflict damage.
+Ice Beam,Special,ice,95,100,The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.
+Icy Wind,Special,ice,55,95,The user attacks with a gust of chilled air. It also lowers the target's Speed stat. 
+Judgment,Special,normal,100,100,The user releases countless shots of light. Its type varies with the kind of Plate the user is holding.
+Lava Plume,Special,fire,80,100,An inferno of scarlet flames washes over all Pok�mon in battle. It may also inflict burns.
+Leaf Storm,Special,grass,140,90,A storm of sharp leaves is whipped up. The attack's recoil sharply reduces the user's Sp. Atk stat.
+Luster Purge,Special,psychic,70,100,The user looses a damaging burst of light. It may also reduce the target's Sp. Def stat.
+Magical Leaf,Special,grass,60,--,The user scatters curious leaves that chase the foe. This attack will not miss.
+Magma Storm,Special,fire,120,70,The foe becomes trapped within a maelstrom of fire that rages for two to five turns.
+Mega Drain,Special,grass,40,100,A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.
+Mirror Coat,Special,psychic,--,100,A retaliation move that counters any special attack inflicting double the damage taken.
+Mirror Shot,Special,steel,65,85,The user looses a flash of energy from its polished body. It may also lower the target's accuracy.
+Mist Ball,Special,psychic,70,100,A mistlike flurry of down envelops and damages the foe. It may also lower the target's Sp. Atk.
+Mud Bomb,Special,ground,65,85,The user launches a hard-packed mud ball to attack. It may also lower the target's accuracy.
+Mud Shot,Special,ground,55,95,The user attacks by hurling a blob of mud at the foe. It also reduces the target's Speed.
+Mud-slap,Special,ground,20,100,The user hurls mud in the foe's face to inflict damage and lower its accuracy. 
+Muddy Water,Special,water,95,85,The user attacks by shooting out muddy water. It may also lower the foe's accuracy.
+Night Shade,Special,ghost,--,100,The user makes the foe see a mirage. It inflicts damage matching the user's level.
+Octazooka,Special,water,65,85,The user attacks by spraying ink in the foe's face or eyes. It may also lower the target's accuracy.
+Ominous Wind,Special,ghost,60,100,The user creates a gust of repulsive wind. It may also raise all the user's stats at once.
+Overheat,Special,fire,140,90,The user attacks the foe at full power. The attack's recoil sharply reduces the user's Sp. Atk stat.
+Petal Dance,Special,grass,90,100,The user attacks by scattering petals for two to three turns. The user then becomes confused.
+Powder Snow,Special,ice,40,100,The user attacks with a chilling gust of powdery snow. It may also freeze the target.
+Power Gem,Special,rock,70,100,The user attacks with a ray of light that sparkles as if it were made of gemstones. 
+Psybeam,Special,psychic,65,100,The foe is attacked with a peculiar ray. It may also leave the target confused. 
+Psychic,Special,psychic,90,100,The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.
+Psycho Boost,Special,psychic,140,90,The user attacks the foe at full power. The attack's recoil sharply reduces the user's Sp. Atk stat.
+Psywave,Special,psychic,--,80,The foe is attacked with an odd hot energy wave. The attack varies in intensity.
+Razor Wind,Special,normal,80,100,A two-turn attack. Blades of wind hit the foe on the second turn. It has a high critical-hit ratio.
+Roar Of Time,Special,dragon,150,90,The user blasts the foe with power that distorts even time. The user must rest on the next turn.
+Seed Flare,Special,grass,120,85,The user generates a shock wave from within its body. It may also lower the target's Sp. Def.
+Shadow Ball,Special,ghost,80,100,The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.
+Sheer Cold,Special,ice,--,30,The foe is attacked with a blast of absolute-zero cold. The foe instantly faints if it hits.
+Shock Wave,Special,electric,60,--,The user strikes the foe with a quick jolt of electricity. This attack cannot be evaded.
+Signal Beam,Special,bug,75,100,The user attacks with a sinister beam of light. It may also confuse the target. 
+Silver Wind,Special,bug,60,100,The foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.
+Sludge,Special,poison,65,100,Unsanitary sludge is hurled at the foe. It may also poison the target. 
+Sludge Bomb,Special,poison,90,100,The user attacks by hurling filthy sludge at the foe. It may also poison the target.
+Smog,Special,poison,20,70,The foe is attacked with a discharge of filthy gases. It may also poison the target.
+Snore,Special,normal,40,100,An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.
+Solarbeam,Special,grass,120,100,A two-turn attack. The user gathers light then blasts a bundled beam on the second turn.
+Sonicboom,Special,normal,--,90,The foe is hit with a destructive shock wave that always inflicts 20 HP damage. 
+Spacial Rend,Special,dragon,100,95,The user tears the foe along with the space around it. This move has a high critical-hit ratio.
+Spit Up,Special,normal,--,100,The power stored using the move Stockpile is released at once in an attack. 
+Surf,Special,water,95,100,It swamps the entire battlefield with a giant wave. It can also be used for crossing water.
+Swift,Special,normal,60,--,Star-shaped rays are shot at the foe. This attack never misses. 
+Thunder,Special,electric,120,70,A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.
+Thunderbolt,Special,electric,95,100,A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.
+Thundershock,Special,electric,40,100,A jolt of electricity is hurled at the foe to inflict damage. It may also leave the foe paralyzed.
+Tri Attack,Special,normal,80,100,The user strikes with a simultaneous three- beam attack. May also paralyze burn or freeze the target.
+Trump Card,Special,normal,--,--,The fewer PP this move has the more power it has for attack. 
+Twister,Special,dragon,40,100,The user whips up a vicious tornado to tear at the foe. It may also make the foe flinch.
+Uproar,Special,normal,50,100,The user attacks in an uproar for two to five turns. Over that time no one can fall asleep.
+Vacuum Wave,Special,fighting,40,100,The user whirls its fists to send a wave of pure vacuum at the foe. This move always goes first.
+Water Gun,Special,water,40,100,The foe is blasted with a forceful shot of water. 
+Water Pulse,Special,water,60,100,The user attacks the foe with a pulsing blast of water. It may also confuse the foe.
+Water Spout,Special,water,150,100,The user spouts water to damage the foe. The lower the user's HP the less powerful it becomes.
+Weather Ball,Special,normal,50,100,An attack move that varies in power and type depending on the weather. 
+Whirlpool,Special,water,15,70,Traps the foe inside a whirlpool that lasts for two to five turns. The user can pass through whirlpools.
+Wring Out,Special,normal,--,100,The user powerfully wrings the foe. The more HP the foe has the greater this attack's power.
+Zap Cannon,Special,electric,120,50,The user fires an electric blast like a cannon to inflict damage and cause paralysis.
+Acid Armor,Status,poison,--,--,The user alters its cellular structure to liquefy itself sharply raising its Defense stat.
+Acupressure,Status,normal,--,--,The user applies pressure to stress points sharply boosting one of its stats.
+Agility,Status,psychic,--,--,The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.
+Amnesia,Status,psychic,--,--,The user temporarily empties its mind to forget its concerns. It sharply raises the user's Sp. Def stat.
+Aqua Ring,Status,water,--,--,The user envelops itself in a veil made of water. It regains some HP on every turn.
+Aromatherapy,Status,grass,--,--,The user releases a soothing scent that heals all status problems affecting the user's party.
+Assist,Status,normal,--,--,The user hurriedly and randomly uses a move among those known by other Pok�mon in the party.
+Attract,Status,normal,--,100,If it is the opposite gender of the user the foe becomes infatuated and less likely to attack.
+Barrier,Status,psychic,--,--,The user throws up a sturdy wall that sharply raises its Defense stat. 
+Baton Pass,Status,normal,--,--,The user switches places with a party Pok�mon in waiting passing along any stat changes.
+Belly Drum,Status,normal,--,--,The user maximizes its Attack stat in exchange for HP equal to half its max HP.
+Block,Status,normal,--,--,The user blocks the foe's way with arms spread wide to prevent escape. 
+Bulk Up,Status,fighting,--,--,The user tenses its muscles to bulk up its body boosting both its Attack and Defense stats.
+Calm Mind,Status,psychic,--,--,The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats.
+Camouflage,Status,normal,--,--,The user's type is changed depending on its environment such as at water's edge in grass or in a cave.
+Captivate,Status,normal,--,100,If it is the opposite gender of the user the foe is charmed into sharply lowering its Sp. Atk stat.
+Charge,Status,electric,--,--,The user boosts the power of the Electric move it uses next. It also raises the user's Sp. Def stat.
+Charm,Status,normal,--,100,The user charmingly stares at the foe making it less wary. The target's Attack is sharply lowered.
+Confuse Ray,Status,ghost,--,100,The foe is exposed to a sinister ray that triggers confusion. 
+Conversion,Status,normal,--,--,The user changes its type to become the same type as one of its moves. 
+Conversion 2,Status,normal,--,--,The user changes its type to make itself resistant to the type of the attack it last took.
+Copycat,Status,normal,--,--,The user mimics the move used immediately before it. The move fails if no other move has been used yet.
+Cosmic Power,Status,psychic,--,--,The user absorbs a mystical power from space to raise its Defense and Sp. Def stats.
+Cotton Spore,Status,grass,--,85,The user releases cottonlike spores that cling to the foe sharply reducing its Speed stat.
+Curse,Status,ghost,--,--,A move that works differently for the Ghost type than for all the other types.
+Dark Void,Status,dark,--,80,The foe is dragged into a world of total darkness that puts it to sleep. 
+Defend Order,Status,bug,--,--,The user calls out its underlings to shield its body raising its Defense and Sp. Def stats.
+Defense Curl,Status,normal,--,--,The user curls up to conceal weak spots and raise its Defense stat. 
+Defog,Status,flying,--,--,It reduces the foe's evasion stat. It also removes spikes light screens etc.
+Destiny Bond,Status,ghost,--,--,When this move is used if the user faints the foe that landed the knockout hit also faints.
+Detect,Status,fighting,--,--,It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.
+Disable,Status,normal,--,80,For several turns this move prevents the foe from using the move it last used.
+Double Team,Status,normal,--,--,By moving rapidly the user makes illusory copies of itself to raise its evasiveness. 
+Dragon Dance,Status,dragon,--,--,The user vigorously performs a mystic powerful dance that boosts its Attack and Speed stats.
+Embargo,Status,dark,--,100,It prevents the foe from using its held item. Its Trainer is also prevented from using items on it.
+Encore,Status,normal,--,100,The user compels the foe to keep using only the move it last used for three to seven turns.
+Endure,Status,normal,--,--,The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.
+Fake Tears,Status,dark,--,100,The user feigns crying to make the foe feel flustered sharply lowering its Sp. Def stat.
+Featherdance,Status,flying,--,100,The user covers the foe with a mass of down that sharply lowers the Attack stat.
+Flash,Status,normal,--,100,The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.
+Flatter,Status,dark,--,100,Flattery is used to confuse the foe. However it also raises the target's Sp. Atk stat.
+Focus Energy,Status,normal,--,--,The user takes a deep breath and focuses to raise the critical-hit ratio of its attacks.
+Follow Me,Status,normal,--,--,The user draws attention to itself making all foes take aim only at the user. 
+Foresight,Status,normal,--,--,Enables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.
+Gastro Acid,Status,poison,--,100,The user hurls up its stomach acids on the foe. The fluid eliminates the effect of the foe's ability.
+Glare,Status,normal,--,75,The user intimidates the foe with the pattern on its belly to cause paralysis. 
+Grasswhistle,Status,grass,--,55,The user plays a pleasant melody that lulls the foe into a deep sleep. 
+Gravity,Status,psychic,--,--,Gravity is intensified for five turns making moves involving flying unusable and negating Levitation.
+Growl,Status,normal,--,100,The user growls in an endearing way making the foe less wary. The target's Attack stat is lowered.
+Growth,Status,normal,--,--,The user's body is forced to grow all at once. It raises the Sp. Atk stat. 
+Grudge,Status,ghost,--,--,If the user faints the user's grudge fully depletes the PP of the foe's move that knocked it out.
+Guard Swap,Status,psychic,--,--,The user employs its psychic power to switch changes to its Defense and Sp. Def with the foe.
+Hail,Status,ice,--,--,The user summons a hailstorm lasting five turns. It damages all Pok�mon except the Ice type.
+Harden,Status,normal,--,--,The user stiffens all the muscles in its body to raise its Defense stat. 
+Haze,Status,ice,--,--,The user creates a haze that eliminates every stat change among all the Pok�mon engaged in battle.
+Heal Bell,Status,normal,--,--,The user makes a soothing bell chime to heal the status problems of all the party Pok�mon.
+Heal Block,Status,psychic,--,100,The user prevents the foe from using any HP-recovery moves for five turns. 
+Heal Order,Status,bug,--,--,The user calls out its underlings to heal it. The user regains up to half of its max HP.
+Healing Wish,Status,psychic,--,--,The user faints. In return the Pok�mon taking its place will have its HP restored and status cured.
+Heart Swap,Status,psychic,--,--,The user employs its psychic power to switch stat changes with the foe. 
+Helping Hand,Status,normal,--,--,A move that boosts the power of the ally's attack in a Double Battle. 
+Howl,Status,normal,--,--,The user howls loudly to raise its spirit boosting its Attack stat. 
+Hypnosis,Status,psychic,--,70,The user employs hypnotic suggestion to make the target fall into a deep sleep.
+Imprison,Status,psychic,--,--,If the foe knows any move also known by the user the foe is prevented from using it.
+Ingrain,Status,grass,--,--,The user lays roots that restore HP on every turn. Because it is rooted it can't switch out.
+Iron Defense,Status,steel,--,--,The user hardens its body's surface like iron sharply raising its Defense stat.
+Kinesis,Status,psychic,--,80,The user distracts the foe by bending a spoon. It may lower the target's accuracy.
+Leech Seed,Status,grass,--,90,A seed is planted on the foe. It steals some HP from the foe to heal the user on every turn.
+Leer,Status,normal,--,100,The foe is given an intimidating leer with sharp eyes. The target's Defense stat is reduced.
+Light Screen,Status,psychic,--,--,A wondrous wall of light is put up to suppress damage from special attacks for five turns.
+Lock-on,Status,normal,--,--,The user takes sure aim at the foe. It ensures the next attack does not fail to hit the target.
+Lovely Kiss,Status,normal,--,75,With a scary face the user tries to force a kiss on the foe. If it succeeds the target falls asleep.
+Lucky Chant,Status,normal,--,--,The user chants an incantation toward the sky preventing the foe from landing critical hits.
+Lunar Dance,Status,psychic,--,--,The user faints. In return the Pok�mon taking its place will have its status and HP fully restored.
+Magic Coat,Status,psychic,--,--,A barrier reflects back to the foe moves like Leech Seed and moves that damage status.
+Magnet Rise,Status,electric,--,--,The user levitates using electrically generated magnetism for five turns. 
+Me First,Status,normal,--,--,The user tries to cut ahead of the foe to steal and use the foe's intended move with greater power.
+Mean Look,Status,normal,--,--,The user affixes the foe with a dark arresting look. The target becomes unable to flee.
+Meditate,Status,psychic,--,--,The user meditates to awaken the power deep within its body and raise its Attack stat.
+Memento,Status,dark,--,100,The user faints upon using this move. In return it sharply lowers the target's Attack and Sp. Atk.
+Metal Sound,Status,steel,--,85,A horrible sound like scraping metal is emitted to sharply reduce the foe's Sp. Def stat.
+Metronome,Status,normal,--,--,The user waggles a finger and stimulates the brain into randomly using nearly any move.
+Milk Drink,Status,normal,--,--,The user restores its own HP by up to half of its maximum HP. It may also be used to heal an ally's HP.
+Mimic,Status,normal,--,--,The user copies the move last used by the foe. The move can be used for the rest of the battle.
+Mind Reader,Status,normal,--,--,The user senses the foe's movements with its mind to ensure its next attack does not miss.
+Minimize,Status,normal,--,--,The user compresses its body to make itself look smaller. The user's evasion stat is boosted.
+Miracle Eye,Status,psychic,--,--,Enables the user to hit a Dark type with any type of move. It also enables the user to hit an evasive foe.
+Mirror Move,Status,flying,--,--,The user counters the foe by mimicking the move last used by the foe.
+Mist,Status,ice,--,--,The user cloaks its body with a white mist that prevents any of its stats from being cut for five turns.
+Moonlight,Status,normal,--,--,The user restores its own HP. The amount of HP regained varies with the weather.
+Morning Sun,Status,normal,--,--,The user restores its own HP. The amount of HP regained varies with the weather.
+Mud Sport,Status,ground,--,--,The user covers itself with mud. It weakens Electric- type moves while the user is in the battle.
+Nasty Plot,Status,dark,--,--,The user stimulates its brain by thinking bad thoughts. It sharply raises the user's Sp. Atk.
+Nature Power,Status,normal,--,--,An attack that makes use of nature's power. Its effects vary depending on the user's environment.
+Nightmare,Status,ghost,--,100,A sleeping foe is shown a nightmare that inflicts some damage every turn. 
+Odor Sleuth,Status,normal,--,--,Enables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.
+Pain Split,Status,normal,--,--,The user adds its HP to the foe's HP then equally shares the combined HP with the foe.
+Perish Song,Status,normal,--,--,Any Pok�mon that hears this song faints in three turns unless it switches out of battle.
+Poison Gas,Status,poison,--,55,A cloud of poison gas is sprayed in the foe's face. It may poison the target.
+Poisonpowder,Status,poison,--,75,A cloud of poisonous dust is scattered on the foe. It may poison the target.
+Power Swap,Status,psychic,--,--,The user employs its psychic power to switch changes to its Attack and Sp. Atk with the foe.
+Power Trick,Status,psychic,--,--,The user employs its psychic power to switch its Attack with its Defense stat.
+Protect,Status,normal,--,--,It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.
+Psych Up,Status,normal,--,--,The user hypnotizes itself into copying any stat change made by the foe. 
+Psycho Shift,Status,psychic,--,90,Using its psychic power of suggestion the user transfers its status problems to the target.
+Rain Dance,Status,water,--,--,The user summons a heavy rain that falls for five turns powering up Water- type moves.
+Recover,Status,normal,--,--,A self-healing move. The user restores its own HP by up to half of its max HP. 
+Recycle,Status,normal,--,--,The user recycles a held item that has been used in battle so it can be used again.
+Reflect,Status,psychic,--,--,A wondrous wall of light is put up to suppress damage from physical attacks for five turns.
+Refresh,Status,normal,--,--,The user rests to cure itself of a poisoning burn or paralysis. 
+Rest,Status,psychic,--,--,The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.
+Roar,Status,normal,--,100,The foe is scared off to be replaced by another Pok�mon in its party. In the wild the battle ends.
+Rock Polish,Status,rock,--,--,The user polishes its body to reduce drag. It can sharply raise the Speed stat. 
+Role Play,Status,psychic,--,--,The user mimics the foe completely copying the foe's natural ability. 
+Roost,Status,flying,--,--,The user lands and rests its body. It restores the user's HP by up to half of its max HP.
+Safeguard,Status,normal,--,--,The user creates a protective field that prevents status problems for five turns.
+Sand-attack,Status,ground,--,100,Sand is hurled in the foe's face reducing its accuracy. 
+Sandstorm,Status,rock,--,--,A five-turn sand- storm is summoned to hurt all combatant types except Rock Ground and Steel.
+Scary Face,Status,normal,--,90,The user frightens the foe with a scary face to sharply reduce its Speed stat.
+Screech,Status,normal,--,85,An earsplitting screech is emitted to sharply reduce the foe's Defense stat. 
+Sharpen,Status,normal,--,--,The user reduces its polygon count to make itself more jagged raising the Attack stat.
+Sing,Status,normal,--,55,A soothing lullaby is sung in a calming voice that puts the foe into a deep slumber.
+Sketch,Status,normal,--,--,It enables the user to permanently learn the move last used by the foe. Once used Sketch disappears.
+Skill Swap,Status,psychic,--,--,The user employs its psychic power to exchange abilities with the foe. 
+Slack Off,Status,normal,--,--,The user slacks off restoring its own HP by up to half of its maximum HP. 
+Sleep Powder,Status,grass,--,75,The user scatters a big cloud of sleep- inducing dust around the foe. 
+Sleep Talk,Status,normal,--,--,While it is asleep the user randomly uses one of the moves it knows. 
+Smokescreen,Status,normal,--,100,The user releases an obscuring cloud of smoke or ink. It reduces the foe's accuracy.
+Snatch,Status,dark,--,--,The user steals the effects of any healing or stat- changing move the foe attempts to use.
+Softboiled,Status,normal,--,--,The user restores its own HP by up to half of its maximum HP. It may also be used to heal an ally's HP.
+Spider Web,Status,bug,--,--,The user ensnares the foe with a thin gooey silk so it can't flee from battle. 
+Spikes,Status,ground,--,--,The user lays a trap of spikes at the foe's feet. The trap hurts foes that switch into battle.
+Spite,Status,ghost,--,100,The user looses its grudge on the move last used by the foe by cutting 4 PP from it.
+Splash,Status,normal,--,--,The user just flops and splashes around to no effect at all... 
+Spore,Status,grass,--,100,The user scatters bursts of spores that induce sleep. 
+Stealth Rock,Status,rock,--,--,The user lays a trap of levitating stones around the foe. The trap hurts foes that switch into battle.
+Stockpile,Status,normal,--,--,The user charges up power and raises both its Defense and Sp. Def. The move can be used three times.
+String Shot,Status,bug,--,95,The foe is bound with silk blown from the user's mouth. It reduces the target's Speed stat.
+Stun Spore,Status,grass,--,75,The user scatters a cloud of paralyzing powder. It may paralyze the target.
+Substitute,Status,normal,--,--,The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.
+Sunny Day,Status,fire,--,--,The user intensifies the sun for five turns powering up Fire-type moves. 
+Supersonic,Status,normal,--,55,The user generates odd sound waves from its body. It may confuse the target.
+Swagger,Status,normal,--,90,The user enrages the foe into confusion. However it also sharply raises the foe's Attack stat.
+Swallow,Status,normal,--,--,The power stored using the move Stockpile is absorbed by the user to heal its HP.
+Sweet Kiss,Status,normal,--,75,The user kisses the foe with a sweet angelic cuteness that causes confusion. 
+Sweet Scent,Status,normal,--,100,A sweet scent that lowers the foe's evasiveness. It also lures wild Pok�mon if used in grass etc.
+Switcheroo,Status,dark,--,100,The user trades held items with the foe faster than the eye can follow. 
+Swords Dance,Status,normal,--,--,A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.
+Synthesis,Status,grass,--,--,The user restores its own HP. The amount of HP regained varies with the weather.
+Tail Glow,Status,bug,--,--,The user stares at flashing lights to focus its mind sharply raising its Sp. Atk stat.
+Tail Whip,Status,normal,--,100,The user wags its tail cutely making the foe less wary. The target's Defense stat is lowered.
+Tailwind,Status,flying,--,--,The user whips up a turbulent whirlwind that ups the Speed of all party Pok�mon for three turns.
+Taunt,Status,dark,--,100,The foe is taunted into a rage that allows it to use only attack moves for two to four turns.
+Teeter Dance,Status,normal,--,100,The user performs a wobbly dance that confuses all the Pok�mon in battle. 
+Teleport,Status,psychic,--,--,Use it to flee from any wild Pok�mon. It can also warp to the last Pok�mon Center visited.
+Thunder Wave,Status,electric,--,100,A weak electric charge is launched at the foe. It causes paralysis if it hits.
+Tickle,Status,normal,--,100,The user tickles the foe into laughing reducing its Attack and Defense stats. 
+Torment,Status,dark,--,100,The user torments and enrages the foe making it incapable of using the same move twice in a row.
+Toxic,Status,poison,--,85,A move that leaves the target badly poisoned. Its poison damage worsens every turn.
+Toxic Spikes,Status,poison,--,--,The user lays a trap of poison spikes at the foe's feet. They poison foes that switch into battle.
+Transform,Status,normal,--,--,The user transforms into a copy of the foe right down to having the same move set.
+Trick,Status,psychic,--,100,The user catches the foe off guard and swaps the foe's held item with its own. 
+Trick Room,Status,psychic,--,--,The user creates a bizarre area in which slower Pok�mon get to move first for five turns.
+Water Sport,Status,water,--,--,The user soaks itself with water. The move weakens Fire-type moves while the user is in the battle.
+Whirlwind,Status,normal,--,100,The foe is blown away to be replaced by another Pok�mon in its party. In the wild the battle ends.
+Will-o-wisp,Status,fire,--,75,The user shoots a sinister bluish white flame at the foe to inflict a burn. 
+Wish,Status,normal,--,--,A self-healing move. The user restores its own HP by up to half of its maximum HP in the next turn.
+Withdraw,Status,water,--,--,The user withdraws its body into its hard shell raising its Defense stat. 
+Worry Seed,Status,grass,--,100,A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.
+Yawn,Status,normal,--,--,The user lets loose a huge yawn that lulls the foe into falling asleep on the next turn.

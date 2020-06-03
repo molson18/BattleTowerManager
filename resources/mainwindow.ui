@@ -6,35 +6,63 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>800</width>
-    <height>600</height>
+    <width>1920</width>
+    <height>1080</height>
    </rect>
   </property>
   <property name="windowTitle">
    <string>MainWindow</string>
   </property>
   <widget class="QWidget" name="centralwidget">
-   <widget class="QWidget" name="verticalLayoutWidget">
+   <widget class="Member" name="member1" native="true">
     <property name="geometry">
      <rect>
-      <x>240</x>
-      <y>370</y>
-      <width>160</width>
-      <height>80</height>
+      <x>0</x>
+      <y>0</y>
+      <width>768</width>
+      <height>346</height>
      </rect>
     </property>
-    <layout class="QVBoxLayout" name="verticalLayout">
-     <item>
-      <widget class="QLabel" name="label">
-       <property name="text">
-        <string>Hello Qt!</string>
-       </property>
-       <property name="alignment">
-        <set>Qt::AlignCenter</set>
-       </property>
-      </widget>
-     </item>
-    </layout>
+   </widget>
+   <widget class="Member" name="member2" native="true">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>346</y>
+      <width>640</width>
+      <height>346</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="Member" name="member3" native="true">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>692</y>
+      <width>640</width>
+      <height>346</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="Move" name="moveTest" native="true">
+    <property name="geometry">
+     <rect>
+      <x>870</x>
+      <y>350</y>
+      <width>831</width>
+      <height>331</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QWidget" name="trainerSelect" native="true">
+    <property name="geometry">
+     <rect>
+      <x>1470</x>
+      <y>0</y>
+      <width>450</width>
+      <height>1039</height>
+     </rect>
+    </property>
    </widget>
   </widget>
   <widget class="QMenuBar" name="menubar">
@@ -42,13 +70,51 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>800</width>
-     <height>22</height>
+     <width>1920</width>
+     <height>21</height>
     </rect>
    </property>
+   <widget class="QMenu" name="menuFile">
+    <property name="title">
+     <string>File</string>
+    </property>
+    <addaction name="actionOpen"/>
+   </widget>
+   <widget class="QMenu" name="menuTeams">
+    <property name="title">
+     <string>Teams</string>
+    </property>
+    <addaction name="actionAdd_Team"/>
+   </widget>
+   <addaction name="menuFile"/>
+   <addaction name="menuTeams"/>
   </widget>
   <widget class="QStatusBar" name="statusbar"/>
+  <action name="actionOpen">
+   <property name="text">
+    <string>Open</string>
+   </property>
+  </action>
+  <action name="actionAdd_Team">
+   <property name="text">
+    <string>Add Team</string>
+   </property>
+  </action>
  </widget>
+ <customwidgets>
+  <customwidget>
+   <class>Move</class>
+   <extends>QWidget</extends>
+   <header location="global">../resources/move.h</header>
+   <container>1</container>
+  </customwidget>
+  <customwidget>
+   <class>Member</class>
+   <extends>QWidget</extends>
+   <header location="global">../resources/Member.h</header>
+   <container>1</container>
+  </customwidget>
+ </customwidgets>
  <resources/>
  <connections/>
 </ui>

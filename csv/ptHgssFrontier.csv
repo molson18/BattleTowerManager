@@ -1,0 +1,950 @@
+0,Bulbasaur,Bright Powder,Magical Leaf,Toxic,Leech Seed,Sweet Scent
+1,Charmander,Scope Lens,Fire Fang,Metal Claw,SmokeScreen,Scary Face
+2,Squirtle,Sea Incense,Aqua Jet,Bite,Withdraw,Protect
+3,Butterfree,Pecha Berry,Silver Wind,Air Cutter,Psybeam,Tailwind
+4,Beedrill,Scope Lens,Twineedle,Toxic,Assurance,Agility
+5,Pidgeotto,Rawst Berry,Wing Attack,Quick Attack,Feather Dance,Mirror Move
+6,Pikachu,Sitrus Berry,Thunder Shock,Swift,Thunder Wave,Double Team
+7,Sandshrew,Soft Sand,Dig,Rock Tomb,Sandstorm,Sand Attack
+8,Nidorina,Poison Barb,Poison Fang,Double Kick,Bite,Flatter
+9,Nidorino,Focus Band,Toxic,Double Kick,Facade,Flatter
+10,Clefairy,Bright Powder,Wake-Up Slap,Follow Me,Encore,Sing
+11,Vulpix,Bright Powder,Ember,Swift,Will-O-Wisp,Confuse Ray
+12,Oddish,Rose Incense,Mega Drain,Acid,Sweet Scent,Moonlight
+13,Gloom,Miracle Seed,Mega Drain,Acid,Stun Spore,Moonlight
+14,Parasect,Aspear Berry,Bug Bite,Grass Knot,Scratch,Stun Spore
+15,Venonat,SilverPowder,Bug Bite,Poison Powder,Psybeam,Supersonic
+16,Psyduck,Chesto Berry,Water Gun,Confusion,Water Sport,Disable
+17,Growlithe,Charcoal,Fire Fang,Bite,Roar,Agility
+18,Poliwhirl,Liechi Berry,Bubble Beam,Double Slap,Mist,Rain Dance
+19,Machop,Scope Lens,Karate Chop,Rock Tomb,Foresight,Scary Face
+20,Weepinbell,Scope Lens,Razor Leaf,Acid,Wrap,Sweet Scent
+21,Tentacool,Cheri Berry,Bubble Beam,Acid,Supersonic,Barrier
+22,Geodude,Focus Band,Magnitude,Rock Blast,Strength,Protect
+23,Graveler,Focus Band,Magnitude,Rock Tomb,Stealth Rock,Defense Curl
+24,Ponyta,Chesto Berry,Flame Wheel,Stomp,Will-O-Wisp,Tail Whip
+25,Slowpoke,Cheri Berry,Water Pulse,Confusion,Disable,Yawn
+26,Magnemite,Rawst Berry,Shock Wave,Mirror Shot,Metal Sound,Reflect
+27,Farfetch'd,Stick,Slash,Air Cutter,Knock Off,Swords Dance
+28,Doduo,Liechi Berry,Aerial Ace,Quick Attack,Feint Attack,Acupressure
+29,Seel,Aspear Berry,Aqua Jet,Ice Shard,Fake Out,Encore
+30,Grimer,Black Sludge,Toxic,Shadow Sneak,Acid Armor,Minimize
+31,Haunter,Persim Berry,Night Shade,Toxic,Confuse Ray,Grudge
+32,Onix,Hard Stone,Rock Slide,Dig,Screech,Sandstorm
+33,Drowzee,Rawst Berry,Psybeam,Assist,Disable,Barrier
+34,Krabby,Pecha Berry,Bubble Beam,Vice Grip,Leer,Protect
+35,Voltorb,Petaya Berry,Shock Wave,Swift,Thunder Wave,Light Screen
+36,Exeggcute,Odd Incense,Confusion,Grass Knot,Leech Seed,Light Screen
+37,Cubone,Soft Sand,Bone Club,Headbutt,Brick Break,Leer
+38,Lickitung,Chesto Berry,Secret Power,Rock Tomb,Lick,Screech
+39,Koffing,Poison Barb,Sludge,Psybeam,SmokeScreen,Spite
+40,Rhyhorn,Persim Berry,Dig,Rock Blast,Scary Face,Tail Whip
+41,Goldeen,Petaya Berry,Water Pulse,Psybeam,Supersonic,Rain Dance
+42,Staryu,Cheri Berry,Bubble Beam,Twister,Swift,Light Screen
+43,Eevee,Salac Berry,Take Down,Bite,Flail,Endure
+44,Porygon,Persim Berry,Swift,Psybeam,Icy Wind,Recycle
+45,Omanyte,Pecha Berry,Ancient Power,Water Gun,Mud Shot,Protect
+46,Kabuto,Liechi Berry,Aqua Jet,Rock Tomb,Knock Off,Metal Sound
+47,Dratini,Cheri Berry,Twister,Water Pulse,Thunder Wave,Supersonic
+48,Chikorita,Lax Incense,Bullet Seed,Secret Power,Growl,Light Screen
+49,Cyndaquil,Quick Claw,Flame Wheel,Double Kick,Swift,SmokeScreen
+50,Totodile,Razor Claw,Dive,Slash,Screech,Scary Face
+51,Ledian,Razor Claw,Silver Wind,Air Cutter,Agility,Baton Pass
+52,Ariados,SilverPowder,Bug Bite,Toxic,Shadow Sneak,Spider Web
+53,Chinchou,Magnet,Shock Wave,Bubble Beam,Icy Wind,Thunder Wave
+54,Togetic,Chesto Berry,Air Cutter,Swift,Magical Leaf,Wish
+55,Natu,Twisted Spoon,Night Shade,Air Cutter,Ominous Wind,Future Sight
+56,Flaaffy,Light Clay,Shock Wave,Swift,Thunder Wave,Light Screen
+57,Azumarill,Pecha Berry,Bubble Beam,Rollout,Defense Curl,Tail Whip
+58,Skiploom,Big Root,Mega Drain,Aerial Ace,Confusion,Cotton Spore
+59,Aipom,Silk Scarf,Double Hit,U-turn,Thunder Wave,Fake Out
+60,Yanma,Lax Incense,Silver Wind,Air Cutter,Double Team,Detect
+61,Murkrow,BlackGlasses,Feint Attack,Wing Attack,Torment,Taunt
+62,Wobbuffet,Focus Band,Counter,Mirror Coat,Charm,Splash
+63,Dunsparce,Razor Claw,Headbutt,Bite,Spite,Glare
+64,Snubbull,Razor Claw,Headbutt,Bite,Swagger,Scary Face
+65,Teddiursa,Chesto Berry,Secret Power,Feint Attack,Attract,Rest
+66,Corsola,Focus Band,Bubble Beam,Ancient Power,Mirror Coat,Barrier
+67,Remoraid,Petaya Berry,Bubble Beam,Aurora Beam,Mud-Slap,Supersonic
+68,Delibird,Never-Melt Ice,Present,Ice Ball,Aerial Ace,Hail
+69,Houndour,Charcoal,Fire Fang,Bite,Roar,Will-O-Wisp
+70,Phanpy,Metronome,Rollout,Rock Tomb,Defense Curl,Sandstorm
+71,Smoochum,Bright Powder,Confusion,Icy Wind,Fake Out,Sweet Kiss
+72,Elekid,Cheri Berry,Thunder Punch,Karate Chop,Quick Attack,Light Screen
+73,Magby,Pecha Berry,Fire Punch,Mach Punch,Leer,SmokeScreen
+74,Larvitar,Liechi Berry,Rock Slide,Dig,Bite,Scary Face
+75,Treecko,Miracle Seed,Mega Drain,Swift,Flash,Double Team
+76,Torchic,Charcoal,Ember,Mirror Move,Mud-Slap,Double Team
+77,Mudkip,Mystic Water,Water Pulse,Icy Wind,Mud-Slap,Growl
+78,Beautifly,SilverPowder,Silver Wind,Air Cutter,Mega Drain,Attract
+79,Dustox,SilverPowder,Silver Wind,Toxic,Psybeam,Whirlwind
+80,Lombre,Damp Rock,Water Pulse,Mega Drain,Fake Out,Rain Dance
+81,Nuzleaf,Aspear Berry,Razor Leaf,Feint Attack,Swagger,Harden
+82,Shedinja,Lax Incense,Shadow Sneak,Fury Cutter,Confuse Ray,Sand Attack
+83,Loudred,Persim Berry,Stomp,Bite,Howl,Supersonic
+84,Nosepass,Hard Stone,Ancient Power,Shock Wave,Thunder Wave,Sandstorm
+85,Delcatty,Sitrus Berry,Secret Power,Feint Attack,Fake Out,Foresight
+86,Sableye,BlackGlasses,Feint Attack,Shadow Sneak,Fake Out,Detect
+87,Mawile,Bright Powder,Iron Head,Bite,Tickle,Iron Defense
+88,Aron,Metal Coat,Metal Claw,Rock Tomb,Iron Defense,Protect
+89,Plusle,Petaya Berry,Shock Wave,Swift,Fake Tears,Helping Hand
+90,Minun,Salac Berry,Shock Wave,Swift,Encore,Helping Hand
+91,Volbeat,Liechi Berry,U-turn,Quick Attack,Confuse Ray,Helping Hand
+92,Illumise,Petaya Berry,Silver Wind,Swift,Wish,Helping Hand
+93,Roselia,Black Sludge,Mega Drain,Toxic,Grass Whistle,Cotton Spore
+94,Carvanha,Cheri Berry,Aqua Jet,Bite,Scary Face,Swagger
+95,Wailmer,Sea Incense,Water Pulse,Icy Wind,Roar,Mist
+96,Numel,Lax Incense,Magnitude,Ember,Rock Tomb,Sandstorm
+97,Spoink,Sitrus Berry,Psywave,Swift,Magic Coat,Confuse Ray
+98,Spinda,Silk Scarf,Dizzy Punch,Drain Punch,Feint Attack,Teeter Dance
+99,Vibrava,Aspear Berry,Dragon Breath,Mud-Slap,Ominous Wind,Supersonic
+100,Cacnea,Aspear Berry,Needle Arm,Feint Attack,Cotton Spore,Grass Whistle
+101,Swablu,Mental Herb,Air Cutter,Swift,Mirror Move,Attract
+102,Corphish,Pecha Berry,Bubble Beam,Vice Grip,Knock Off,Swagger
+103,Baltoy,Twisted Spoon,Psybeam,Mud-Slap,Ancient Power,Light Screen
+104,Lileep,Lax Incense,Ancient Power,Grass Knot,Ingrain,Confuse Ray
+105,Anorith,Metronome,Fury Cutter,Rock Blast,Metal Claw,Protect
+106,Castform,Persim Berry,Weather Ball,Sunny Day,Rain Dance,Hail
+107,Shuppet,Spell Tag,Shadow Sneak,Knock Off,Will-O-Wisp,Grudge
+108,Duskull,Spell Tag,Shadow Sneak,Pain Split,Will-O-Wisp,Confuse Ray
+109,Snorunt,King's Rock,Ice Fang,Headbutt,Bite,Protect
+110,Clamperl,Deep Sea Scale,Whirlpool,Toxic,Iron Defense,Protect
+111,Luvdisc,Damp Rock,Water Pulse,Attract,Sweet Kiss,Rain Dance
+112,Bagon,Dragon Fang,Dragon Breath,Headbutt,Brick Break,Scary Face
+113,Turtwig,Occa Berry,Razor Leaf,Bite,Tickle,Withdraw
+114,Chimchar,Passho Berry,Flame Wheel,Facade,Leer,Fake Out
+115,Piplup,Rindo Berry,Bubble Beam,Aerial Ace,Growl,Supersonic
+116,Starly,Sharp Beak,Wing Attack,Quick Attack,Endeavor,Growl
+117,Staravia,Sharp Beak,Endeavor,Wing Attack,Quick Attack,Whirlwind
+118,Bidoof,Silk Scarf,Headbutt,Pluck,Growl,Yawn
+119,Kricketot,Liechi Berry,Bug Bite,Bide,Mud-Slap,Growl
+120,Kricketune,Metronome,Fury Cutter,Rock Smash,Knock Off,Focus Energy
+121,Shinx,King's Rock,Thunder Fang,Bite,Howl,Leer
+122,Budew,Big Root,Mega Drain,Toxic,Growth,Worry Seed
+123,Cranidos,Rock Incense,Rock Tomb,Pursuit,Scary Face,Leer
+124,Shieldon,Focus Band,Iron Head,Rock Tomb,Swagger,Iron Defense
+125,Burmy,Sitrus Berry,Bug Bite,Tackle,Snore,Protect
+126,Combee,SilverPowder,Bug Bite,Gust,Ominous Wind,Sweet Scent
+127,Pachirisu,Magnet,Spark,Quick Attack,Bite,Sweet Kiss
+128,Buizel,Wave Incense,Aqua Jet,Quick Attack,Pursuit,Growl
+129,Cherubi,Rose Incense,Magical Leaf,Toxic,Leech Seed,Helping Hand
+130,Shellos,Lax Incense,Water Pulse,Mud-Slap,Icy Wind,Harden
+131,Drifloon,Petaya Berry,Ominous Wind,Air Cutter,Icy Wind,Will-O-Wisp
+132,Buneary,Black Belt,Dizzy Punch,Drain Punch,Quick Attack,Foresight
+133,Glameow,Razor Claw,Fury Swipes,Fake Out,Feint Attack,Attract
+134,Chingling,Twisted Spoon,Confusion,Swift,Disable,Growl
+135,Stunky,BlackGlasses,Pursuit,Toxic,Slash,SmokeScreen
+136,Bronzor,Odd Incense,Confusion,Gyro Ball,Ancient Power,Imprison
+137,Bonsly,Rock Incense,Rock Slide,Low Kick,Copycat,Sandstorm
+138,Mime Jr.,Lax Incense,Copycat,Confusion,Barrier,Light Screen
+139,Happiny,Sitrus Berry,Present,Sweet Kiss,Copycat,Charm
+140,Chatot,Persim Berry,Chatter,Swift,Sing,Mirror Move
+141,Gible,Soft Sand,Dragon Rage,Sand Tomb,Metal Claw,Sandstorm
+142,Munchlax,Sitrus Berry,Metronome,Recycle,Stockpile,Swallow
+143,Riolu,Expert Belt,Brick Break,Bullet Punch,Foresight,Counter
+144,Hippopotas,Chesto Berry,Dig,Rock Tomb,Sand Tomb,Yawn
+145,Skorupi,Poison Barb,Poison Fang,Bug Bite,Bite,Toxic Spikes
+146,Croagunk,Black Sludge,Poison Jab,Wake-Up Slap,Taunt,Swagger
+147,Finneon,Wave Incense,Water Pulse,Silver Wind,Attract,Aqua Ring
+148,Mantyke,Mystic Water,Bubble Beam,Aerial Ace,Icy Wind,Agility
+149,Snover,Never-Melt Ice,Ice Punch,Razor Leaf,Grass Whistle,Ingrain
+150,Ivysaur,Salac Berry,Razor Leaf,Poison Powder,Take Down,Leech Seed
+151,Ivysaur,Big Root,Giga Drain,Sludge Bomb,Sleep Powder,Leech Seed
+152,Charmeleon,Razor Claw,Fire Fang,Slash,SmokeScreen,Scary Face
+153,Charmeleon,Razor Claw,Flamethrower,Shadow Claw,Aerial Ace,SmokeScreen
+154,Wartortle,Focus Band,Aqua Jet,Bite,Rapid Spin,Yawn
+155,Wartortle,Shell Bell,Surf,Ice Beam,Brick Break,Fake Out
+156,Pidgeot,Cheri Berry,Wing Attack,Facade,Tailwind,Sand Attack
+157,Pidgeot,Razor Claw,Return,Aerial Ace,Steel Wing,U-turn
+158,Raticate,Silk Scarf,Endeavor,Pursuit,Quick Attack,Scary Face
+159,Raticate,Chople Berry,Super Fang,Hyper Fang,Shadow Ball,Scary Face
+160,Fearow,Sharp Beak,Pluck,Facade,Growl,Leer
+161,Fearow,Cheri Berry,Drill Peck,Frustration,Feint Attack,U-turn
+162,Arbok,Persim Berry,Poison Fang,Bite,Gastro Acid,Glare
+163,Arbok,Payapa Berry,Sludge Bomb,Mud Bomb,Crunch,Glare
+164,Sandslash,Sitrus Berry,Dig,Rock Tomb,Defense Curl,Sandstorm
+165,Sandslash,Quick Claw,Earthquake,Rock Slide,Crush Claw,Sandstorm
+166,Clefable,Chesto Berry,Metronome,Double Team,Reflect,Follow Me
+167,Clefable,Focus Band,Return,Meteor Mash,Zen Headbutt,Sing
+168,Wigglytuff,Silk Scarf,Secret Power,Grass Knot,Wish,Sing
+169,Wigglytuff,Sitrus Berry,Hyper Voice,Shadow Ball,Sing,Dream Eater
+170,Golbat,Payapa Berry,Aerial Ace,Toxic,Steel Wing,Confuse Ray
+171,Golbat,Black Sludge,Poison Fang,Aerial Ace,Zen Headbutt,Confuse Ray
+172,Venomoth,Black Sludge,Silver Wind,Psybeam,Sleep Powder,Attract
+173,Venomoth,SilverPowder,Bug Buzz,Sludge Bomb,Psychic,Supersonic
+174,Persian,Silk Scarf,Slash,U-turn,Captivate,Swagger
+175,Persian,Razor Claw,Slash,Shadow Claw,Bite,Fake Out
+176,Primeape,Scope Lens,Karate Chop,Fury Swipes,Foresight,Focus Energy
+177,Primeape,Expert Belt,Cross Chop,Earthquake,Rock Slide,Swagger
+178,Kadabra,Twisted Spoon,Confusion,Role Play,Disable,Future Sight
+179,Kadabra,Cheri Berry,Psychic,Shadow Ball,Shock Wave,Reflect
+180,Machoke,Focus Band,Karate Chop,Rock Tomb,Foresight,Scary Face
+181,Machoke,Scope Lens,Cross Chop,Facade,Rock Slide,Counter
+182,Magneton,Petaya Berry,Shock Wave,Magnet Bomb,Thunder Wave,Supersonic
+183,Magneton,Shuca Berry,Thunderbolt,Mirror Shot,Thunder Wave,Magnet Rise
+184,Dodrio,Aspear Berry,Pluck,Fury Attack,Growl,Acupressure
+185,Dodrio,King's Rock,Drill Peck,Frustration,Feint Attack,Acupressure
+186,Cloyster,Never-Melt Ice,Aurora Beam,Water Pulse,Spikes,Supersonic
+187,Cloyster,Leftovers,Avalanche,Dive,Toxic,Protect
+188,Kingler,Wacan Berry,Bubble Beam,Vice Grip,Harden,Mud Sport
+189,Kingler,Salac Berry,Crabhammer,Guillotine,Flail,Endure
+190,Hitmonlee,Black Belt,Rolling Kick,Facade,Foresight,Focus Energy
+191,Hitmonlee,Salac Berry,High Jump Kick,Blaze Kick,Mega Kick,Endure
+192,Hitmonchan,King's Rock,Mach Punch,Bullet Punch,Mind Reader,Counter
+193,Hitmonchan,King's Rock,Sky Uppercut,Mega Punch,Bullet Punch,Counter
+194,Chansey,Sitrus Berry,Metronome,Refresh,Defense Curl,Minimize
+195,Chansey,Lucky Punch,Egg Bomb,Focus Punch,Sing,Soft-Boiled
+196,Tangela,Pecha Berry,Mega Drain,Ancient Power,Toxic,Bind
+197,Tangela,Pecha Berry,Giga Drain,Sludge Bomb,Wring Out,Ingrain
+198,Seadra,Razor Claw,Bubble Beam,Aurora Beam,SmokeScreen,Rain Dance
+199,Seadra,Shell Bell,Surf,Ice Beam,Twister,SmokeScreen
+200,Seaking,Pecha Berry,Water Pulse,Psybeam,Supersonic,Rain Dance
+201,Seaking,Quick Claw,Aqua Tail,Poison Jab,Facade,Aqua Ring
+202,Scyther,Metronome,Fury Cutter,Wing Attack,Light Screen,Leer
+203,Scyther,Bright Powder,X-Scissor,Aerial Ace,Night Slash,Swords Dance
+204,Electabuzz,Lansat Berry,Shock Wave,Swift,Thunder Wave,Light Screen
+205,Electabuzz,Bright Powder,Thunderbolt,Psychic,Focus Blast,Thunder Wave
+206,Magmar,Lansat Berry,Fire Punch,Mach Punch,SmokeScreen,Will-O-Wisp
+207,Magmar,Lax Incense,Flamethrower,Psychic,Focus Blast,Confuse Ray
+208,Omastar,Metronome,Water Gun,Rollout,Withdraw,Spikes
+209,Omastar,Sitrus Berry,Surf,Stone Edge,Ice Beam,Toxic Spikes
+210,Kabutops,Sea Incense,Aqua Jet,Rock Tomb,Harden,Metal Sound
+211,Kabutops,Razor Claw,Waterfall,Rock Slide,Slash,Swords Dance
+212,Dragonair,Cheri Berry,Dragon Breath,Water Pulse,Thunder Wave,Safeguard
+213,Dragonair,Haban Berry,Dragon Pulse,Aqua Tail,Slam,Dragon Dance
+214,Bayleef,Sitrus Berry,Magical Leaf,Ancient Power,Safeguard,Light Screen
+215,Bayleef,Chesto Berry,Giga Drain,Body Slam,Grass Whistle,Rest
+216,Quilava,Chesto Berry,Flame Wheel,Double Kick,Quick Attack,SmokeScreen
+217,Quilava,Focus Band,Flamethrower,Crush Claw,Quick Attack,SmokeScreen
+218,Croconaw,Scope Lens,Water Pulse,Slash,Bite,Scary Face
+219,Croconaw,Focus Band,Aqua Tail,Crunch,Rock Slide,Scary Face
+220,Furret,Liechi Berry,Slash,Sucker Punch,Helping Hand,Assist
+221,Furret,Choice Band,Frustration,Shadow Claw,Trick,Assist
+222,Noctowl,Persim Berry,Secret Power,Aerial Ace,Supersonic,Reflect
+223,Noctowl,Persim Berry,Air Slash,Swift,Psychic,Reflect
+224,Xatu,Sharp Beak,Zen Headbutt,Pluck,Tailwind,Future Sight
+225,Xatu,Colbur Berry,Psychic,Air Cutter,Ominous Wind,Confuse Ray
+226,Bellossom,Petaya Berry,Magical Leaf,Acid,Tickle,Stun Spore
+227,Bellossom,Bright Powder,Solar Beam,Sludge Bomb,Sunny Day,Synthesis
+228,Sudowoodo,Hard Stone,Rock Slide,Feint Attack,Sandstorm,Block
+229,Sudowoodo,Life Orb,Stone Edge,Earthquake,Mimic,Self-Destruct
+230,Jumpluff,Pecha Berry,Aerial Ace,Bullet Seed,Cotton Spore,Tail Whip
+231,Jumpluff,Sitrus Berry,Seed Bomb,Bounce,Sleep Powder,Synthesis
+232,Sunflora,Persim Berry,Mega Drain,Ingrain,Leech Seed,Light Screen
+233,Sunflora,Sitrus Berry,Giga Drain,Sludge Bomb,Grass Whistle,Double Team
+234,Misdreavus,Cheri Berry,Ominous Wind,Pain Split,Confuse Ray,Thunder Wave
+235,Misdreavus,Kasib Berry,Shadow Ball,Psychic,Thunder Wave,Confuse Ray
+236,Girafarig,Petaya Berry,Psybeam,Swift,Baton Pass,Agility
+237,Girafarig,Razor Claw,Zen Headbutt,Double Hit,Crunch,Thunder Wave
+238,Gligar,Razor Claw,Aerial Ace,Sand Tomb,Metal Claw,Swords Dance
+239,Gligar,Quick Claw,Earthquake,Aerial Ace,Aqua Tail,Sandstorm
+240,Qwilfish,Cheri Berry,Bubble Beam,Toxic,Pin Missile,Harden
+241,Qwilfish,Focus Band,Aqua Tail,Poison Jab,Revenge,Destiny Bond
+242,Sneasel,Persim Berry,Feint Attack,Ice Shard,Leer,Taunt
+243,Sneasel,King's Rock,Ice Punch,Feint Attack,Crush Claw,Spite
+244,Magcargo,Lax Incense,Lava Plume,Ancient Power,Acid Armor,Sandstorm
+245,Magcargo,Quick Claw,Overheat,Rock Slide,Earthquake,Body Slam
+246,Piloswine,Never-Melt Ice,Icy Wind,Mud Bomb,Mist,Hail
+247,Piloswine,Muscle Band,Ice Fang,Earthquake,Stone Edge,Curse
+248,Octillery,Wacan Berry,Octazooka,Icy Wind,Thunder Wave,Focus Energy
+249,Octillery,Life Orb,Octazooka,Flamethrower,Psychic,Thunder Wave
+250,Mantine,Mystic Water,Bubble Beam,Wing Attack,Agility,Supersonic
+251,Mantine,Shell Bell,Surf,Air Cutter,Ice Beam,Confuse Ray
+252,Stantler,Liechi Berry,Stomp,Bite,Imprison,Confuse Ray
+253,Stantler,Chople Berry,Frustration,Zen Headbutt,Thunder Wave,Confuse Ray
+254,Hitmontop,Liechi Berry,Triple Kick,Mach Punch,Detect,Focus Energy
+255,Hitmontop,Muscle Band,Triple Kick,Bullet Punch,Aerial Ace,Counter
+256,Pupitar,Hard Stone,Rock Tomb,Dig,Scary Face,Sandstorm
+257,Pupitar,Soft Sand,Earthquake,Rock Slide,Crunch,Scary Face
+258,Grovyle,Coba Berry,Magical Leaf,Swift,Mud-Slap,Detect
+259,Grovyle,Coba Berry,Leaf Blade,Rock Slide,Crunch,Screech
+260,Combusken,Liechi Berry,Fire Punch,Double Kick,Quick Attack,Sand Attack
+261,Combusken,Scope Lens,Flamethrower,Sky Uppercut,Slash,Sand Attack
+262,Marshtomp,Focus Band,Mud Shot,Water Pulse,Ancient Power,Growl
+263,Marshtomp,Persim Berry,Muddy Water,Earthquake,Ancient Power,Protect
+264,Mightyena,Razor Fang,Bite,Poison Fang,Howl,Roar
+265,Mightyena,Chople Berry,Crunch,Take Down,Sucker Punch,Howl
+266,Linoone,Lansat Berry,Slash,Shadow Claw,Covet,Tickle
+267,Linoone,Choice Scarf,Frustration,Shadow Claw,Dig,Switcheroo
+268,Swellow,King's Rock,Pluck,Quick Attack,Focus Energy,Growl
+269,Swellow,Toxic Orb,Facade,Aerial Ace,Growl,U-turn
+270,Pelipper,Chesto Berry,Water Pulse,Air Cutter,Stockpile,Swallow
+271,Pelipper,Shell Bell,Surf,Air Cutter,Ice Beam,Tailwind
+272,Masquerain,SilverPowder,Silver Wind,Air Cutter,Sweet Scent,Scary Face
+273,Masquerain,Petaya Berry,Bug Buzz,Air Slash,Shadow Ball,Stun Spore
+274,Vigoroth,Focus Band,Slash,Pursuit,Encore,Counter
+275,Vigoroth,Salac Berry,Crush Claw,Shadow Claw,Reversal,Endure
+276,Ninjask,Chesto Berry,Bug Bite,Aerial Ace,Sand Attack,Baton Pass
+277,Ninjask,Razor Fang,X-Scissor,Aerial Ace,Night Slash,Baton Pass
+278,Lairon,Metal Coat,Metal Claw,Rock Tomb,Iron Defense,Protect
+279,Lairon,Sitrus Berry,Iron Head,Rock Slide,Earthquake,Roar
+280,Swalot,Lax Incense,Sludge,Stockpile,Swallow,Spit Up
+281,Swalot,Black Sludge,Sludge Bomb,Shadow Ball,Giga Drain,Yawn
+282,Sharpedo,Cheri Berry,Water Pulse,Bite,Scary Face,Focus Energy
+283,Sharpedo,Wacan Berry,Crunch,Waterfall,Ice Fang,Swagger
+284,Camerupt,Focus Band,Magnitude,Will-O-Wisp,Rock Tomb,Amnesia
+285,Camerupt,Quick Claw,Earth Power,Eruption,Ancient Power,Sandstorm
+286,Torkoal,Petaya Berry,Ember,Mud-Slap,Smog,Amnesia
+287,Torkoal,Quick Claw,Heat Wave,Solar Beam,Earth Power,Sunny Day
+288,Grumpig,Petaya Berry,Psybeam,Grass Knot,Future Sight,Confuse Ray
+289,Grumpig,Colbur Berry,Psychic,Power Gem,Charge Beam,Mirror Coat
+290,Cacturne,Chople Berry,Bullet Seed,Feint Attack,Spikes,Ingrain
+291,Cacturne,Shell Bell,Giga Drain,Dark Pulse,Acid,Cotton Spore
+292,Zangoose,Persim Berry,Scratch,Pursuit,Detect,Leer
+293,Zangoose,Razor Claw,Crush Claw,Shadow Claw,Aerial Ace,Taunt
+294,Seviper,Scope Lens,Poison Tail,Lick,Knock Off,Glare
+295,Seviper,Black Sludge,Sludge Bomb,Crunch,Aqua Tail,Swagger
+296,Lunatone,Sitrus Berry,Ancient Power,Confusion,Cosmic Power,Reflect
+297,Lunatone,Passho Berry,Psychic,Ancient Power,Shadow Ball,Cosmic Power
+298,Solrock,Sitrus Berry,Psywave,Rock Tomb,Cosmic Power,Light Screen
+299,Solrock,Passho Berry,Zen Headbutt,Rock Slide,Will-O-Wisp,Cosmic Power
+300,Crawdaunt,Persim Berry,Bubble Beam,Dark Pulse,Harden,Taunt
+301,Crawdaunt,Quick Claw,Crabhammer,Crunch,X-Scissor,Swords Dance
+302,Kecleon,Lansat Berry,Slash,Shadow Sneak,Tail Whip,Magic Coat
+303,Kecleon,Choice Scarf,Frustration,Shadow Claw,Aerial Ace,Trick
+304,Banette,Rawst Berry,Shadow Sneak,Knock Off,Will-O-Wisp,Spite
+305,Banette,Colbur Berry,Shadow Claw,Feint Attack,Will-O-Wisp,Trick Room
+306,Dusclops,Rawst Berry,Shadow Sneak,Pain Split,Will-O-Wisp,Confuse Ray
+307,Dusclops,Colbur Berry,Shadow Punch,Payback,Brick Break,Confuse Ray
+308,Tropius,Lansat Berry,Razor Leaf,Aerial Ace,Leech Seed,Captivate
+309,Tropius,Occa Berry,Giga Drain,Air Slash,Synthesis,Sunny Day
+310,Chimecho,Pecha Berry,Psywave,Icy Wind,Heal Bell,Safeguard
+311,Chimecho,Twisted Spoon,Psychic,Shadow Ball,Hypnosis,Dream Eater
+312,Sealeo,Icy Rock,Aurora Beam,Water Pulse,Encore,Hail
+313,Sealeo,Chesto Berry,Ice Beam,Surf,Signal Beam,Hail
+314,Huntail,Mystic Water,Water Pulse,Bite,Screech,Rain Dance
+315,Huntail,Shell Bell,Aqua Tail,Crunch,Ice Fang,Rain Dance
+316,Gorebyss,Wave Incense,Water Pulse,Confusion,Rain Dance,Aqua Ring
+317,Gorebyss,Shell Bell,Surf,Psychic,Ice Beam,Rain Dance
+318,Relicanth,Wave Incense,Water Pulse,Rock Tomb,Mud Sport,Harden
+319,Relicanth,Chesto Berry,Aqua Tail,Rock Slide,Rest,Yawn
+320,Shelgon,Aspear Berry,Dragon Breath,Headbutt,Protect,Scary Face
+321,Shelgon,Focus Band,Dragon Claw,Crunch,Dragon Dance,Scary Face
+322,Metang,Chesto Berry,Metal Claw,Confusion,Magnet Rise,Scary Face
+323,Metang,Shuca Berry,Meteor Mash,Zen Headbutt,Bullet Punch,Scary Face
+324,Grotle,Big Root,Razor Leaf,Bite,Leech Seed,Synthesis
+325,Grotle,Occa Berry,Seed Bomb,Crunch,Curse,Synthesis
+326,Monferno,Coba Berry,Mach Punch,Flame Wheel,Fury Swipes,Taunt
+327,Monferno,Scope Lens,Blaze Kick,Brick Break,Rock Slide,Torment
+328,Prinplup,Wacan Berry,Bubble Beam,Metal Claw,Peck,Double Team
+329,Prinplup,Focus Band,Surf,Drill Peck,Metal Claw,Rain Dance
+330,Bibarel,Chople Berry,Headbutt,Water Pulse,Quick Attack,Growl
+331,Bibarel,Shell Bell,Hyper Fang,Super Fang,Pluck,Attract
+332,Luxio,Magnet,Thunder Fang,Bite,Flash,Swagger
+333,Luxio,Petaya Berry,Thunderbolt,Signal Beam,Swift,Thunder Wave
+334,Wormadam,Coba Berry,Razor Leaf,Bug Bite,Protect,Captivate
+335,Wormadam,Coba Berry,Giga Drain,Signal Beam,Psychic,Attract
+336,Mothim,Petaya Berry,Silver Wind,Air Cutter,Poison Powder,Captivate
+337,Mothim,Coba Berry,Bug Buzz,Air Slash,Psychic,Poison Powder
+338,Cherrim,Persim Berry,Magical Leaf,Leech Seed,Grass Whistle,Synthesis
+339,Cherrim,Power Herb,Solar Beam,Leech Seed,Sunny Day,Synthesis
+340,Purugly,Silk Scarf,Slash,Feint Attack,Attract,Growl
+341,Purugly,Liechi Berry,Body Slam,Shadow Claw,Attract,Fake Out
+342,Gabite,Yache Berry,Dragon Rage,Sand Tomb,Slash,Sand Attack
+343,Gabite,Muscle Band,Dragon Claw,Earthquake,Slash,Sandstorm
+344,Carnivine,Miracle Seed,Razor Leaf,Bite,Sweet Scent,Ingrain
+345,Carnivine,Occa Berry,Seed Bomb,Wring Out,Crunch,Ingrain
+346,Lumineon,Wacan Berry,Water Gun,U-turn,Captivate,Attract
+347,Lumineon,Shell Bell,Surf,Silver Wind,Attract,Aqua Ring
+348,Rotom,Cheri Berry,Thunder Shock,Astonish,Thunder Wave,Confuse Ray
+349,Rotom,Magnet,Discharge,Ominous Wind,Thunder Wave,Double Team
+350,Venusaur,White Herb,Leaf Storm,Sludge Bomb,Amnesia,Sleep Powder
+351,Venusaur,Big Root,Giga Drain,Ingrain,Leech Seed,Sleep Powder
+352,Venusaur,Black Sludge,Seed Bomb,Earthquake,Outrage,Curse
+353,Venusaur,Wise Glasses,Frenzy Plant,Sludge Bomb,Hyper Beam,Synthesis
+354,Charizard,Petaya Berry,Flamethrower,Air Slash,SmokeScreen,Scary Face
+355,Charizard,White Herb,Overheat,Solar Beam,Will-O-Wisp,Sunny Day
+356,Charizard,Scope Lens,Flare Blitz,Earthquake,Crunch,Dragon Claw
+357,Charizard,Bright Powder,Blast Burn,Air Slash,Focus Blast,Ancient Power
+358,Blastoise,Mystic Water,Hydro Pump,Signal Beam,Icy Wind,Mirror Coat
+359,Blastoise,Shell Bell,Waterfall,Focus Punch,Double Team,Aqua Ring
+360,Blastoise,Life Orb,Aqua Tail,Earthquake,Avalanche,Zen Headbutt
+361,Blastoise,Shell Bell,Hydro Cannon,Ice Beam,Hyper Beam,Focus Blast
+362,Raichu,Wide Lens,Thunder Punch,Iron Tail,Slam,Quick Attack
+363,Raichu,Focus Band,Thunder Punch,Focus Punch,Sweet Kiss,Thunder Wave
+364,Raichu,Petaya Berry,Thunderbolt,Focus Blast,Signal Beam,Nasty Plot
+365,Raichu,Bright Powder,Volt Tackle,Return,Brick Break,Thunder Wave
+366,Nidoqueen,Payapa Berry,Earthquake,Poison Fang,Aerial Ace,Charm
+367,Nidoqueen,Scope Lens,Poison Jab,Fire Punch,Thunder Punch,Ice Punch
+368,Nidoqueen,Black Sludge,Sludge Bomb,Earth Power,Flamethrower,Ice Beam
+369,Nidoqueen,Razor Claw,Earthquake,Poison Jab,Superpower,Crunch
+370,Nidoking,Focus Band,Earthquake,Poison Jab,Double Kick,Counter
+371,Nidoking,Bright Powder,Focus Punch,Dragon Pulse,Horn Drill,Substitute
+372,Nidoking,Expert Belt,Earth Power,Sludge Bomb,Ice Beam,Shadow Ball
+373,Nidoking,Muscle Band,Earthquake,Poison Jab,Megahorn,Outrage
+374,Ninetales,Bright Powder,Fire Blast,Solar Beam,Attract,Sunny Day
+375,Ninetales,White Herb,Overheat,Dark Pulse,Nasty Plot,Confuse Ray
+376,Ninetales,Wide Lens,Heat Wave,Ominous Wind,Dream Eater,Hypnosis
+377,Ninetales,Passho Berry,Flamethrower,Extrasensory,Energy Ball,Calm Mind
+378,Vileplume,Big Root,Giga Drain,Sludge Bomb,Sleep Powder,Ingrain
+379,Vileplume,Black Sludge,Toxic,Grass Knot,Double Team,Attract
+380,Vileplume,Lum Berry,Seed Bomb,Drain Punch,Frustration,Swords Dance
+381,Vileplume,Wise Glasses,Sludge Bomb,Energy Ball,Hyper Beam,Synthesis
+382,Dugtrio,Grip Claw,Earthquake,Rock Slide,Astonish,Sand Tomb
+383,Dugtrio,Lax Incense,Earth Power,Sludge Bomb,Tri Attack,Sandstorm
+384,Dugtrio,Razor Claw,Fissure,Giga Impact,Aerial Ace,Night Slash
+385,Dugtrio,Muscle Band,Earthquake,Stone Edge,Slash,Shadow Claw
+386,Golduck,Rindo Berry,Surf,Psychic,Confuse Ray,Calm Mind
+387,Golduck,Shell Bell,Waterfall,Mud Bomb,Shadow Claw,Aerial Ace
+388,Golduck,Scope Lens,Aqua Tail,Cross Chop,Ice Punch,Zen Headbutt
+389,Golduck,Wacan Berry,Hydro Pump,Psychic,Ice Beam,Signal Beam
+390,Arcanine,Lum Berry,Fire Fang,Extreme Speed,Crunch,Will-O-Wisp
+391,Arcanine,Salac Berry,Flare Blitz,Thunder Fang,Reversal,Endure
+392,Arcanine,White Herb,Overheat,Solar Beam,Dragon Pulse,Sunny Day
+393,Arcanine,Focus Band,Flare Blitz,Extreme Speed,Crunch,Thunder Fang
+394,Poliwrath,Rindo Berry,Surf,Vacuum Wave,Psychic,Double Team
+395,Poliwrath,Lax Incense,Waterfall,Dynamic Punch,Poison Jab,Bulk Up
+396,Poliwrath,Wide Lens,Hydro Pump,Focus Blast,Blizzard,Mud Bomb
+397,Poliwrath,Expert Belt,Waterfall,Focus Punch,Earthquake,Hypnosis
+398,Alakazam,Bright Powder,Psychic,Shadow Ball,Calm Mind,Future Sight
+399,Alakazam,Colbur Berry,Psychic,Focus Blast,Charge Beam,Recover
+400,Alakazam,Wise Glasses,Psychic,Charge Beam,Signal Beam,Grass Knot
+401,Alakazam,Expert Belt,Psychic,Shadow Ball,Energy Ball,Focus Blast
+402,Machamp,Scope Lens,Cross Chop,Earthquake,Bullet Punch,Foresight
+403,Machamp,Focus Sash,Revenge,Earthquake,Payback,Counter
+404,Machamp,Quick Claw,Dynamic Punch,Earthquake,Stone Edge,Ice Punch
+405,Machamp,Quick Claw,Cross Chop,Earthquake,Thunder Punch,Fire Punch
+406,Victreebel,Payapa Berry,Leaf Storm,Sludge Bomb,Sleep Powder,Gastro Acid
+407,Victreebel,Black Sludge,Seed Bomb,Spit Up,Swallow,Stockpile
+408,Victreebel,Power Herb,Sludge Bomb,Solar Beam,Hyper Beam,Synthesis
+409,Victreebel,Focus Band,Solar Beam,Sludge Bomb,Wring Out,Sunny Day
+410,Tentacruel,Wacan Berry,Surf,Sludge Bomb,Icy Wind,Barrier
+411,Tentacruel,Black Sludge,Toxic,Giga Drain,Attract,Confuse Ray
+412,Tentacruel,Focus Sash,Surf,Sludge Bomb,Giga Drain,Mirror Coat
+413,Tentacruel,Scope Lens,Hydro Pump,Sludge Bomb,Ice Beam,Wring Out
+414,Golem,Focus Band,Earthquake,Rock Slide,Sucker Punch,Sandstorm
+415,Golem,White Herb,Earthquake,Superpower,Fire Punch,Thunder Punch
+416,Golem,Iron Ball,Gyro Ball,Earthquake,Hammer Arm,Fling
+417,Golem,Quick Claw,Earthquake,Stone Edge,Gyro Ball,Explosion
+418,Rapidash,Chesto Berry,Fire Blast,Solar Beam,Sunny Day,Rest
+419,Rapidash,White Herb,Overheat,Solar Beam,Swift,Sunny Day
+420,Rapidash,Bright Powder,Flare Blitz,Poison Jab,Iron Tail,Horn Drill
+421,Rapidash,Chesto Berry,Flare Blitz,Megahorn,Double-Edge,Hypnosis
+422,Slowbro,Chesto Berry,Psychic,Surf,Calm Mind,Yawn
+423,Slowbro,Expert Belt,Zen Headbutt,Aqua Tail,Earthquake,Avalanche
+424,Slowbro,Choice Specs,Psychic,Flamethrower,Shadow Ball,Signal Beam
+425,Slowbro,Leftovers,Psychic,Surf,Ice Beam,Trick Room
+426,Dewgong,Razor Fang,Waterfall,Avalanche,Headbutt,Fake Out
+427,Dewgong,Wacan Berry,Ice Beam,Signal Beam,Encore,Disable
+428,Dewgong,Salac Berry,Sheer Cold,Horn Drill,Rest,Sleep Talk
+429,Dewgong,Chesto Berry,Surf,Ice Beam,Signal Beam,Rest
+430,Muk,Black Sludge,Poison Jab,Shadow Sneak,Minimize,Acid Armor
+431,Muk,Expert Belt,Poison Jab,Fire Punch,Thunder Punch,Ice Punch
+432,Muk,Zoom Lens,Gunk Shot,Payback,Shadow Sneak,Curse
+433,Muk,Quick Claw,Gunk Shot,Shadow Sneak,Brick Break,Explosion
+434,Gengar,Payapa Berry,Shadow Ball,Sludge Bomb,Spite,Confuse Ray
+435,Gengar,Life Orb,Shadow Ball,Dream Eater,Hypnosis,Substitute
+436,Gengar,Scope Lens,Psychic,Energy Ball,Focus Blast,Confuse Ray
+437,Gengar,Lum Berry,Shadow Ball,Sludge Bomb,Thunderbolt,Destiny Bond
+438,Hypno,Iron Ball,Psycho Cut,Fling,Hypnosis,Trick Room
+439,Hypno,Persim Berry,Dream Eater,Nightmare,Drain Punch,Hypnosis
+440,Hypno,Sitrus Berry,Zen Headbutt,Fire Punch,Thunder Punch,Ice Punch
+441,Hypno,Choice Specs,Psychic,Shadow Ball,Signal Beam,Focus Blast
+442,Electrode,Chesto Berry,Thunderbolt,Swift,Thunder Wave,Light Screen
+443,Electrode,Bright Powder,Charge Beam,Thunder Wave,Flash,Swagger
+444,Electrode,Damp Rock,Thunder,Hyper Beam,Magnet Rise,Rain Dance
+445,Electrode,Focus Sash,Thunderbolt,Signal Beam,Explosion,Mirror Coat
+446,Exeggutor,Bright Powder,Solar Beam,Psychic,Synthesis,Sunny Day
+447,Exeggutor,Lum Berry,Dream Eater,Hypnosis,Leech Seed,Ingrain
+448,Exeggutor,Focus Sash,Wood Hammer,Zen Headbutt,Trick Room,Explosion
+449,Exeggutor,Expert Belt,Leaf Storm,Psychic,Sludge Bomb,Ancient Power
+450,Marowak,Razor Claw,Bone Rush,Brick Break,Iron Tail,Sandstorm
+451,Marowak,Thick Club,Bone Rush,Fire Punch,Thunder Punch,Rock Slide
+452,Marowak,Thick Club,Earthquake,Giga Impact,Outrage,Fire Punch
+453,Marowak,Thick Club,Earthquake,Stone Edge,Iron Head,Thunder Punch
+454,Weezing,Payapa Berry,Sludge Bomb,Dark Pulse,Shock Wave,Grudge
+455,Weezing,Sitrus Berry,Double Hit,Payback,Toxic,Swagger
+456,Weezing,Lax Incense,Sludge Bomb,Thunderbolt,Dark Pulse,Explosion
+457,Weezing,Quick Claw,Sludge Bomb,Flamethrower,Shadow Ball,Destiny Bond
+458,Rhydon,Passho Berry,Earthquake,Rock Slide,Crunch,Scary Face
+459,Rhydon,Focus Sash,Earthquake,Fire Punch,Thunder Punch,Ice Punch
+460,Rhydon,Persim Berry,Outrage,Hammer Arm,Shadow Claw,Avalanche
+461,Rhydon,Quick Claw,Earthquake,Stone Edge,Megahorn,Horn Drill
+462,Kangaskhan,Salac Berry,Double-Edge,Crunch,Reversal,Endure
+463,Kangaskhan,Razor Claw,Dizzy Punch,Fire Punch,Thunder Punch,Ice Punch
+464,Kangaskhan,Life Orb,Double Hit,Hammer Arm,Shadow Claw,Rock Slide
+465,Kangaskhan,Muscle Band,Giga Impact,Earthquake,Crunch,Outrage
+466,Starmie,Lum Berry,Surf,Psychic,Confuse Ray,Thunder Wave
+467,Starmie,Wide Lens,Hydro Pump,Blizzard,Thunder,Recover
+468,Starmie,Wise Glasses,Surf,Psychic,Power Gem,Signal Beam
+469,Starmie,Expert Belt,Surf,Psychic,Thunderbolt,Ice Beam
+470,Mr. Mime,Cheri Berry,Psychic,Signal Beam,Copycat,Mimic
+471,Mr. Mime,Light Clay,Dream Eater,Hypnosis,Light Screen,Reflect
+472,Mr. Mime,Kasib Berry,Psychic,Thunderbolt,Energy Ball,Hyper Beam
+473,Mr. Mime,Choice Specs,Psychic,Charge Beam,Shadow Ball,Focus Blast
+474,Jynx,Chesto Berry,Psychic,Ice Beam,Lovely Kiss,Fake Tears
+475,Jynx,Lax Incense,Dream Eater,Lovely Kiss,Perish Song,Mean Look
+476,Jynx,Expert Belt,Blizzard,Energy Ball,Signal Beam,Wring Out
+477,Jynx,Choice Specs,Ice Beam,Psychic,Focus Blast,Shadow Ball
+478,Pinsir,Coba Berry,X-Scissor,Earthquake,Rock Slide,Swords Dance
+479,Pinsir,Salac Berry,X-Scissor,Revenge,Flail,Endure
+480,Pinsir,Lax Incense,X-Scissor,Superpower,Stone Edge,Giga Impact
+481,Pinsir,Scope Lens,X-Scissor,Earthquake,Close Combat,Guillotine
+482,Tauros,Persim Berry,Thrash,Zen Headbutt,Pursuit,Scary Face
+483,Tauros,Life Orb,Facade,Earthquake,Rock Slide,Payback
+484,Tauros,Lum Berry,Giga Impact,Earthquake,Outrage,Iron Tail
+485,Tauros,Choice Band,Return,Earthquake,Stone Edge,Zen Headbutt
+486,Gyarados,Razor Fang,Aqua Tail,Ice Fang,Bite,Rain Dance
+487,Gyarados,Lum Berry,Waterfall,Ice Fang,Iron Head,Dragon Dance
+488,Gyarados,Persim Berry,Outrage,Waterfall,Stone Edge,Giga Impact
+489,Gyarados,Chesto Berry,Waterfall,Earthquake,Rest,Dragon Dance
+490,Lapras,Leftovers,Aqua Tail,Avalanche,Ice Shard,Curse
+491,Lapras,Quick Claw,Sheer Cold,Perish Song,Sing,Confuse Ray
+492,Lapras,Lum Berry,Waterfall,Outrage,Zen Headbutt,Dragon Dance
+493,Lapras,Bright Powder,Surf,Ice Beam,Psychic,Thunderbolt
+494,Vaporeon,Bright Powder,Surf,Ice Beam,Acid Armor,Baton Pass
+495,Vaporeon,Damp Rock,Hydro Pump,Ice Beam,Acid Armor,Rain Dance
+496,Vaporeon,Leftovers,Muddy Water,Blizzard,Aqua Ring,Yawn
+497,Vaporeon,Expert Belt,Surf,Ice Beam,Shadow Ball,Signal Beam
+498,Jolteon,Focus Sash,Thunderbolt,Thunder Wave,Agility,Baton Pass
+499,Jolteon,Razor Claw,Discharge,Double Kick,Dig,Thunder Wave
+500,Jolteon,Lax Incense,Thunder,Shadow Ball,Rain Dance,Yawn
+501,Jolteon,Razor Fang,Thunderbolt,Hyper Beam,Shadow Ball,Signal Beam
+502,Flareon,Quick Claw,Fire Fang,Superpower,Curse,Baton Pass
+503,Flareon,Salac Berry,Fire Fang,Flail,Endure,Sand Attack
+504,Flareon,White Herb,Overheat,Shadow Ball,Mud-Slap,Will-O-Wisp
+505,Flareon,White Herb,Fire Fang,Giga Impact,Superpower,Bite
+506,Aerodactyl,King's Rock,Rock Slide,Aerial Ace,Torment,Taunt
+507,Aerodactyl,Razor Fang,Bite,Fire Fang,Thunder Fang,Ice Fang
+508,Aerodactyl,Yache Berry,Giga Impact,Earthquake,Rock Slide,Crunch
+509,Aerodactyl,Choice Band,Stone Edge,Aerial Ace,Earthquake,Dragon Claw
+510,Snorlax,Leftovers,Return,Rock Slide,Curse,Yawn
+511,Snorlax,Chesto Berry,Fire Punch,Thunder Punch,Ice Punch,Rest
+512,Snorlax,White Herb,Outrage,Superpower,Gunk Shot,Seed Bomb
+513,Snorlax,Life Orb,Double-Edge,Earthquake,Zen Headbutt,Crunch
+514,Dragonite,Lum Berry,Dragon Claw,Aerial Ace,Thunder Wave,Dragon Dance
+515,Dragonite,Razor Claw,Dragon Rush,Fire Punch,Thunder Punch,Ice Punch
+516,Dragonite,Expert Belt,Draco Meteor,Flamethrower,Thunderbolt,Surf
+517,Dragonite,Choice Band,Outrage,Giga Impact,Earthquake,Superpower
+518,Meganium,Heat Rock,Solar Beam,Ancient Power,Synthesis,Sunny Day
+519,Meganium,Big Root,Giga Drain,Leech Seed,Toxic,Substitute
+520,Meganium,Light Clay,Leaf Storm,Wring Out,Light Screen,Reflect
+521,Meganium,Lax Incense,Frenzy Plant,Ancient Power,Hyper Beam,Light Screen
+522,Typhlosion,Scope Lens,Fire Punch,Thunder Punch,Shadow Claw,Quick Attack
+523,Typhlosion,Salac Berry,Blast Burn,Earthquake,Reversal,Endure
+524,Typhlosion,Shuca Berry,Flare Blitz,Earthquake,Shadow Claw,Aerial Ace
+525,Typhlosion,White Herb,Overheat,Solar Beam,Focus Blast,Sunny Day
+526,Feraligatr,King's Rock,Waterfall,Ice Fang,Rock Slide,Scary Face
+527,Feraligatr,White Herb,Aqua Tail,Superpower,Dragon Claw,Shadow Claw
+528,Feraligatr,Wise Glasses,Hydro Cannon,Ice Beam,Focus Blast,Ancient Power
+529,Feraligatr,Lum Berry,Waterfall,Earthquake,Ice Fang,Dragon Dance
+530,Crobat,Payapa Berry,Cross Poison,Aerial Ace,Roost,Hypnosis
+531,Crobat,Razor Fang,Air Slash,Zen Headbutt,Bite,Twister
+532,Crobat,King's Rock,Air Slash,Sludge Bomb,Heat Wave,Dark Pulse
+533,Crobat,Razor Claw,Cross Poison,Brave Bird,X-Scissor,Zen Headbutt
+534,Lanturn,Rindo Berry,Surf,Discharge,Thunder Wave,Aqua Ring
+535,Lanturn,Lum Berry,Dive,Confuse Ray,Thunder Wave,Attract
+536,Lanturn,Sitrus Berry,Hydro Pump,Thunder,Blizzard,Rain Dance
+537,Lanturn,Expert Belt,Surf,Thunderbolt,Ice Beam,Signal Beam
+538,Ampharos,Shuca Berry,Thunderbolt,Power Gem,Light Screen,Thunder Wave
+539,Ampharos,Cheri Berry,Thunder Punch,Fire Punch,Focus Punch,Thunder Wave
+540,Ampharos,Chesto Berry,Charge Beam,Hyper Beam,Thunder Wave,Rest
+541,Ampharos,Zoom Lens,Thunder,Focus Blast,Signal Beam,Power Gem
+542,Politoed,Lax Incense,Surf,Hyper Voice,Mud Bomb,Swagger
+543,Politoed,Chesto Berry,Dive,Brick Break,Hypnosis,Perish Song
+544,Politoed,Chesto Berry,Waterfall,Earthquake,Belly Drum,Rest
+545,Politoed,Wacan Berry,Hydro Pump,Ice Beam,Psychic,Hypnosis
+546,Quagsire,Rindo Berry,Earthquake,Aqua Tail,Brick Break,Counter
+547,Quagsire,Leftovers,Dive,Yawn,Curse,Amnesia
+548,Quagsire,Quick Claw,Surf,Earth Power,Focus Blast,Sludge Bomb
+549,Quagsire,Muscle Band,Earthquake,Waterfall,Stone Edge,Ice Punch
+550,Espeon,Lum Berry,Psychic,Reflect,Calm Mind,Baton Pass
+551,Espeon,Bright Powder,Psychic,Swift,Charm,Attract
+552,Espeon,Lum Berry,Psychic,Shadow Ball,Hyper Beam,Grass Knot
+553,Espeon,Wise Glasses,Psychic,Shadow Ball,Signal Beam,Morning Sun
+554,Umbreon,Leftovers,Payback,Confuse Ray,Curse,Baton Pass
+555,Umbreon,Leftovers,Toxic,Mean Look,Double Team,Confuse Ray
+556,Umbreon,Lax Incense,Feint Attack,Swagger,Psych Up,Screech
+557,Umbreon,Bright Powder,Payback,Trump Card,Curse,Moonlight
+558,Slowking,Shell Bell,Psychic,Brine,Yawn,Trick Room
+559,Slowking,Quick Claw,Zen Headbutt,Aqua Tail,Earthquake,Curse
+560,Slowking,Lum Berry,Psychic,Shadow Ball,Signal Beam,Focus Blast
+561,Slowking,Wise Glasses,Psychic,Surf,Ice Beam,Flamethrower
+562,Forretress,Occa Berry,Gyro Ball,Bug Bite,Revenge,Counter
+563,Forretress,Sitrus Berry,Payback,Stealth Rock,Toxic Spikes,Spikes
+564,Forretress,Leftovers,Dig,Swagger,Toxic,Double Team
+565,Forretress,Lax Incense,Explosion,Double-Edge,Earthquake,Rock Slide
+566,Steelix,Passho Berry,Earthquake,Iron Head,Crunch,Sandstorm
+567,Steelix,Shuca Berry,Earthquake,Fire Fang,Thunder Fang,Ice Fang
+568,Steelix,Iron Ball,Gyro Ball,Payback,Swagger,Curse
+569,Steelix,Quick Claw,Gyro Ball,Earthquake,Stone Edge,Explosion
+570,Granbull,Razor Claw,Return,Rock Slide,Crunch,Thunder Wave
+571,Granbull,Quick Claw,Facade,Fire Fang,Thunder Fang,Ice Fang
+572,Granbull,Muscle Band,Fire Punch,Thunder Punch,Ice Punch,Payback
+573,Granbull,Life Orb,Giga Impact,Close Combat,Earthquake,Stone Edge
+574,Scizor,Bright Powder,X-Scissor,Bullet Punch,Swords Dance,Baton Pass
+575,Scizor,Sitrus Berry,Metal Claw,Night Slash,Iron Defense,Roost
+576,Scizor,Salac Berry,X-Scissor,Quick Attack,Reversal,Endure
+577,Scizor,Occa Berry,X-Scissor,Iron Head,Aerial Ace,Night Slash
+578,Shuckle,Lax Incense,Stone Edge,Bug Bite,Swagger,Power Trick
+579,Shuckle,Grip Claw,Wrap,Swagger,Attract,Toxic
+580,Shuckle,Lax Incense,Gyro Ball,Substitute,Double Team,Power Trick
+581,Shuckle,Leftovers,Toxic,Substitute,Double Team,Sandstorm
+582,Heracross,Focus Band,Megahorn,Focus Punch,Swagger,Attract
+583,Heracross,Scope Lens,Close Combat,Aerial Ace,Night Slash,Bulk Up
+584,Heracross,Coba Berry,Megahorn,Stone Edge,Facade,Shadow Claw
+585,Heracross,Salac Berry,Megahorn,Earthquake,Reversal,Endure
+586,Ursaring,Focus Sash,Slash,Payback,Avalanche,Counter
+587,Ursaring,Life Orb,Hammer Arm,Fire Punch,Thunder Punch,Ice Punch
+588,Ursaring,Toxic Orb,Facade,Superpower,Crunch,Protect
+589,Ursaring,Quick Claw,Return,Cross Chop,Earthquake,Aerial Ace
+590,Skarmory,Occa Berry,Drill Peck,Steel Wing,Spikes,Roar
+591,Skarmory,Leftovers,Fly,Toxic,Double Team,Roost
+592,Skarmory,Razor Claw,Drill Peck,Slash,Payback,Night Slash
+593,Skarmory,Life Orb,Brave Bird,Steel Wing,X-Scissor,Rock Slide
+594,Houndoom,Focus Sash,Fire Fang,Crunch,Roar,Counter
+595,Houndoom,Focus Sash,Fire Fang,Thunder Fang,Reversal,Endure
+596,Houndoom,Passho Berry,Flamethrower,Shadow Ball,Sludge Bomb,Will-O-Wisp
+597,Houndoom,White Herb,Overheat,Dark Pulse,Solar Beam,Sunny Day
+598,Kingdra,Razor Fang,Surf,Dragon Pulse,SmokeScreen,Rain Dance
+599,Kingdra,Shell Bell,Brine,Ice Beam,Twister,Yawn
+600,Kingdra,Lum Berry,Waterfall,Outrage,Iron Head,Dragon Dance
+601,Kingdra,Wide Lens,Hydro Pump,Draco Meteor,Blizzard,Signal Beam
+602,Donphan,Razor Claw,Earthquake,Rock Slide,Poison Jab,Sandstorm
+603,Donphan,White Herb,Earthquake,Superpower,Gunk Shot,Counter
+604,Donphan,Lax Incense,Earthquake,Gyro Ball,Fire Fang,Thunder Fang
+605,Donphan,Quick Claw,Earthquake,Stone Edge,Seed Bomb,Fissure
+606,Porygon2,Cheri Berry,Tri Attack,Charge Beam,Thunder Wave,Recycle
+607,Porygon2,Iron Ball,Tri Attack,Thunderbolt,Recover,Trick Room
+608,Porygon2,Wise Glasses,Tri Attack,Thunderbolt,Psychic,Ice Beam
+609,Porygon2,Lum Berry,Tri Attack,Signal Beam,Shadow Ball,Ice Beam
+610,Miltank,Cheri Berry,Return,Iron Head,Thunder Wave,Milk Drink
+611,Miltank,Salac Berry,Facade,Zen Headbutt,Reversal,Endure
+612,Miltank,Scope Lens,Dizzy Punch,Fire Punch,Thunder Punch,Ice Punch
+613,Miltank,Muscle Band,Giga Impact,Earthquake,Rock Slide,Zen Headbutt
+614,Blissey,Chople Berry,Hyper Beam,Shadow Ball,Water Pulse,Sing
+615,Blissey,Chesto Berry,Toxic,Double Team,Soft-Boiled,Counter
+616,Blissey,Bright Powder,Flamethrower,Thunderbolt,Ice Beam,Calm Mind
+617,Blissey,Leftovers,Dream Eater,Sing,Soft-Boiled,Counter
+618,Tyranitar,Focus Band,Rock Slide,Payback,Avalanche,Curse
+619,Tyranitar,Choice Scarf,Fire Punch,Thunder Punch,Ice Punch,Aerial Ace
+620,Tyranitar,White Herb,Superpower,Dragon Claw,Shadow Claw,Aqua Tail
+621,Tyranitar,Chople Berry,Stone Edge,Crunch,Earthquake,Dragon Dance
+622,Sceptile,Liechi Berry,Leaf Blade,Crunch,Quick Attack,Screech
+623,Sceptile,Leftovers,Giga Drain,Leech Seed,Toxic,Double Team
+624,Sceptile,Scope Lens,Leaf Blade,X-Scissor,Night Slash,Aerial Ace
+625,Sceptile,Occa Berry,Leaf Storm,Dragon Pulse,Focus Blast,Hyper Beam
+626,Blaziken,Salac Berry,Blaze Kick,Reversal,Aerial Ace,Endure
+627,Blaziken,Bright Powder,Blast Burn,Focus Blast,Solar Beam,Sunny Day
+628,Blaziken,Passho Berry,Blaze Kick,Earthquake,Shadow Claw,Stone Edge
+629,Blaziken,White Herb,Flare Blitz,Superpower,Thunder Punch,Night Slash
+630,Swampert,Shell Bell,Waterfall,Earthquake,Ice Punch,Protect
+631,Swampert,Lum Berry,Aqua Tail,Earthquake,Hammer Arm,Curse
+632,Swampert,Expert Belt,Muddy Water,Earth Power,Ice Beam,Counter
+633,Swampert,Rindo Berry,Earthquake,Aqua Tail,Avalanche,Mirror Coat
+634,Ludicolo,Muscle Band,Waterfall,Razor Leaf,Drain Punch,Swords Dance
+635,Ludicolo,Leftovers,Leech Seed,Toxic,Double Team,Rain Dance
+636,Ludicolo,Wide Lens,Hydro Pump,Grass Knot,Blizzard,Focus Blast
+637,Ludicolo,Lum Berry,Surf,Giga Drain,Ice Beam,Rain Dance
+638,Shiftry,Persim Berry,Seed Bomb,Feint Attack,X-Scissor,Fake Out
+639,Shiftry,Leftovers,Giga Drain,Leech Seed,Double Team,Synthesis
+640,Shiftry,White Herb,Leaf Storm,Dark Pulse,Focus Blast,Shadow Ball
+641,Shiftry,Cheri Berry,Seed Bomb,Sucker Punch,Aerial Ace,Explosion
+642,Gardevoir,Lum Berry,Psychic,Shadow Ball,Thunder Wave,Confuse Ray
+643,Gardevoir,Chesto Berry,Psychic,Thunderbolt,Calm Mind,Rest
+644,Gardevoir,Bright Powder,Psychic,Charge Beam,Energy Ball,Focus Blast
+645,Gardevoir,Wise Glasses,Psychic,Thunderbolt,Shadow Ball,Destiny Bond
+646,Breloom,Focus Sash,Seed Bomb,Sky Uppercut,Rock Slide,Counter
+647,Breloom,Big Root,Drain Punch,Giga Drain,Synthesis,Leech Seed
+648,Breloom,Toxic Orb,Dynamic Punch,Thunder Punch,Stone Edge,Facade
+649,Breloom,Shell Bell,Focus Punch,Seed Bomb,Giga Impact,Spore
+650,Slaking,Lax Incense,Facade,Shadow Claw,Slack Off,Yawn
+651,Slaking,Lum Berry,Crush Claw,Fire Punch,Thunder Punch,Ice Punch
+652,Slaking,Life Orb,Return,Night Slash,Gunk Shot,Aerial Ace
+653,Slaking,Muscle Band,Giga Impact,Earthquake,Hammer Arm,Shadow Claw
+654,Exploud,Chople Berry,Hyper Voice,Extrasensory,Water Pulse,Torment
+655,Exploud,Life Orb,Facade,Fire Punch,Thunder Punch,Ice Punch
+656,Exploud,Life Orb,Facade,Earthquake,Avalanche,Crunch
+657,Exploud,White Herb,Hyper Voice,Overheat,Surf,Ice Beam
+658,Hariyama,Persim Berry,Arm Thrust,Earthquake,Facade,Fake Out
+659,Hariyama,Iron Ball,Revenge,Payback,Fling,Fake Out
+660,Hariyama,Life Orb,Dynamic Punch,Fire Punch,Thunder Punch,Ice Punch
+661,Hariyama,Scope Lens,Cross Chop,Earthquake,Stone Edge,Poison Jab
+662,Aggron,Quick Claw,Iron Head,Rock Slide,Sandstorm,Screech
+663,Aggron,Quick Claw,Metal Claw,Fire Punch,Thunder Punch,Ice Punch
+664,Aggron,Muscle Band,Iron Tail,Dragon Rush,Avalanche,Aerial Ace
+665,Aggron,Focus Sash,Metal Burst,Stone Edge,Earthquake,Shadow Claw
+666,Medicham,Salac Berry,Zen Headbutt,Reversal,Endure,Fake Out
+667,Medicham,Cheri Berry,Drain Punch,Poison Jab,Detect,Recover
+668,Medicham,Wise Glasses,Psychic,Focus Blast,Shadow Ball,Calm Mind
+669,Medicham,Scope Lens,Psycho Cut,Fire Punch,Thunder Punch,Ice Punch
+670,Manectric,Shuca Berry,Thunder Fang,Crunch,Roar,Thunder Wave
+671,Manectric,Damp Rock,Thunder,Hyper Beam,Thunder Wave,Rain Dance
+672,Manectric,Quick Claw,Thunder Fang,Fire Fang,Ice Fang,Bite
+673,Manectric,Bright Powder,Thunderbolt,Flamethrower,Signal Beam,Swift
+674,Wailord,Sitrus Berry,Surf,Ice Beam,Attract,Double Team
+675,Wailord,Chesto Berry,Whirlpool,Toxic,Amnesia,Rest
+676,Wailord,Leftovers,Waterfall,Avalanche,Earthquake,Curse
+677,Wailord,Quick Claw,Hydro Pump,Blizzard,Hyper Beam,Fissure
+678,Flygon,Yache Berry,Earthquake,Dragon Claw,Roost,Sandstorm
+679,Flygon,Razor Fang,Fissure,Fire Punch,Thunder Punch,Aerial Ace
+680,Flygon,White Herb,Draco Meteor,Earth Power,Flamethrower,Giga Drain
+681,Flygon,Lum Berry,Earthquake,Outrage,Crunch,Stone Edge
+682,Altaria,Chesto Berry,Dragon Claw,Aerial Ace,Dragon Dance,Rest
+683,Altaria,Shell Bell,Dragon Pulse,Ominous Wind,Sing,Perish Song
+684,Altaria,Bright Powder,Dragon Rush,Sky Attack,Earthquake,Dragon Dance
+685,Altaria,White Herb,Draco Meteor,Air Cutter,Flamethrower,Ice Beam
+686,Whiscash,Shell Bell,Surf,Earth Power,Icy Wind,Amnesia
+687,Whiscash,Persim Berry,Aqua Tail,Earthquake,Rock Slide,Thrash
+688,Whiscash,Zoom Lens,Hydro Pump,Earth Power,Blizzard,Fissure
+689,Whiscash,Muscle Band,Earthquake,Aqua Tail,Zen Headbutt,Stone Edge
+690,Claydol,Kasib Berry,Earthquake,Zen Headbutt,Grass Knot,Trick Room
+691,Claydol,Rindo Berry,Earth Power,Ancient Power,Signal Beam,Shadow Ball
+692,Claydol,Wise Glasses,Earth Power,Psychic,Charge Beam,Ice Beam
+693,Claydol,Lax Incense,Earthquake,Zen Headbutt,Rock Slide,Explosion
+694,Cradily,Razor Claw,Ancient Power,Energy Ball,Confuse Ray,Sandstorm
+695,Cradily,Leftovers,Toxic,Stockpile,Double Team,Ingrain
+696,Cradily,Big Root,Giga Drain,Sludge Bomb,Recover,Ingrain
+697,Cradily,Leftovers,Stone Edge,Seed Bomb,Earthquake,Mirror Coat
+698,Armaldo,Razor Claw,X-Scissor,Rock Slide,Earthquake,Iron Defense
+699,Armaldo,Scope Lens,Crush Claw,Aqua Tail,Aerial Ace,Swagger
+700,Armaldo,Choice Band,Stone Edge,Superpower,Earthquake,Giga Impact
+701,Armaldo,Life Orb,Stone Edge,X-Scissor,Earthquake,Cross Poison
+702,Milotic,Shell Bell,Surf,Ice Beam,Attract,Hypnosis
+703,Milotic,Leftovers,Toxic,Confuse Ray,Double Team,Aqua Ring
+704,Milotic,Wide Lens,Hydro Pump,Blizzard,Mirror Coat,Recover
+705,Milotic,Lum Berry,Surf,Ice Beam,Dragon Pulse,Recover
+706,Absol,Chople Berry,Sucker Punch,Facade,Double Team,Taunt
+707,Absol,Quick Claw,Punishment,Swagger,Attract,Thunder Wave
+708,Absol,Razor Claw,Night Slash,Psycho Cut,X-Scissor,Aerial Ace
+709,Absol,Choice Band,Night Slash,Superpower,Giga Impact,Zen Headbutt
+710,Glalie,Iron Ball,Avalanche,Payback,Gyro Ball,Ice Shard
+711,Glalie,Lum Berry,Ice Fang,Crunch,Earthquake,Explosion
+712,Glalie,Scope Lens,Ice Beam,Shadow Ball,Signal Beam,Water Pulse
+713,Glalie,Lax Incense,Blizzard,Dark Pulse,Sheer Cold,Hail
+714,Walrein,Chople Berry,Ice Fang,Aqua Tail,Swagger,Encore
+715,Walrein,Life Orb,Avalanche,Earthquake,Crunch,Curse
+716,Walrein,Lax Incense,Sheer Cold,Fissure,Rest,Sleep Talk
+717,Walrein,Leftovers,Surf,Ice Beam,Signal Beam,Hail
+718,Salamence,Cheri Berry,Dragon Claw,Aerial Ace,Aqua Tail,Scary Face
+719,Salamence,Razor Fang,Dragon Claw,Fire Fang,Thunder Fang,Dragon Dance
+720,Salamence,Wise Glasses,Draco Meteor,Hydro Pump,Flamethrower,Ominous Wind
+721,Salamence,Lum Berry,Outrage,Crunch,Earthquake,Zen Headbutt
+722,Metagross,Bright Powder,Zen Headbutt,Bullet Punch,Facade,Light Screen
+723,Metagross,Wise Glasses,Psychic,Flash Cannon,Shadow Ball,Sludge Bomb
+724,Metagross,Occa Berry,Hammer Arm,Thunder Punch,Ice Punch,Aerial Ace
+725,Metagross,Quick Claw,Meteor Mash,Zen Headbutt,Earthquake,Explosion
+726,Torterra,Yache Berry,Earthquake,Grass Knot,Rock Slide,Curse
+727,Torterra,Leftovers,Giga Drain,Leech Seed,Synthesis,Amnesia
+728,Torterra,Lax Incense,Frenzy Plant,Earth Power,Hyper Beam,Leech Seed
+729,Torterra,Quick Claw,Wood Hammer,Earthquake,Stone Edge,Crunch
+730,Infernape,Coba Berry,Close Combat,Fire Punch,U-turn,Fake Out
+731,Infernape,Muscle Band,Blaze Kick,Shadow Claw,Thunder Punch,Gunk Shot
+732,Infernape,Bright Powder,Flamethrower,Focus Blast,Solar Beam,Sunny Day
+733,Infernape,King's Rock,Flare Blitz,Close Combat,Earthquake,Thunder Punch
+734,Empoleon,Razor Claw,Waterfall,Metal Claw,Brick Break,Knock Off
+735,Empoleon,Razor Claw,Drill Peck,Aqua Jet,Shadow Claw,Rock Slide
+736,Empoleon,Quick Claw,Surf,Earthquake,Blizzard,Signal Beam
+737,Empoleon,Quick Claw,Hydro Cannon,Flash Cannon,Drill Peck,Earthquake
+738,Staraptor,King's Rock,Return,Aerial Ace,Double Team,Roost
+739,Staraptor,King's Rock,Endeavor,Aerial Ace,Endure,Quick Attack
+740,Staraptor,Muscle Band,Brave Bird,Return,Steel Wing,Pursuit
+741,Staraptor,Choice Band,Brave Bird,Giga Impact,Close Combat,U-turn
+742,Luxray,Razor Claw,Thunder Fang,Crunch,Howl,Charge
+743,Luxray,Wise Glasses,Thunderbolt,Signal Beam,Thunder Wave,Magnet Rise
+744,Luxray,White Herb,Thunder Fang,Ice Fang,Superpower,Thunder Wave
+745,Luxray,Muscle Band,Thunder Fang,Ice Fang,Crunch,Thunder Wave
+746,Roserade,Coba Berry,Sludge Bomb,Magical Leaf,Stun Spore,Mud-Slap
+747,Roserade,Big Root,Giga Drain,Leech Seed,Ingrain,Synthesis
+748,Roserade,White Herb,Leaf Storm,Sludge Bomb,Hyper Beam,Grass Whistle
+749,Roserade,White Herb,Leaf Storm,Sludge Bomb,Shadow Ball,Weather Ball
+750,Rampardos,Toxic Orb,Rock Slide,Facade,Crunch,Screech
+751,Rampardos,Iron Ball,Stone Edge,Payback,Avalanche,Fling
+752,Rampardos,Life Orb,Head Smash,Zen Headbutt,Fire Punch,Thunder Punch
+753,Rampardos,Choice Scarf,Head Smash,Earthquake,Giga Impact,Superpower
+754,Bastiodon,Focus Band,Iron Head,Stone Edge,Swagger,Taunt
+755,Bastiodon,Persim Berry,Ancient Power,Flamethrower,Thunderbolt,Ice Beam
+756,Bastiodon,Leftovers,Iron Head,Fissure,Double Team,Iron Defense
+757,Bastiodon,Focus Sash,Metal Burst,Stone Edge,Avalanche,Curse
+758,Vespiquen,Scope Lens,Silver Wind,Air Cutter,Ominous Wind,Swagger
+759,Vespiquen,Persim Berry,X-Scissor,Toxic,Heal Order,Destiny Bond
+760,Vespiquen,Muscle Band,X-Scissor,Aerial Ace,Pursuit,U-turn
+761,Vespiquen,Shell Bell,Attack Order,Defend Order,Heal Order,Confuse Ray
+762,Floatzel,Sitrus Berry,Waterfall,Ice Punch,Quick Attack,Rain Dance
+763,Floatzel,Chesto Berry,Waterfall,Focus Punch,Double Team,Attract
+764,Floatzel,Wave Incense,Surf,Ice Beam,Focus Blast,Rain Dance
+765,Floatzel,Razor Fang,Aqua Tail,Ice Fang,Crunch,Brick Break
+766,Gastrodon,Focus Sash,Waterfall,Earthquake,Recover,Mirror Coat
+767,Gastrodon,Zoom Lens,Muddy Water,Mud Bomb,Recover,Yawn
+768,Gastrodon,Shell Bell,Waterfall,Earthquake,Stone Edge,Fissure
+769,Gastrodon,Wise Glasses,Surf,Earth Power,Ice Beam,Sludge Bomb
+770,Ambipom,Muscle Band,Double Hit,Shadow Claw,Brick Break,Knock Off
+771,Ambipom,Metronome,Last Resort,Thunder Wave,Protect,Fake Out
+772,Ambipom,Life Orb,Double Hit,Gunk Shot,Seed Bomb,Aerial Ace
+773,Ambipom,Life Orb,Double Hit,Fire Punch,Thunder Punch,Ice Punch
+774,Drifblim,Salac Berry,Ominous Wind,Air Cutter,Baton Pass,Endure
+775,Drifblim,Black Sludge,Payback,Facade,Will-O-Wisp,Trick
+776,Drifblim,Wise Glasses,Psychic,Thunderbolt,Icy Wind,Destiny Bond
+777,Drifblim,Lax Incense,Shadow Ball,Air Cutter,Silver Wind,Explosion
+778,Lopunny,Focus Band,Return,Drain Punch,Charm,Mirror Coat
+779,Lopunny,Bright Powder,Focus Punch,Sweet Kiss,Attract,Thunder Wave
+780,Lopunny,Wise Glasses,Charge Beam,Ice Beam,Shadow Ball,Focus Blast
+781,Lopunny,Muscle Band,Dizzy Punch,Fire Punch,Thunder Punch,Ice Punch
+782,Mismagius,Kasib Berry,Shadow Ball,Power Gem,Magical Leaf,Memento
+783,Mismagius,Lum Berry,Shadow Ball,Confuse Ray,Perish Song,Mean Look
+784,Mismagius,Wise Glasses,Shadow Ball,Energy Ball,Icy Wind,Destiny Bond
+785,Mismagius,Focus Sash,Shadow Ball,Psychic,Thunderbolt,Destiny Bond
+786,Honchkrow,Wacan Berry,Night Slash,Aerial Ace,Torment,Taunt
+787,Honchkrow,White Herb,Superpower,Pluck,Confuse Ray,Thunder Wave
+788,Honchkrow,Life Orb,Dark Pulse,Air Cutter,Psychic,Shadow Ball
+789,Honchkrow,Scope Lens,Night Slash,Drill Peck,Sucker Punch,Steel Wing
+790,Skuntank,Razor Claw,Sucker Punch,Poison Jab,Slash,Screech
+791,Skuntank,Chesto Berry,Crunch,Toxic,Swagger,Double Team
+792,Skuntank,Shuca Berry,Sludge Bomb,Dark Pulse,Flamethrower,Shadow Ball
+793,Skuntank,Muscle Band,Poison Jab,Night Slash,Crunch,Explosion
+794,Bronzong,King's Rock,Extrasensory,Iron Head,Rock Slide,Trick Room
+795,Bronzong,Lum Berry,Dream Eater,Hypnosis,Signal Beam,Trick Room
+796,Bronzong,Leftovers,Psychic,Shadow Ball,Charge Beam,Signal Beam
+797,Bronzong,Quick Claw,Zen Headbutt,Iron Head,Earthquake,Explosion
+798,Garchomp,Bright Powder,Dragon Claw,Earthquake,Double Team,Sandstorm
+799,Garchomp,White Herb,Draco Meteor,Earth Power,Flamethrower,Surf
+800,Garchomp,Focus Sash,Dragon Rush,Stone Edge,Aqua Tail,Aerial Ace
+801,Garchomp,Persim Berry,Outrage,Earthquake,Crunch,Fire Fang
+802,Lucario,Bright Powder,Aura Sphere,Flash Cannon,Water Pulse,Roar
+803,Lucario,Scope Lens,Cross Chop,Stone Edge,Thunder Punch,Ice Punch
+804,Lucario,Muscle Band,Close Combat,Earthquake,Blaze Kick,Shadow Claw
+805,Lucario,Expert Belt,Aura Sphere,Psychic,Shadow Ball,Dragon Pulse
+806,Hippowdon,Persim Berry,Earthquake,Crunch,Slack Off,Curse
+807,Hippowdon,Sitrus Berry,Earthquake,Swagger,Sand Tomb,Yawn
+808,Hippowdon,White Herb,Superpower,Fire Fang,Ice Fang,Fissure
+809,Hippowdon,Quick Claw,Earthquake,Stone Edge,Crunch,Thunder Fang
+810,Drapion,Lum Berry,Poison Jab,Crunch,Aqua Tail,Acupressure
+811,Drapion,Iron Ball,Payback,Poison Jab,Fling,Knock Off
+812,Drapion,Scope Lens,Cross Poison,Fire Fang,Thunder Fang,Ice Fang
+813,Drapion,Razor Claw,Cross Poison,Night Slash,Earthquake,Aerial Ace
+814,Toxicroak,Black Sludge,Poison Jab,Brick Break,X-Scissor,Knock Off
+815,Toxicroak,Wide Lens,Dynamic Punch,Poison Jab,Thunder Punch,Ice Punch
+816,Toxicroak,Wise Glasses,Sludge Bomb,Focus Blast,Shadow Ball,Dark Pulse
+817,Toxicroak,Razor Claw,Gunk Shot,Cross Chop,Earthquake,Stone Edge
+818,Abomasnow,Lum Berry,Giga Drain,Ice Beam,Water Pulse,Grass Whistle
+819,Abomasnow,Big Root,Giga Drain,Sheer Cold,Ingrain,Leech Seed
+820,Abomasnow,Occa Berry,Energy Ball,Blizzard,Shadow Ball,Focus Blast
+821,Abomasnow,Shell Bell,Wood Hammer,Avalanche,Earthquake,Rock Slide
+822,Weavile,Chople Berry,Night Slash,Ice Punch,Screech,Fake Out
+823,Weavile,Bright Powder,Night Slash,Attract,Double Team,Hail
+824,Weavile,Focus Sash,Night Slash,X-Scissor,Metal Claw,Counter
+825,Weavile,Razor Claw,Night Slash,Ice Punch,Aerial Ace,Brick Break
+826,Magnezone,Light Clay,Thunderbolt,Mirror Shot,Light Screen,Reflect
+827,Magnezone,Lum Berry,Iron Head,Explosion,Swagger,Psych Up
+828,Magnezone,Chesto Berry,Charge Beam,Flash Cannon,Magnet Rise,Thunder Wave
+829,Magnezone,Bright Powder,Thunderbolt,Flash Cannon,Tri Attack,Signal Beam
+830,Lickilicky,Chesto Berry,Return,Earthquake,Belly Drum,Rest
+831,Lickilicky,Expert Belt,Surf,Ice Beam,Thunderbolt,Shadow Ball
+832,Lickilicky,Lum Berry,Return,Gyro Ball,Curse,Rest
+833,Lickilicky,Lax Incense,Body Slam,Power Whip,Earthquake,Explosion
+834,Rhyperior,Focus Band,Rock Wrecker,Earthquake,Crunch,Roar
+835,Rhyperior,Expert Belt,Fire Punch,Thunder Punch,Ice Punch,Aqua Tail
+836,Rhyperior,Focus Sash,Horn Drill,Avalanche,Payback,Counter
+837,Rhyperior,Choice Band,Rock Wrecker,Earthquake,Hammer Arm,Megahorn
+838,Tangrowth,Coba Berry,Energy Ball,Sludge Bomb,Focus Blast,Sleep Powder
+839,Tangrowth,Big Root,Giga Drain,Leech Seed,Toxic,Double Team
+840,Tangrowth,Heat Rock,Solar Beam,Wring Out,Synthesis,Sunny Day
+841,Tangrowth,Lax Incense,Power Whip,Earthquake,Aerial Ace,Brick Break
+842,Electivire,Scope Lens,Thunder Punch,Cross Chop,Thunder Wave,Screech
+843,Electivire,Wide Lens,Thunder,Dynamic Punch,Rock Slide,Iron Tail
+844,Electivire,Wise Glasses,Thunderbolt,Psychic,Focus Blast,Signal Beam
+845,Electivire,Shuca Berry,Thunder Punch,Fire Punch,Ice Punch,Earthquake
+846,Magmortar,Heat Rock,Fire Blast,Focus Blast,Will-O-Wisp,Sunny Day
+847,Magmortar,Shuca Berry,Fire Punch,Focus Punch,Confuse Ray,SmokeScreen
+848,Magmortar,Passho Berry,Flare Blitz,Thunder Punch,Earthquake,Brick Break
+849,Magmortar,White Herb,Overheat,Psychic,Focus Blast,Confuse Ray
+850,Togekiss,Power Herb,Sky Attack,Extreme Speed,Drain Punch,Roost
+851,Togekiss,Scope Lens,Air Slash,Ominous Wind,Silver Wind,Ancient Power
+852,Togekiss,Wise Glasses,Air Slash,Heat Wave,Signal Beam,Magical Leaf
+853,Togekiss,Expert Belt,Hyper Beam,Air Slash,Aura Sphere,Psychic
+854,Yanmega,Coba Berry,Signal Beam,Air Cutter,Detect,Double Team
+855,Yanmega,Muscle Band,Aerial Ace,U-turn,Night Slash,Steel Wing
+856,Yanmega,Lum Berry,Silver Wind,Ancient Power,Ominous Wind,Giga Drain
+857,Yanmega,Wise Glasses,Bug Buzz,Air Slash,Psychic,Shadow Ball
+858,Leafeon,Scope Lens,Leaf Blade,Aerial Ace,Double Team,Baton Pass
+859,Leafeon,Bright Powder,Leaf Blade,Last Resort,Curse,Grass Whistle
+860,Leafeon,Heat Rock,Leaf Blade,X-Scissor,Synthesis,Sunny Day
+861,Leafeon,Quick Claw,Leaf Blade,X-Scissor,Aerial Ace,Bite
+862,Glaceon,Lax Incense,Ice Beam,Water Pulse,Double Team,Baton Pass
+863,Glaceon,Leftovers,Ice Beam,Double Team,Yawn,Hail
+864,Glaceon,Focus Sash,Blizzard,Hyper Beam,Hail,Mirror Coat
+865,Glaceon,Wise Glasses,Ice Beam,Shadow Ball,Signal Beam,Water Pulse
+866,Gliscor,Yache Berry,Earthquake,Aerial Ace,Swords Dance,Baton Pass
+867,Gliscor,Razor Fang,Earthquake,Fire Fang,Thunder Fang,Ice Fang
+868,Gliscor,Focus Sash,Guillotine,Earthquake,U-turn,Counter
+869,Gliscor,Expert Belt,Earthquake,Aerial Ace,X-Scissor,Stone Edge
+870,Mamoswine,Icy Rock,Earthquake,Ice Fang,Peck,Hail
+871,Mamoswine,Sitrus Berry,Avalanche,Earthquake,Iron Head,Curse
+872,Mamoswine,Lax Incense,Earthquake,Superpower,Fissure,Hail
+873,Mamoswine,Life Orb,Earthquake,Ice Fang,Stone Edge,Double-Edge
+874,Porygon-Z,Sitrus Berry,Tri Attack,Shadow Ball,Recycle,Conversion 2
+875,Porygon-Z,Choice Scarf,Tri Attack,Thunder Wave,Recover,Trick
+876,Porygon-Z,Wise Glasses,Psychic,Ice Beam,Signal Beam,Charge Beam
+877,Porygon-Z,Expert Belt,Tri Attack,Shadow Ball,Thunderbolt,Recover
+878,Gallade,Kasib Berry,Zen Headbutt,Brick Break,Thunder Wave,Confuse Ray
+879,Gallade,Bright Powder,Drain Punch,Fire Punch,Thunder Punch,Ice Punch
+880,Gallade,Scope Lens,Psycho Cut,Stone Edge,Aerial Ace,X-Scissor
+881,Gallade,Scope Lens,Psycho Cut,Close Combat,Leaf Blade,Night Slash
+882,Probopass,Cheri Berry,Ancient Power,Magnet Bomb,Thunder Wave,Protect
+883,Probopass,Chople Berry,Iron Head,Fire Punch,Thunder Punch,Ice Punch
+884,Probopass,Scope Lens,Stone Edge,Iron Head,Earthquake,Explosion
+885,Probopass,Life Orb,Flash Cannon,Power Gem,Earth Power,Thunderbolt
+886,Dusknoir,Iron Ball,Shadow Punch,Fling,Will-O-Wisp,Trick Room
+887,Dusknoir,Leftovers,Curse,Pain Split,Confuse Ray,Attract
+888,Dusknoir,Scope Lens,Shadow Punch,Fire Punch,Thunder Punch,Ice Punch
+889,Dusknoir,Muscle Band,Shadow Punch,Earthquake,Brick Break,Rock Slide
+890,Froslass,Cheri Berry,Ice Beam,Ominous Wind,Confuse Ray,Attract
+891,Froslass,Focus Band,Ice Punch,Sucker Punch,Swagger,Psych Up
+892,Froslass,Expert Belt,Ice Beam,Thunderbolt,Signal Beam,Destiny Bond
+893,Froslass,Lax Incense,Blizzard,Shadow Ball,Psychic,Hail
+894,Articuno,Icy Rock,Blizzard,Fly,Roost,Hail
+895,Articuno,Wacan Berry,Avalanche,Aerial Ace,Facade,Reflect
+896,Articuno,Wise Glasses,Ice Beam,Signal Beam,Ominous Wind,Water Pulse
+897,Articuno,Charti Berry,Ice Beam,Air Cutter,Ancient Power,Sheer Cold
+898,Zapdos,Yache Berry,Thunder,Drill Peck,Thunder Wave,Rain Dance
+899,Zapdos,Focus Band,Thunderbolt,Ancient Power,Ominous Wind,Light Screen
+900,Zapdos,King's Rock,Drill Peck,Twister,Steel Wing,U-turn
+901,Zapdos,Bright Powder,Thunderbolt,Air Cutter,Heat Wave,Signal Beam
+902,Moltres,Passho Berry,Flamethrower,Air Slash,Ancient Power,Roost
+903,Moltres,Heat Rock,Fire Blast,Solar Beam,Hyper Beam,Sunny Day
+904,Moltres,Power Herb,Sky Attack,Return,Steel Wing,U-turn
+905,Moltres,White Herb,Overheat,Air Slash,Ancient Power,Ominous Wind
+906,Raikou,Lum Berry,Thunderbolt,Shadow Ball,Thunder Wave,Light Screen
+907,Raikou,King's Rock,Thunder Fang,Crunch,Iron Head,Return
+908,Raikou,Wise Glasses,Thunder,Extrasensory,Signal Beam,Rain Dance
+909,Raikou,Shuca Berry,Thunderbolt,Extrasensory,Shadow Ball,Calm Mind
+910,Entei,Shuca Berry,Fire Fang,Return,Roar,Reflect
+911,Entei,King's Rock,Fire Fang,Bite,Iron Head,Stone Edge
+912,Entei,Shuca Berry,Fire Blast,Solar Beam,Hyper Beam,Sunny Day
+913,Entei,Shuca Berry,Overheat,Extrasensory,Shadow Ball,Calm Mind
+914,Suicune,Focus Sash,Surf,Icy Wind,Ominous Wind,Mirror Coat
+915,Suicune,King's Rock,Waterfall,Ice Fang,Iron Head,Bite
+916,Suicune,Lum Berry,Hydro Pump,Blizzard,Shadow Ball,Hail
+917,Suicune,Wacan Berry,Surf,Ice Beam,Extrasensory,Calm Mind
+918,Regirock,Leftovers,Rock Slide,Earthquake,Brick Break,Sandstorm
+919,Regirock,Razor Claw,Fire Punch,Thunder Punch,Ice Punch,Drain Punch
+920,Regirock,Chesto Berry,Stone Edge,Hammer Arm,Rest,Curse
+921,Regirock,Quick Claw,Stone Edge,Earthquake,Hammer Arm,Explosion
+922,Regice,Lum Berry,Ice Beam,Signal Beam,Charge Beam,Amnesia
+923,Regice,Leftovers,Avalanche,Hammer Arm,Double Team,Curse
+924,Regice,Chesto Berry,Ice Beam,Flash Cannon,Ancient Power,Rest
+925,Regice,Shell Bell,Ice Beam,Thunderbolt,Hyper Beam,Focus Blast
+926,Registeel,Lum Berry,Flash Cannon,Thunderbolt,Thunder Wave,Amnesia
+927,Registeel,Leftovers,Iron Head,Toxic,Double Team,Iron Defense
+928,Registeel,Razor Claw,Shadow Claw,Aerial Ace,Thunder Punch,Ice Punch
+929,Registeel,Shell Bell,Iron Head,Hammer Arm,Earthquake,Curse
+930,Latias,Lum Berry,Psychic,Dragon Pulse,Attract,Calm Mind
+931,Latias,Expert Belt,Dragon Claw,Zen Headbutt,Earthquake,Aerial Ace
+932,Latias,Bright Powder,Psychic,Ice Beam,Energy Ball,Shadow Ball
+933,Latias,White Herb,Mist Ball,Draco Meteor,Thunderbolt,Surf
+934,Latios,Focus Band,Psychic,Dragon Pulse,Thunder Wave,Calm Mind
+935,Latios,Lum Berry,Dragon Claw,Shadow Claw,Earthquake,Dragon Dance
+936,Latios,Bright Powder,Psychic,Thunderbolt,Ice Beam,Energy Ball
+937,Latios,White Herb,Luster Purge,Draco Meteor,Hyper Beam,Surf
+938,Heatran,Shuca Berry,Heat Wave,Flash Cannon,Ancient Power,Scary Face
+939,Heatran,Quick Claw,Iron Head,Earthquake,Stone Edge,Crunch
+940,Heatran,Bright Powder,Flamethrower,Earth Power,Dragon Pulse,Dark Pulse
+941,Heatran,Focus Sash,Magma Storm,Flash Cannon,Earth Power,Explosion
+942,Regigigas,Lax Incense,Return,Aerial Ace,Thunder Wave,Confuse Ray
+943,Regigigas,Leftovers,Facade,Zen Headbutt,Double Team,Substitute
+944,Regigigas,Wise Glasses,Earth Power,Focus Blast,Thunderbolt,Ancient Power
+945,Regigigas,Bright Powder,Crush Grip,Earthquake,Stone Edge,Drain Punch
+946,Cresselia,Heat Rock,Psychic,Solar Beam,Moonlight,Sunny Day
+947,Cresselia,Lum Berry,Psychic,Toxic,Double Team,Moonlight
+948,Cresselia,Wise Glasses,Psychic,Shadow Ball,Energy Ball,Charge Beam
+949,Cresselia,Leftovers,Psychic,Ice Beam,Signal Beam,Moonlight

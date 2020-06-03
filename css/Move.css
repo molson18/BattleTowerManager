@@ -1,0 +1,62 @@
+
+QFrame#normal {
+    background: #A8A878;
+}
+QFrame#fighting {
+    background: #C03028;
+}
+QFrame#flying {
+    background: #A890F0;
+}
+QFrame#poison{
+    background: #A040A0;
+}
+QFrame#ground {
+    background: #E0C068;
+}
+QFrame#rock {
+    background: #B8A038;
+}
+QFrame#bug {
+    background: #A8B820;
+}
+QFrame#ghost {
+    background: #705898;
+}
+QFrame#steel {
+    background: #B8B8D0;
+}
+QFrame#fire {
+    background: #F08030;
+}
+QFrame#water {
+    background: #6890F0;
+}
+QFrame#grass {
+    background: #78C850;
+}
+QFrame#electric {
+    background: #F8D030;
+}
+QFrame#psychic {
+    background: #F85888;
+}
+QFrame#ice {
+    background: #98D8D8;
+}
+QFrame#dragon {
+    background: #7038F8;
+}
+QFrame#dark {
+    background: #705848;
+}
+QFrame {
+    background: #f1f1f1;
+    border-top-color: #cccccc;
+    border-left-color: #999999;
+    border-right-color: #999999;
+    border-bottom-color: #666666;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 4px
+}

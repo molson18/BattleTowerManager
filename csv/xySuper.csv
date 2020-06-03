@@ -1,0 +1,865 @@
+Mon, Item, Move 1, Move 2, Move 3, Move 4, Nature, Hp, Atk, Def, SpAtk, SpDef, Spd
+Venusaur,Big Root,Leech Seed,Toxic,Synthesis,Ingrain,Calm,252,0,0,0,252,0
+Venusaur,Miracle Seed,Roar,Venoshock,Power Whip,Earthquake,Brave,170,170,170,0,0,0
+Venusaur,Salac Berry,Energy Ball,Sludge Bomb,Grass Knot,Protect,Timid,0,0,0,252,0,252
+Venusaur,Black Sludge,Leech Seed,Substitute,Sludge Bomb,Protect,Bold,252,0,0,0,252,0
+Charizard,Salac Berry,Dragon Claw,Fire Punch,Belly Drum,Shadow Claw,Adamant,170,0,0,0,170,170
+Charizard,Charti Berry,Dragon Claw,Shadow Claw,Rock Slide,Dragon Dance,Adamant,0,252,0,0,0,252
+Charizard,Choice Scarf,Heat Wave,Rock Slide,Air Slash,Crunch,Mild,0,170,0,170,0,170
+Charizard,Assault Vest,Heat Wave,Air Slash,Dragon Pulse,Focus Blast,Modest,0,0,0,252,0,252
+Blastoise,Zoom Lens,Aqua Ring,Rock Slide,Aqua Tail,Iron Defense,Quiet,170,0,170,0,170,0
+Blastoise,Zoom Lens,Hydro Pump,Ice Beam,Mist,Focus Blast,Quiet,252,0,0,252,0,0
+Blastoise,Leftovers,Fake Out,Earthquake,Aqua Tail,Avalanche,Adamant,252,252,0,0,0,0
+Blastoise,Custap Berry,Yawn,Waterfall,Focus Punch,Rock Slide,Adamant,252,252,0,0,0,0
+Raichu,Focus Sash,Encore,Thief,Thunder Wave,Discharge,Adamant,0,0,0,252,0,252
+Raichu,Magnet,Brick Break,Electro Ball,Fake Out,Protect,Jolly,0,252,0,0,0,252
+Raichu,Focus Sash,Thunder Punch,Reversal,Thunder Wave,Fake Out,Jolly,0,252,0,0,0,252
+Raichu,Lum Berry,Encore,Magnet Rise,Thunderbolt,Grass Knot,Timid,0,0,0,252,0,252
+Nidoqueen,Payapa Berry,Chip Away,Swagger,Helping Hand,Flatter,Relaxed,170,0,170,0,170,0
+Nidoqueen,Absorb Bulb,Thunderbolt,Hyper Beam,Earth Power,Counter,Mild,252,0,0,252,0,0
+Nidoqueen,Black Sludge,Sludge Bomb,Earth Power,Flamethrower,Ice Beam,Modest,252,0,0,252,0,0
+Nidoqueen,Black Sludge,Poison Jab,Dragon Tail,Bulldoze,Earthquake,Adamant,252,252,0,0,0,0
+Nidoking,King's Rock,Bulldoze,Megahorn,Rock Slide,Hone Claws,Naughty,252,252,0,0,0,0
+Nidoking,Black Sludge,Amnesia,Sludge Bomb,Flamethrower,Protect,Quiet,252,0,0,252,0,0
+Nidoking,Black Sludge,Earth Power,Sludge Bomb,Protect,Icy Wind,Modest,0,0,0,252,0,252
+Nidoking,Muscle Band,Earthquake,Poison Jab,Megahorn,Protect,Adamant,0,252,0,0,0,252
+Ninetales,Passho Berry,Will-O-Wisp,Hypnosis,Extrasensory,Heat Wave,Modest,0,0,0,252,0,252
+Ninetales,Safety Goggles,Heat Wave,Roar,Confuse Ray,Nasty Plot,Timid,252,0,0,0,0,252
+Ninetales,Wide Lens,Fire Blast,Extrasensory,Hypnosis,Disable,Timid,0,0,0,0,252,252
+Ninetales,Passho Berry,Flamethrower,Extrasensory,Energy Ball,Calm Mind,Timid,252,0,0,0,0,252
+Vileplume,Persim Berry,Petal Dance,Stun Spore,Teeter Dance,Moonlight,Calm,0,0,0,0,252,252
+Vileplume,Power Herb,Solar Beam,Sludge Bomb,Synthesis,Double Team,Modest,252,0,0,252,0,0
+Vileplume,Big Root,Double Team,Ingrain,Toxic,Giga Drain,Modest,252,0,0,252,0,0
+Vileplume,Lum Berry,Giga Drain,Solar Beam,Teeter Dance,Sludge Bomb,Modest,0,0,0,252,0,252
+Dugtrio,Focus Sash,Reversal,Attract,Dig,Protect,Hasty,0,252,0,0,0,252
+Dugtrio,Choice Band,Protect,Final Gambit,Earthquake,Rock Slide,Lonely,252,0,0,0,0,252
+Dugtrio,Choice Band,Earthquake,Rock Slide,Reversal,Aerial Ace,Jolly,0,252,0,0,0,252
+Dugtrio,Bright Powder,Toxic,Dig,Substitute,Sandstorm,Jolly,0,252,0,0,0,252
+Arcanine,Charcoal,Flamethrower,Solar Beam,Incinerate,Sunny Day,Modest,0,0,0,252,0,252
+Arcanine,Weakness Policy,Extreme Speed,Crunch,Overheat,Roar,Naughty,0,252,0,0,0,252
+Arcanine,White Herb,Overheat,Sunny Day,Solar Beam,Dragon Pulse,Timid,0,0,0,252,0,252
+Arcanine,Sitrus Berry,Close Combat,Flare Blitz,Crunch,Extreme Speed,Jolly,0,252,0,0,0,252
+Poliwrath,Sitrus Berry,Ice Beam,Waterfall,Psychic,Work Up,Naughty,170,170,0,170,0,0
+Poliwrath,Shell Bell,Brick Break,Waterfall,Hypnosis,Belly Drum,Naive,252,252,0,0,0,0
+Poliwrath,Leftovers,Waterfall,Focus Punch,Encore,Substitute,Adamant,252,252,0,0,0,0
+Poliwrath,Sitrus Berry,Waterfall,Earthquake,Focus Punch,Circle Throw,Adamant,252,252,0,0,0,0
+Alakazam,TwistedSpoon,Energy Ball,Psychic,Telekinesis,Guard Split,Timid,0,0,0,252,0,252
+Alakazam,Focus Sash,Psych Up,Encore,Protect,Psychic,Timid,0,0,0,252,0,252
+Alakazam,Wise Glasses,Psychic,Focus Blast,Signal Beam,Grass Knot,Timid,0,0,0,252,0,252
+Alakazam,Choice Specs,Psychic,Focus Blast,Disable,Trick,Timid,0,0,0,252,0,252
+Machamp,Rawst Berry,Dynamic Punch,Payback,Foresight,Wide Guard,Brave,252,252,0,0,0,0
+Machamp,Expert Belt,Ice Punch,Cross Chop,Fire Punch,Focus Energy,Brave,252,252,0,0,0,0
+Machamp,Choice Scarf,Dynamic Punch,Ice Punch,Rock Slide,Earthquake,Jolly,0,252,0,0,0,252
+Machamp,Flame Orb,Protect,Earthquake,Close Combat,Payback,Adamant,0,252,0,0,252,0
+Victreebel,Payapa Berry,Leaf Tornado,Stockpile,Swallow,Gastro Acid,Quiet,0,0,0,252,252,0
+Victreebel,Safety Goggles,Leaf Storm,Sleep Powder,Stockpile,Encore,Rash,0,0,0,252,0,252
+Victreebel,Focus Sash,Sunny Day,Solar Beam,Sludge Bomb,Weather Ball,Modest,0,0,0,252,0,252
+Victreebel,Life Orb,Weather Ball,Solar Beam,Sludge Bomb,Gastro Acid,Modest,0,0,0,252,0,252
+Tentacruel,Black Sludge,Ice Beam,Sludge Wave,Hex,Toxic Spikes,Hasty,0,0,0,252,0,252
+Tentacruel,Mystic Water,Rapid Spin,Poison Jab,Waterfall,Swords Dance,Hasty,0,252,0,0,0,252
+Tentacruel,Focus Sash,Hydro Pump,Sludge Bomb,Giga Drain,Mirror Coat,Modest,252,0,0,252,0,0
+Tentacruel,Black Sludge,Surf,Toxic,Venoshock,Protect,Bold,252,0,252,0,0,0
+Golem,Hard Stone,Stealth Rock,Curse,Gyro Ball,Smack Down,Impish,170,170,170,0,0,0
+Golem,Absorb Bulb,Rock Slide,Earthquake,Bulldoze,Autotomize,Naughty,0,252,0,0,0,252
+Golem,Focus Sash,Rock Slide,Earthquake,Explosion,Autotomize,Jolly,0,252,0,0,0,252
+Golem,Iron Ball,Rock Slide,Earthquake,Explosion,Fling,Brave,0,252,0,0,252,0
+Rapidash,Passho Berry,Bounce,Flame Charge,Low Kick,Charm,Naughty,0,252,0,0,0,252
+Rapidash,Heat Rock,Will-O-Wisp,Fire Blast,Solar Beam,Sunny Day,Hasty,0,0,0,252,0,252
+Rapidash,Focus Sash,Flare Blitz,Poison Jab,Iron Tail,Horn Drill,Jolly,0,252,0,0,0,252
+Rapidash,Charcoal,Flare Blitz,Megahorn,Double-Edge,Protect,Jolly,0,252,0,0,0,252
+Slowbro,Sitrus Berry,Yawn,Psychic,Calm Mind,Water Pulse,Bold,252,0,252,0,0,0
+Slowbro,Quick Claw,Flamethrower,Ice Beam,Slack Off,Water Pulse,Modest,0,0,252,252,0,0
+Slowbro,Leftovers,Psychic,Surf,Slack Off,Amnesia,Bold,252,0,252,0,0,0
+Slowbro,Leftovers,Psychic,Surf,Blizzard,Trick Room,Quiet,252,0,252,0,0,0
+Dewgong,Icy Rock,Icy Wind,Toxic,Rest,Hail,Mild,252,0,252,0,0,0
+Dewgong,Never-Melt Ice,Ice Shard,Signal Beam,Ice Beam,Encore,Rash,0,0,0,252,0,252
+Dewgong,Quick Claw,Fake Out,Surf,Ice Beam,Aqua Jet,Mild,0,0,0,252,252,0
+Dewgong,Salac Berry,Rain Dance,Rest,Surf,Stockpile,Bold,170,0,170,0,170,0
+Muk,Black Sludge,Poison Jab,Stockpile,Swallow,Memento,Brave,0,252,252,0,0,0
+Muk,Toxic Plate,Shadow Sneak,Poison Jab,Acid Armor,Flamethrower,Lonely,0,170,0,170,170,0
+Muk,Zoom Lens,Gunk Shot,Payback,Shadow Sneak,Curse,Brave,252,252,0,0,0,0
+Muk,Quick Claw,Gunk Shot,Shadow Sneak,Brick Break,Explosion,Adamant,252,252,0,0,0,0
+Gengar,Focus Sash,Shadow Ball,Dream Eater,Nightmare,Hypnosis,Timid,0,0,0,252,0,252
+Gengar,Expert Belt,Sucker Punch,Fire Punch,Ice Punch,Will-O-Wisp,Jolly,0,252,0,0,0,252
+Gengar,Payapa Berry,Shadow Ball,Energy Ball,Dazzling Gleam,Round,Timid,0,0,0,252,0,252
+Gengar,Lum Berry,Sludge Bomb,Thunderbolt,Shadow Ball,Destiny Bond,Timid,0,0,0,252,0,252
+Electrode,Shuca Berry,Swagger,Light Screen,Charge Beam,Thunder Wave,Calm,252,0,0,0,252,0
+Electrode,Focus Sash,Electro Ball,Taunt,Protect,Explosion,Hasty,0,252,0,0,0,252
+Electrode,Air Balloon,Thunderbolt,Mirror Coat,Signal Beam,Protect,Timid,0,0,0,252,0,252
+Electrode,Damp Rock,Rain Dance,Thunder,Taunt,Light Screen,Timid,0,0,0,252,0,252
+Exeggutor,Petaya Berry,Psyshock,Grass Knot,Light Screen,Synthesis,Mild,0,0,0,170,170,170
+Exeggutor,Sitrus Berry,Wood Hammer,Curse,Egg Bomb,Synthesis,Brave,0,252,0,0,252,0
+Exeggutor,Expert Belt,Leaf Storm,Psychic,Sludge Bomb,Ancient Power,Modest,252,0,0,252,0,0
+Exeggutor,Lum Berry,Wood Hammer,Zen Headbutt,Explosion,Trick Room,Brave,252,252,0,0,0,0
+Marowak,Salac Berry,Substitute,Detect,Earthquake,Swords Dance,Careful,252,0,0,0,252,0
+Marowak,Iron Ball,Earthquake,Fling,Brick Break,Detect,Brave,252,252,0,0,0,0
+Marowak,Thick Club,Earthquake,Stone Edge,Low Kick,Fire Punch,Jolly,0,252,0,0,0,252
+Marowak,Thick Club,Earthquake,Outrage,Detect,Rock Slide,Jolly,0,252,0,0,0,252
+Weezing,Payapa Berry,Pain Split,Explosion,Haze,Will-O-Wisp,Impish,252,0,252,0,0,0
+Weezing,Safety Goggles,Sludge Bomb,Fire Blast,Stockpile,Swallow,Rash,252,0,0,252,0,0
+Weezing,Black Sludge,Sludge Bomb,Thunder,Fire Blast,Shadow Ball,Modest,252,0,0,252,0,0
+Weezing,Chesto Berry,Toxic,Will-O-Wisp,Stockpile,Rest,Careful,252,0,0,0,252,0
+Kangaskhan,Sitrus Berry,Dizzy Punch,Fake Out,Chip Away,Roar,Adamant,0,252,0,0,0,252
+Kangaskhan,Salac Berry,Rock Slide,Sucker Punch,Endure,Reversal,Jolly,0,252,0,0,0,252
+Kangaskhan,Chople Berry,Fake Out,Double-Edge,Circle Throw,Sucker Punch,Jolly,0,252,0,0,0,252
+Kangaskhan,Salac Berry,Fake Out,Endeavor,Return,Substitute,Jolly,0,252,0,0,0,252
+Starmie,Sitrus Berry,Psychic,Cosmic Power,Recover,Reflect Type,Timid,252,0,0,0,0,252
+Starmie,Mystic Water,Protect,Psychic,Hydro Pump,Rapid Spin,Modest,0,0,0,252,0,252
+Starmie,Focus Sash,Surf,Psychic,Power Gem,Signal Beam,Timid,0,0,0,252,0,252
+Starmie,King's Rock,Surf,Psychic,Thunderbolt,Ice Beam,Timid,0,0,0,252,0,252
+Mr. Mime,Choice Scarf,Trick,Dazzling Gleam,Psychic,Energy Ball,Timid,0,0,0,252,0,252
+Mr. Mime,Jaboca Berry,Payback,Wide Guard,Confide,Fake Out,Brave,0,252,0,0,252,0
+Mr. Mime,Light Clay,Light Screen,Psychic,Reflect,Dazzling Gleam,Bold,252,0,252,0,0,0
+Mr. Mime,Babiri Berry,Shadow Ball,Signal Beam,Dazzling Gleam,Psychic,Modest,0,0,0,252,0,252
+Jynx,Enigma Berry,Draining Kiss,Mean Look,Lovely Kiss,Attract,Calm,252,0,252,0,0,0
+Jynx,Destiny Knot,Ice Punch,Fake Out,Heart Stamp,Taunt,Adamant,0,252,0,0,0,252
+Jynx,Expert Belt,Icy Wind,Blizzard,Psychic,Focus Blast,Modest,0,0,0,252,0,252
+Jynx,Wide Lens,Lovely Kiss,Blizzard,Psychic,Fake Out,Timid,0,0,0,252,0,252
+Pinsir,Persim Berry,Bug Bite,Brick Break,Thrash,Swords Dance,Naughty,0,252,0,0,0,252
+Pinsir,Insect Plate,Feint,X-Scissor,Stone Edge,Bug Bite,Lonely,0,252,0,0,0,252
+Pinsir,Lax Incense,X-Scissor,Superpower,Stone Edge,Giga Impact,Adamant,0,252,252,0,0,0
+Pinsir,Choice Scarf,X-Scissor,Earthquake,Close Combat,Guillotine,Jolly,0,252,0,0,0,252
+Tauros,Liechi Berry,Earthquake,Rock Slide,Endure,Substitute,Naughty,0,252,0,0,0,252
+Tauros,Expert Belt,Zen Headbutt,Wild Charge,Swagger,Giga Impact,Jolly,0,252,0,0,0,252
+Tauros,Life Orb,Double-Edge,Earthquake,Payback,Giga Impact,Jolly,0,252,0,0,0,252
+Tauros,Sitrus Berry,Toxic,Protect,Double Team,Earthquake,Careful,252,0,0,0,252,0
+Gyarados,Muscle Band,Ice Fang,Aqua Tail,Thunder Wave,Dragon Dance,Lonely,170,170,0,0,0,170
+Gyarados,Chesto Berry,Waterfall,Rest,Bulldoze,Giga Impact,Naughty,0,252,0,0,0,252
+Gyarados,Wacan Berry,Dragon Dance,Waterfall,Stone Edge,Earthquake,Jolly,0,252,0,0,0,252
+Gyarados,Chesto Berry,Dragon Dance,Aqua Tail,Earthquake,Rest,Careful,252,0,0,0,252,0
+Lapras,Damp Rock,Rain Dance,Thunder,Ice Shard,Confuse Ray,Quiet,0,0,252,252,0,0
+Lapras,Mystic Water,Surf,Ice Beam,Rest,Sleep Talk,Modest,0,0,170,170,170,0
+Lapras,Bright Powder,Surf,Ice Beam,Thunderbolt,Psychic,Modest,252,0,0,252,0,0
+Lapras,Chesto Berry,Perish Song,Rest,Body Slam,Block,Impish,0,0,252,0,252,0
+Vaporeon,Quick Claw,Wish,Surf,Helping Hand,Shadow Ball,Quiet,0,0,252,252,0,0
+Vaporeon,Leftovers,Ice Beam,Hydro Pump,Acid Armor,Aqua Ring,Modest,0,0,252,252,0,0
+Vaporeon,Leftovers,Muddy Water,Blizzard,Aqua Ring,Yawn,Modest,252,0,0,252,0,0
+Vaporeon,Expert Belt,Surf,Ice Beam,Shadow Ball,Signal Beam,Modest,252,0,0,252,0,0
+Jolteon,Magnet,Quick Attack,Thunderbolt,Thunder Wave,Swagger,Hasty,0,0,0,252,0,252
+Jolteon,Damp Rock,Thunder,Protect,Charm,Rain Dance,Timid,0,0,0,252,0,252
+Jolteon,King's Rock,Thunder,Shadow Ball,Rain Dance,Yawn,Timid,0,0,0,252,0,252
+Jolteon,Razor Fang,Thunderbolt,Hyper Beam,Fake Tears,Signal Beam,Timid,0,0,0,252,0,252
+Flareon,Focus Sash,Dig,Flail,Work Up,Fire Blast,Naughty,0,252,0,252,0,0
+Flareon,Charcoal,Will-O-Wisp,Charm,Flame Charge,Protect,Impish,252,0,252,0,0,0
+Flareon,White Herb,Superpower,Return,Will-O-Wisp,Overheat,Brave,252,252,0,0,0,0
+Flareon,White Herb,Bite,Superpower,Giga Impact,Fire Fang,Adamant,0,252,0,0,252,0
+Aerodactyl,Choice Scarf,Rock Slide,Curse,Curse,Curse,Jolly,0,252,0,0,0,252
+Aerodactyl,Passho Berry,Crunch,Rock Slide,Roost,Sky Drop,Naive,0,252,0,0,0,252
+Aerodactyl,Expert Belt,Iron Head,Earthquake,Rock Slide,Thunder Fang,Jolly,0,252,0,0,0,252
+Aerodactyl,Choice Band,Stone Edge,Aerial Ace,Earthquake,Crunch,Jolly,0,252,0,0,0,252
+Snorlax,Sitrus Berry,Return,Wild Charge,Counter,Recycle,Adamant,0,252,252,0,0,0
+Snorlax,Sitrus Berry,Return,Protect,Crunch,Belly Drum,Brave,0,252,252,0,0,0
+Snorlax,Life Orb,Double-Edge,Earthquake,Crunch,Protect,Adamant,0,252,252,0,0,0
+Snorlax,Assault Vest,Body Slam,Power-Up Punch,Earthquake,Crunch,Careful,252,0,0,0,252,0
+Articuno,Icy Rock,Hail,Blizzard,Fly,Roost,Modest,252,0,0,252,0,0
+Articuno,Lum Berry,Sheer Cold,Mind Reader,Ice Shard,Ice Beam,Bold,252,0,0,0,252,0
+Articuno,Charti Berry,Frost Breath,Reflect,Steel Wing,U-turn,Jolly,0,252,0,0,0,252
+Articuno,Leftovers,Tailwind,Blizzard,Sky Drop,Protect,Modest,0,0,0,252,0,252
+Zapdos,Magnet,Thunderbolt,Signal Beam,Air Cutter,Ancient Power,Timid,0,0,0,252,0,252
+Zapdos,Bright Powder,Charge Beam,Heat Wave,Double Team,Roost,Bold,252,0,0,0,252,0
+Zapdos,Petaya Berry,Thunder,Light Screen,Rain Dance,Drill Peck,Naive,0,0,0,252,0,252
+Zapdos,Lum Berry,Thunderbolt,Volt Switch,Heat Wave,Detect,Timid,0,0,0,252,0,252
+Moltres,White Herb,Overheat,Air Slash,Tailwind,Will-O-Wisp,Modest,0,0,0,252,0,252
+Moltres,Power Herb,Flame Charge,Sky Attack,Aerial Ace,Fire Blast,Naughty,0,252,0,0,0,252
+Moltres,Heat Rock,Sunny Day,Solar Beam,Flamethrower,Air Slash,Timid,0,0,0,252,0,252
+Moltres,Charcoal,Heat Wave,Incinerate,Air Slash,Protect,Timid,0,0,0,252,0,252
+Dragonite,Custap Berry,Toxic,Thunder Wave,Roost,Rock Slide,Impish,170,0,170,0,170,0
+Dragonite,Salac Berry,Dragon Pulse,Ice Beam,Thunderbolt,Safeguard,Mild,0,0,0,252,0,252
+Dragonite,Choice Band,Outrage,Earthquake,Giga Impact,Superpower,Adamant,0,252,0,0,252,0
+Dragonite,Snowball,Dragon Rush,Iron Tail,Extreme Speed,Fire Punch,Adamant,0,252,0,0,0,252
+Meganium,Sitrus Berry,Light Screen,Aromatherapy,Swagger,Solar Beam,Gentle,252,0,0,0,252,0
+Meganium,Chesto Berry,Double Team,Petal Blizzard,Substitute,Rest,Bold,252,0,252,0,0,0
+Meganium,Light Clay,Seed Bomb,Earthquake,Reflect,Light Screen,Adamant,252,252,0,0,0,0
+Meganium,Leftovers,Leech Seed,Ingrain,Toxic,Protect,Bold,0,0,252,0,252,0
+Typhlosion,Passho Berry,Flame Burst,Flamethrower,Solar Beam,Sunny Day,Rash,0,0,0,252,0,252
+Typhlosion,Wide Lens,Inferno,Focus Blast,Extrasensory,Will-O-Wisp,Naive,0,0,0,252,0,252
+Typhlosion,Choice Scarf,Eruption,Focus Blast,Heat Wave,Extrasensory,Modest,0,0,0,252,0,252
+Typhlosion,Power Herb,Extrasensory,Lava Plume,Bulldoze,Solar Beam,Modest,0,0,0,252,0,252
+Feraligatr,Lax Incense,Screech,Aqua Jet,Earthquake,Block,Careful,252,0,0,0,252,0
+Feraligatr,Liechi Berry,Superpower,Aqua Tail,Ice Fang,Dragon Dance,Adamant,170,170,0,0,0,170
+Feraligatr,Lum Berry,Aqua Jet,Waterfall,Earthquake,Ice Punch,Adamant,252,252,0,0,0,0
+Feraligatr,Liechi Berry,Dragon Dance,Waterfall,Crunch,Substitute,Adamant,0,252,0,0,0,252
+Crobat,Charti Berry,Cross Poison,X-Scissor,Hypnosis,U-turn,Jolly,0,252,0,0,0,252
+Crobat,Sharp Beak,Air Slash,Shadow Ball,Confuse Ray,Nasty Plot,Timid,0,0,0,252,0,252
+Crobat,Razor Claw,Cross Poison,Brave Bird,Zen Headbutt,X-Scissor,Jolly,0,252,0,0,0,252
+Crobat,Wide Lens,Hypnosis,Aerial Ace,Cross Poison,Taunt,Jolly,0,252,0,0,0,252
+Lanturn,Salac Berry,Thunder Wave,Volt Switch,Waterfall,Agility,Naughty,0,252,0,0,0,252
+Lanturn,Sitrus Berry,Thunder Wave,Charge Beam,Stockpile,Swallow,Calm,0,0,252,252,0,0
+Lanturn,Petaya Berry,Surf,Discharge,Thunder Wave,Ice Beam,Modest,0,0,170,170,170,0
+Lanturn,Chesto Berry,Stockpile,Rest,Charge Beam,Ice Beam,Bold,0,0,252,0,252,0
+Ampharos,Shuca Berry,Power Gem,Thunder Wave,Discharge,Charge Beam,Mild,170,0,0,170,170,0
+Ampharos,Lum Berry,Brick Break,Thunder Punch,Screech,Odor Sleuth,Brave,170,170,170,0,0,0
+Ampharos,Chesto Berry,Thunder Wave,Charge Beam,Hyper Beam,Rest,Modest,252,0,0,252,0,0
+Ampharos,Zoom Lens,Thunder,Focus Blast,Signal Beam,Power Gem,Quiet,252,0,0,252,0,0
+Politoed,Cell Battery,Waterfall,Encore,Swagger,Bounce,Modest,0,0,0,252,0,252
+Politoed,Damp Rock,Rain Dance,Round,Body Slam,Hydro Pump,Quiet,0,0,0,252,252,0
+Politoed,Chesto Berry,Waterfall,Earthquake,Belly Drum,Rest,Careful,0,252,0,0,252,0
+Politoed,Wide Lens,Hydro Pump,Blizzard,Focus Blast,Hypnosis,Modest,0,0,0,252,252,0
+Quagsire,Rindo Berry,Rest,Sleep Talk,Toxic,Bulldoze,Impish,252,0,252,0,0,0
+Quagsire,Iron Ball,Earthquake,Stockpile,Fling,Swallow,Impish,170,0,170,0,170,0
+Quagsire,Rindo Berry,Earthquake,Aqua Tail,Ice Punch,Stone Edge,Adamant,0,252,0,0,252,0
+Quagsire,Leftovers,Curse,Amnesia,Earthquake,Waterfall,Careful,252,0,0,0,252,0
+Espeon,Focus Sash,Yawn,Dream Eater,Calm Mind,Protect,Naive,0,0,0,252,0,252
+Espeon,Kasib Berry,Psyshock,Grass Knot,Telekinesis,Charm,Timid,252,0,0,0,0,252
+Espeon,Lum Berry,Psychic,Shadow Ball,Hyper Beam,Grass Knot,Modest,0,0,0,252,0,252
+Espeon,Expert Belt,Psychic,Shadow Ball,Signal Beam,Dazzling Gleam,Timid,0,0,0,252,0,252
+Umbreon,Leftovers,Confuse Ray,Payback,Curse,Moonlight,Impish,252,0,252,0,0,0
+Umbreon,Chople Berry,Payback,Moonlight,Stored Power,Work Up,Careful,252,252,0,0,0,0
+Umbreon,Sitrus Berry,Feint Attack,Swagger,Psych Up,Screech,Impish,252,0,252,0,0,0
+Umbreon,Chesto Berry,Curse,Trump Card,Payback,Rest,Careful,252,0,252,0,0,0
+Slowking,Sitrus Berry,Psyshock,Water Pulse,Trick Room,Heal Pulse,Calm,0,0,0,252,252,0
+Slowking,King's Rock,Zen Headbutt,Earthquake,Swagger,Psych Up,Gentle,0,252,0,0,252,0
+Slowking,Choice Specs,Psychic,Shadow Ball,Signal Beam,Focus Blast,Modest,0,0,0,252,252,0
+Slowking,Lum Berry,Psychic,Surf,Ice Beam,Trick Room,Quiet,252,0,0,0,252,0
+Forretress,Occa Berry,Spikes,Struggle Bug,Stealth Rock,Iron Defense,Impish,252,0,252,0,0,0
+Forretress,Sitrus Berry,Spikes,Earthquake,Magnet Rise,Gyro Ball,Naughty,252,252,0,0,0,0
+Forretress,Iron Ball,Gyro Ball,Earthquake,Bug Bite,Explosion,Brave,252,252,0,0,0,0
+Forretress,Custap Berry,Toxic Spikes,Stealth Rock,Spikes,Explosion,Careful,252,0,0,0,252,0
+Steelix,Chesto Berry,Earthquake,Rest,Curse,Stealth Rock,Impish,252,0,0,0,252,0
+Steelix,Enigma Berry,Crunch,Curse,Gyro Ball,Screech,Impish,252,252,0,0,0,0
+Steelix,Quick Claw,Gyro Ball,Earthquake,Stone Edge,Explosion,Brave,0,252,0,0,252,0
+Steelix,Iron Ball,Gyro Ball,Payback,Swagger,Curse,Relaxed,0,252,252,0,0,0
+Granbull,Leftovers,Charm,Protect,Retaliate,Payback,Sassy,170,0,170,0,170,0
+Granbull,Wise Glasses,Snarl,Thunderbolt,Dazzling Gleam,Sludge Bomb,Modest,0,0,252,252,0,0
+Granbull,Sitrus Berry,Double-Edge,Earthquake,Wild Charge,Outrage,Adamant,0,252,0,0,0,252
+Granbull,Life Orb,Fire Fang,Ice Fang,Play Rough,Crunch,Adamant,0,252,0,0,0,252
+Scizor,Occa Berry,Metal Claw,Night Slash,Aerial Ace,Swords Dance,Brave,252,0,252,0,0,0
+Scizor,Insect Plate,Bullet Punch,X-Scissor,Feint,Agility,Naughty,252,252,0,0,0,0
+Scizor,Life Orb,Swords Dance,Bullet Punch,Reversal,U-turn,Brave,252,252,0,0,0,0
+Scizor,Occa Berry,Bug Bite,Aerial Ace,Roost,Bullet Punch,Adamant,252,252,0,0,0,0
+Shuckle,Binding Band,Power Split,Encore,Gastro Acid,Sand Tomb,Careful,252,0,0,0,252,0
+Shuckle,Quick Claw,Power Trick,Encore,Rock Slide,Bug Bite,Bold,252,0,252,0,0,0
+Shuckle,Lax Incense,Gyro Ball,Double Team,Substitute,Power Trick,Relaxed,252,0,252,0,0,0
+Shuckle,Leftovers,Toxic,Protect,Sandstorm,Wrap,Relaxed,252,0,252,0,0,0
+Heracross,Black Belt,Aerial Ace,Pursuit,Swords Dance,Brick Break,Brave,170,170,170,0,0,0
+Heracross,Salac Berry,Megahorn,Dig,Endure,Reversal,Naughty,252,0,0,0,0,252
+Heracross,Coba Berry,Megahorn,Stone Edge,Facade,Shadow Claw,Jolly,0,252,0,0,0,252
+Heracross,Salac Berry,Megahorn,Earthquake,Reversal,Endure,Jolly,0,252,0,0,0,252
+Ursaring,Chesto Berry,Thrash,Crunch,Rest,Counter,Adamant,0,170,170,0,170,0
+Ursaring,Toxic Orb,Facade,Hammer Arm,Scary Face,Yawn,Jolly,0,252,0,0,0,252
+Ursaring,Toxic Orb,Facade,Superpower,Crunch,Protect,Adamant,252,252,0,0,0,0
+Ursaring,Quick Claw,Return,Cross Chop,Earthquake,Aerial Ace,Adamant,252,252,0,0,0,0
+Skarmory,Lax Incense,Spikes,Stealth Rock,Sky Drop,Whirlwind,Naive,252,0,0,0,0,252
+Skarmory,Cell Battery,Brave Bird,Steel Wing,Swords Dance,Roar,Naughty,252,0,0,0,0,252
+Skarmory,Choice Scarf,Brave Bird,Steel Wing,Night Slash,Rock Slide,Jolly,0,252,0,0,0,252
+Skarmory,Lum Berry,Spikes,Stealth Rock,Whirlwind,Toxic,Careful,252,0,0,0,252,0
+Houndoom,Charcoal,Incinerate,Flame Charge,Will-O-Wisp,Sucker Punch,Adamant,0,252,0,0,0,252
+Houndoom,Focus Sash,Counter,Flame Charge,Roar,Protect,Hasty,0,252,0,0,0,252
+Houndoom,Air Balloon,Flamethrower,Shadow Ball,Sludge Bomb,Will-O-Wisp,Timid,0,0,0,252,0,252
+Houndoom,White Herb,Overheat,Dark Pulse,Solar Beam,Sunny Day,Timid,0,0,0,252,0,252
+Kingdra,Persim Berry,Waterfall,Quash,Protect,Outrage,Adamant,170,170,0,0,0,170
+Kingdra,Haban Berry,Dragon Pulse,Waterfall,Ice Beam,Dragon Dance,Mild,170,170,0,170,0,0
+Kingdra,Maranga Berry,Rain Dance,Hydro Pump,Dragon Pulse,Ice Beam,Modest,170,0,0,170,0,170
+Kingdra,White Herb,Draco Meteor,Surf,Blizzard,Protect,Modest,170,0,0,170,0,170
+Donphan,Metronome,Earthquake,Scary Face,Rollout,Defense Curl,Brave,0,252,252,0,0,0
+Donphan,Focus Sash,Endeavor,Flail,Roar,Giga Impact,Adamant,0,252,0,0,252,0
+Donphan,Maranga Berry,Earthquake,Gyro Ball,Fire Fang,Thunder Fang,Brave,0,252,252,0,0,0
+Donphan,Quick Claw,Earthquake,Stone Edge,Seed Bomb,Fissure,Adamant,0,252,0,0,252,0
+Porygon2,Sitrus Berry,Blizzard,Magic Coat,Lock-On,Zap Cannon,Modest,252,0,0,252,0,0
+Porygon2,Petaya Berry,Tri Attack,Psychic,Recycle,Recover,Calm,170,0,170,0,170,0
+Porygon2,Choice Specs,Tri Attack,Thunderbolt,Psychic,Ice Beam,Modest,252,0,0,252,0,0
+Porygon2,Lum Berry,Tri Attack,Thunder Wave,Shadow Ball,Ice Beam,Modest,252,0,0,252,0,0
+Miltank,Lum Berry,Body Slam,Helping Hand,Milk Drink,Heal Bell,Jolly,252,0,0,0,0,252
+Miltank,Razor Fang,Body Slam,Fling,Brick Break,Captivate,Naive,0,252,0,0,0,252
+Miltank,Scope Lens,Dizzy Punch,Fire Punch,Thunder Punch,Ice Punch,Adamant,0,252,252,0,0,0
+Miltank,Salac Berry,Substitute,Earthquake,Rock Slide,Zen Headbutt,Jolly,0,252,0,0,0,252
+Blissey,Leftovers,Attract,Round,Heal Pulse,Aromatherapy,Calm,0,0,252,0,252,0
+Blissey,Custap Berry,Charge Beam,Shadow Ball,Grass Knot,Thunder Wave,Modest,0,0,252,252,0,0
+Blissey,Leftovers,Thunderbolt,Ice Beam,Counter,Calm Mind,Bold,252,0,252,0,0,0
+Blissey,Chople Berry,Toxic,Minimize,Mud Bomb,Soft-Boiled,Bold,0,0,252,0,252,0
+Raikou,Shuca Berry,Thunderbolt,Volt Switch,Shadow Ball,Extrasensory,Timid,0,0,0,252,0,252
+Raikou,Leftovers,Charge Beam,Magnet Rise,Calm Mind,Shadow Ball,Timid,0,0,252,0,0,252
+Raikou,Air Balloon,Thunderbolt,Volt Switch,Shadow Ball,Protect,Timid,0,0,0,252,0,252
+Raikou,Air Balloon,Thunder,Discharge,Reflect,Extrasensory,Timid,0,0,0,252,0,252
+Entei,Focus Sash,Overheat,Flame Charge,Fire Fang,Stone Edge,Lonely,0,252,0,0,0,252
+Entei,Chesto Berry,Calm Mind,Will-O-Wisp,Flamethrower,Rest,Bold,170,0,170,0,170,0
+Entei,Choice Scarf,Eruption,Heat Wave,Extrasensory,Solar Beam,Timid,0,0,0,252,0,252
+Entei,Life Orb,Sacred Fire,Iron Head,Stone Edge,Protect,Adamant,252,252,0,0,0,0
+Suicune,Chesto Berry,Calm Mind,Surf,Ice Beam,Rest,Bold,252,0,252,0,0,0
+Suicune,Sitrus Berry,Hydro Pump,Ice Beam,Shadow Ball,Mirror Coat,Modest,252,0,0,252,0,0
+Suicune,Leftovers,Surf,Blizzard,Calm Mind,Protect,Bold,252,0,252,0,0,0
+Suicune,Lum Berry,Icy Wind,Surf,Blizzard,Protect,Timid,0,0,0,252,0,252
+Tyranitar,Iron Ball,Rock Slide,Stealth Rock,Thunder Wave,Fling,Impish,252,0,0,0,252,0
+Tyranitar,King's Rock,Rock Slide,Crunch,Ice Beam,Dragon Dance,Hasty,0,252,0,0,0,252
+Tyranitar,Chople Berry,Stone Edge,Crunch,Earthquake,Dragon Dance,Jolly,0,252,0,0,0,252
+Tyranitar,Focus Sash,Rock Slide,Earthquake,Superpower,Dragon Tail,Brave,252,252,0,0,0,0
+Sceptile,Focus Sash,Quick Attack,Endeavor,Detect,Leaf Storm,Timid,0,0,0,252,0,252
+Sceptile,Scope Lens,Leaf Blade,Night Slash,Earthquake,Swords Dance,Hasty,0,252,0,0,0,252
+Sceptile,White Herb,Leaf Storm,Dragon Pulse,Energy Ball,Detect,Timid,0,0,0,252,0,252
+Sceptile,Leftovers,Leech Seed,Endeavor,Energy Ball,Toxic,Calm,0,0,252,0,252,0
+Blaziken,Salac Berry,High Jump Kick,Counter,Flamethrower,Will-O-Wisp,Naughty,170,0,170,0,0,170
+Blaziken,Salac Berry,Blaze Kick,Flame Charge,Endure,Reversal,Adamant,170,170,0,0,0,170
+Blaziken,Choice Band,Flare Blitz,Shadow Claw,Thunder Punch,Earthquake,Hardy,0,252,0,0,0,252
+Blaziken,Shuca Berry,Flame Charge,Flare Blitz,Thunder Punch,Low Kick,Hardy,0,252,0,0,0,252
+Swampert,Jaboca Berry,Mirror Coat,Counter,Earthquake,Roar,Sassy,0,0,252,0,252,0
+Swampert,Chesto Berry,Waterfall,Hammer Arm,Rest,Curse,Careful,252,0,0,0,252,0
+Swampert,Maranga Berry,Earthquake,Avalanche,Waterfall,Stone Edge,Adamant,252,252,0,0,0,0
+Swampert,Chesto Berry,Curse,Rest,Earthquake,Waterfall,Careful,252,0,0,0,252,0
+Ludicolo,Leftovers,Leech Seed,Toxic,Giga Drain,Rain Dance,Lax,170,0,170,170,0,0
+Ludicolo,Tanga Berry,Fake Out,Grass Knot,Surf,Tickle,Naughty,170,170,0,170,0,0
+Ludicolo,Leftovers,Rain Dance,Leech Seed,Protect,Giga Drain,Bold,0,0,170,170,170,0
+Ludicolo,Kee Berry,Fake Out,Hydro Pump,Leech Seed,Grass Knot,Modest,0,0,0,252,0,252
+Shiftry,Iron Ball,Fling,Razor Leaf,Brick Break,Swords Dance,Brave,170,170,0,0,170,0
+Shiftry,Miracle Seed,Fake Out,Extrasensory,Solar Beam,Swagger,Rash,0,0,0,252,0,252
+Shiftry,Heat Rock,Sunny Day,Solar Beam,Dark Pulse,Explosion,Hardy,0,0,252,252,0,0
+Shiftry,Focus Sash,Fake Out,Sucker Punch,Low Kick,Protect,Adamant,0,252,252,0,0,0
+Gardevoir,Wide Lens,Hypnosis,Dream Eater,Imprison,Dazzling Gleam,Timid,252,0,0,0,0,252
+Gardevoir,Bright Powder,Stored Power,Thunderbolt,Calm Mind,Double Team,Timid,0,0,0,252,0,252
+Gardevoir,Lum Berry,Psychic,Shadow Ball,Energy Ball,Dazzling Gleam,Timid,0,0,0,252,0,252
+Gardevoir,Babiri Berry,Psychic,Moonblast,Focus Blast,Thunderbolt,Modest,0,0,0,252,0,252
+Breloom,Black Belt,Fake Tears,Helping Hand,Mach Punch,Stun Spore,Brave,252,252,0,0,0,0
+Breloom,Toxic Orb,Substitute,Seed Bomb,Wake-Up Slap,Spore,Jolly,0,252,0,0,0,252
+Breloom,Focus Sash,Spore,Focus Punch,Rock Slide,Seed Bomb,Jolly,0,252,0,0,0,252
+Breloom,Toxic Orb,Protect,Leech Seed,Substitute,Focus Punch,Careful,170,0,170,0,170,0
+Slaking,Chople Berry,Earthquake,Brick Break,Rock Slide,Encore,Naive,0,252,0,0,0,252
+Slaking,Kee Berry,Retaliate,Night Slash,Slack Off,Amnesia,Jolly,0,252,0,0,0,252
+Slaking,Choice Band,Giga Impact,Shadow Claw,Hammer Arm,Earthquake,Adamant,252,252,0,0,0,0
+Slaking,Life Orb,Return,Night Slash,Gunk Shot,Aerial Ace,Jolly,0,252,0,0,0,252
+Exploud,Chople Berry,Fire Blast,Roar,Uproar,Hyper Voice,Modest,0,0,252,252,0,0
+Exploud,Chople Berry,Crunch,Fake Tears,Ice Beam,Giga Impact,Lonely,0,252,0,252,0,0
+Exploud,Expert Belt,Earthquake,Brick Break,Ice Punch,Crunch,Adamant,0,252,252,0,0,0
+Exploud,Life Orb,Icy Wind,Hyper Voice,Focus Blast,Shadow Ball,Timid,0,0,0,252,0,252
+Hariyama,King's Rock,Feint,Fake Out,Smack Down,Vital Throw,Brave,0,170,170,0,170,0
+Hariyama,Custap Berry,Reversal,Bullet Punch,Protect,Belly Drum,Careful,0,0,252,0,252,0
+Hariyama,Flame Orb,Fake Out,Close Combat,Detect,Earthquake,Brave,0,252,252,0,0,0
+Hariyama,Sitrus Berry,Belly Drum,Brick Break,Ice Punch,Bullet Punch,Careful,0,0,252,0,252,0
+Aggron,Focus Sash,Protect,Roar,Stealth Rock,Metal Burst,Impish,252,0,0,0,252,0
+Aggron,King's Rock,Surf,Flash Cannon,Focus Blast,Round,Quiet,0,0,252,252,0,0
+Aggron,Wide Lens,Iron Tail,Dragon Rush,Avalanche,Stone Edge,Adamant,0,252,252,0,0,0
+Aggron,Shuca Berry,Metal Burst,Taunt,Earthquake,Shadow Claw,Brave,0,252,0,0,252,0
+Medicham,Black Belt,Fake Out,High Jump Kick,Bulk Up,Feint,Impish,252,0,0,0,0,252
+Medicham,TwistedSpoon,Psychic,Shadow Ball,Energy Ball,Calm Mind,Timid,0,0,0,252,0,252
+Medicham,Expert Belt,High Jump Kick,Zen Headbutt,Ice Punch,Bullet Punch,Jolly,0,252,0,0,0,252
+Medicham,Life Orb,High Jump Kick,Psycho Cut,Fake Out,Detect,Adamant,0,252,0,0,0,252
+Manectric,Life Orb,Crunch,Odor Sleuth,Quick Attack,Wild Charge,Adamant,0,252,0,0,0,252
+Manectric,Charcoal,Flamethrower,Overheat,Discharge,Charge,Modest,0,0,0,252,0,252
+Manectric,Air Balloon,Thunderbolt,Overheat,Volt Switch,Quick Attack,Timid,0,0,0,252,0,252
+Manectric,Choice Scarf,Switcheroo,Thunder,Volt Switch,Overheat,Timid,0,0,0,252,0,252
+Wailord,Chesto Berry,Waterfall,Heavy Slam,Curse,Rest,Brave,0,170,170,0,170,0
+Wailord,Quick Claw,Water Spout,Rest,Sleep Talk,Ice Beam,Timid,0,0,0,252,0,252
+Wailord,Leftovers,Waterfall,Avalanche,Aqua Ring,Curse,Careful,0,0,252,0,252,0
+Wailord,Zoom Lens,Hydro Pump,Blizzard,Fissure,Hyper Beam,Modest,252,0,0,252,0,0
+Flygon,Weakness Policy,Earthquake,Dragon Claw,Endure,Fire Blast,Naive,0,252,0,0,0,252
+Flygon,Haban Berry,Swagger,Quick Attack,Rock Slide,U-turn,Naive,0,252,0,0,0,252
+Flygon,White Herb,Draco Meteor,Earth Power,Flamethrower,Giga Drain,Timid,0,0,0,252,0,252
+Flygon,Lum Berry,Earthquake,Outrage,Crunch,Stone Edge,Adamant,0,252,0,0,0,252
+Altaria,Sitrus Berry,Flamethrower,Cotton Guard,Dragon Pulse,Roost,Calm,252,0,0,0,252,0
+Altaria,Snowball,Dragon Claw,Pluck,Steel Wing,Dragon Dance,Lonely,0,252,0,0,0,252
+Altaria,Power Herb,Dragon Dance,Dragon Rush,Sky Attack,Earthquake,Jolly,0,252,0,0,0,252
+Altaria,Wide Lens,Cotton Guard,Sing,Moonblast,Dream Eater,Calm,252,0,0,0,252,0
+Whiscash,Chesto Berry,Earthquake,Tickle,Amnesia,Rest,Careful,0,252,0,0,252,0
+Whiscash,Soft Sand,Aqua Tail,Earthquake,Zen Headbutt,Dragon Dance,Adamant,170,170,170,0,0,0
+Whiscash,Expert Belt,Earth Power,Surf,Blizzard,Protect,Modest,0,0,0,252,252,0
+Whiscash,Leftovers,Rest,Sleep Talk,Fissure,Muddy Water,Calm,170,0,170,0,170,0
+Claydol,Absorb Bulb,Psychic,Ice Beam,Protect,Calm Mind,Calm,252,0,0,0,252,0
+Claydol,Sitrus Berry,Sandstorm,Toxic,Cosmic Power,Explosion,Impish,252,0,252,0,0,0
+Claydol,Luminous Moss,Earth Power,Psychic,Ally Switch,Ice Beam,Modest,0,0,0,252,252,0
+Claydol,Custap Berry,Earthquake,Zen Headbutt,Rock Slide,Explosion,Adamant,0,252,0,0,252,0
+Cradily,Tanga Berry,Round,Gastro Acid,Stockpile,Swallow,Bold,0,0,252,0,252,0
+Cradily,Quick Claw,Confuse Ray,Energy Ball,Stone Edge,Earthquake,Brave,170,170,0,170,0,0
+Cradily,Leftovers,Sandstorm,Toxic,Protect,Earthquake,Relaxed,252,0,252,0,0,0
+Cradily,Big Root,Stockpile,Protect,Ingrain,Giga Drain,Sassy,252,0,252,0,0,0
+Armaldo,Chesto Berry,X-Scissor,Rock Blast,Rest,Curse,Brave,252,0,0,0,252,0
+Armaldo,Razor Fang,Rock Slide,Earthquake,X-Scissor,Rock Polish,Hasty,252,0,0,0,0,252
+Armaldo,Life Orb,X-Scissor,Rock Slide,Earthquake,Iron Defense,Adamant,252,0,0,0,252,0
+Armaldo,Choice Band,Superpower,Stone Edge,Earthquake,X-Scissor,Adamant,252,252,0,0,0,0
+Milotic,Enigma Berry,Surf,Recover,Mirror Coat,Confuse Ray,Bold,252,0,252,0,0,0
+Milotic,Leftovers,Hydro Pump,Toxic,Attract,Aqua Ring,Quiet,252,0,252,0,0,0
+Milotic,Wide Lens,Hydro Pump,Blizzard,Mirror Coat,Recover,Calm,0,0,0,252,252,0
+Milotic,Leftovers,Ice Beam,Rest,Sleep Talk,Surf,Impish,252,0,0,0,252,0
+Absol,Sitrus Berry,Payback,Mean Look,Hone Claws,Baton Pass,Careful,170,0,170,0,170,0
+Absol,Chople Berry,Sucker Punch,Magic Coat,Psycho Cut,Taunt,Adamant,252,252,0,0,0,0
+Absol,Scope Lens,Night Slash,Zen Headbutt,Sucker Punch,Superpower,Jolly,0,252,0,0,0,252
+Absol,Bright Powder,Substitute,Swagger,Punishment,Will-O-Wisp,Jolly,0,252,0,0,0,252
+Walrein,Chesto Berry,Frost Breath,Snore,Stockpile,Rest,Calm,0,0,252,0,252,0
+Walrein,Metronome,Ice Ball,Earthquake,Encore,Curse,Calm,0,252,0,0,252,0
+Walrein,Leftovers,Surf,Blizzard,Hail,Signal Beam,Modest,252,0,0,252,0,0
+Walrein,Lax Incense,Sheer Cold,Fissure,Rest,Sleep Talk,Bold,0,0,252,0,252,0
+Salamence,Yache Berry,Roost,Scary Face,Dragon Tail,Earthquake,Naughty,0,170,170,0,170,0
+Salamence,Expert Belt,Dragon Claw,Zen Headbutt,Rock Slide,Dragon Dance,Lonely,0,170,0,0,170,170
+Salamence,Yache Berry,Draco Meteor,Dragon Rush,Earthquake,Brick Break,Jolly,0,252,0,0,0,252
+Salamence,Lum Berry,Outrage,Crunch,Earthquake,Zen Headbutt,Jolly,0,252,0,0,0,252
+Metagross,Occa Berry,Meteor Mash,Magnet Rise,Zen Headbutt,Agility,Naive,0,252,0,0,0,252
+Metagross,Occa Berry,Psychic,Shadow Ball,Meteor Mash,Magnet Rise,Quiet,170,170,0,170,0,0
+Metagross,Occa Berry,Earthquake,Meteor Mash,Bullet Punch,Explosion,Adamant,170,170,0,0,170,0
+Metagross,Toxic Orb,Trick,Meteor Mash,Protect,Earthquake,Careful,252,0,0,0,252,0
+Regirock,Leftovers,Sandstorm,Curse,Rock Slide,Drain Punch,Careful,252,0,0,0,252,0
+Regirock,Custap Berry,Stone Edge,Drain Punch,Earthquake,Explosion,Adamant,252,252,0,0,0,0
+Regirock,Luminous Moss,Ice Punch,Rock Slide,Drain Punch,Earthquake,Adamant,252,252,0,0,0,0
+Regirock,Sitrus Berry,Rock Polish,Rock Slide,Superpower,Explosion,Jolly,0,252,0,0,0,252
+Regice,Sitrus Berry,Thunderbolt,Ice Beam,Focus Blast,Toxic,Modest,252,0,0,252,0,0
+Regice,Chesto Berry,Thunderbolt,Icy Wind,Ice Beam,Rest,Timid,170,0,170,0,0,170
+Regice,Leftovers,Charge Beam,Ice Beam,Amnesia,Protect,Bold,252,0,252,0,0,0
+Regice,Zoom Lens,Thunder,Blizzard,Focus Blast,Thunder Wave,Impish,252,0,0,0,252,0
+Registeel,Chesto Berry,Curse,Amnesia,Iron Head,Rest,Careful,252,0,0,0,252,0
+Registeel,King's Rock,Rock Polish,Earthquake,Iron Head,Thunder Punch,Jolly,0,252,0,0,0,252
+Registeel,Leftovers,Amnesia,Iron Defense,Charge Beam,Flash Cannon,Bold,252,0,0,0,252,0
+Registeel,Leftovers,Toxic,Double Team,Earthquake,Protect,Adamant,252,252,0,0,0,0
+Latias,Lax Incense,Calm Mind,Mist Ball,Dragon Pulse,Recover,Bold,252,0,252,0,0,0
+Latias,White Herb,Draco Meteor,Thunder,Psychic,Mist Ball,Timid,0,0,0,252,0,252
+Latias,Choice Specs,Draco Meteor,Thunderbolt,Psychic,Trick,Timid,0,0,0,252,0,252
+Latias,Life Orb,Draco Meteor,Earthquake,Hone Claws,Dragon Claw,Adamant,0,252,0,0,0,252
+Latios,Lax Incense,Calm Mind,Luster Purge,Dragon Pulse,Recover,Bold,252,0,252,0,0,0
+Latios,White Herb,Draco Meteor,Thunderbolt,Psychic,Protect,Timid,0,0,0,252,0,252
+Latios,Choice Specs,Draco Meteor,Thunder,Psychic,Energy Ball,Timid,0,0,0,252,0,252
+Latios,Life Orb,Draco Meteor,Earthquake,Dragon Dance,Outrage,Adamant,0,252,0,0,0,252
+Torterra,Binding Band,Sand Tomb,Seed Bomb,Curse,Synthesis,Adamant,252,252,0,0,0,0
+Torterra,Choice Scarf,Rock Slide,Earthquake,Wood Hammer,Tickle,Jolly,0,252,0,0,0,252
+Torterra,Custap Berry,Earthquake,Crunch,Seed Bomb,Iron Head,Adamant,0,252,0,0,252,0
+Torterra,Leftovers,Stockpile,Leech Seed,Earthquake,Protect,Hardy,252,0,0,0,252,0
+Infernape,King's Rock,Fake Out,Encore,Fling,Acrobatics,Jolly,0,252,0,0,0,252
+Infernape,Charcoal,Heat Wave,Will-O-Wisp,Grass Knot,Calm Mind,Mild,170,0,0,170,0,170
+Infernape,Life Orb,Fake Out,Close Combat,Overheat,Stone Edge,Hasty,0,252,0,0,0,252
+Infernape,Focus Sash,Fake Out,Encore,Flare Blitz,Close Combat,Jolly,0,252,0,0,0,252
+Empoleon,Sitrus Berry,Yawn,Swords Dance,Aqua Jet,Metal Claw,Lax,252,0,252,0,0,0
+Empoleon,Muscle Band,Drill Peck,Aqua Jet,Metal Claw,Feather Dance,Lonely,170,170,0,0,170,0
+Empoleon,Lum Berry,Surf,Ice Beam,Signal Beam,Icy Wind,Quiet,252,0,0,252,0,0
+Empoleon,Petaya Berry,Surf,Substitute,Blizzard,Whirlpool,Calm,252,0,0,252,0,0
+Staraptor,Focus Sash,U-turn,Feather Dance,Quick Attack,Endeavor,Hasty,0,252,0,0,0,252
+Staraptor,Choice Scarf,Pursuit,Close Combat,Roost,Final Gambit,Adamant,252,0,0,0,0,252
+Staraptor,Choice Band,Close Combat,Brave Bird,U-turn,Giga Impact,Mild,0,252,0,0,0,252
+Staraptor,Sitrus Berry,Brave Bird,Double-Edge,Roost,Feather Dance,Jolly,0,252,0,0,0,252
+Luxray,Magnet,Wild Charge,Crunch,Captivate,Swagger,Lonely,0,252,0,0,252,0
+Luxray,Quick Claw,Charge Beam,Helping Hand,Discharge,Roar,Careful,252,0,0,0,252,0
+Luxray,White Herb,Thunder Fang,Ice Fang,Superpower,Thunder Wave,Adamant,252,252,0,0,0,0
+Luxray,Air Balloon,Thunder Fang,Ice Fang,Light Screen,Thunder Wave,Careful,252,0,0,0,252,0
+Roserade,Big Root,Toxic,Leech Seed,Protect,Giga Drain,Calm,252,0,252,0,0,0
+Roserade,Occa Berry,Weather Ball,Energy Ball,Natural Gift,Attract,Modest,0,0,0,252,0,252
+Roserade,White Herb,Leaf Storm,Sludge Bomb,Hyper Beam,Grass Whistle,Timid,0,0,0,252,0,252
+Roserade,Black Sludge,Toxic,Protect,Leech Seed,Giga Drain,Bold,252,0,252,0,0,0
+Rampardos,Passho Berry,Rock Slide,Crunch,Curse,Protect,Brave,0,170,170,0,170,0
+Rampardos,Sitrus Berry,Head Smash,Stone Edge,Hammer Arm,Scary Face,Naughty,0,252,0,0,0,252
+Rampardos,Choice Scarf,Head Smash,Earthquake,Brick Break,Thunder Punch,Jolly,0,252,0,0,0,252
+Rampardos,Sitrus Berry,Head Smash,Earthquake,Rock Slide,Protect,Relaxed,0,252,0,0,252,0
+Bastiodon,Enigma Berry,Iron Head,Taunt,Wide Guard,Metal Burst,Careful,252,252,0,0,0,0
+Bastiodon,Chesto Berry,Round,Rest,Ancient Power,Iron Defense,Bold,0,0,252,252,0,0
+Bastiodon,Leftovers,Stone Edge,Fissure,Double Team,Iron Defense,Careful,252,0,0,0,252,0
+Bastiodon,Sitrus Berry,Metal Burst,Rock Slide,Wide Guard,Curse,Brave,252,252,0,0,0,0
+Vespiquen,Quick Claw,Defend Order,Toxic,Protect,Heal Order,Sassy,170,0,170,0,170,0
+Vespiquen,Insect Plate,Attack Order,Power Gem,Captivate,Confuse Ray,Quiet,252,0,0,252,0,0
+Vespiquen,Sitrus Berry,Attack Order,Defend Order,Roost,Confuse Ray,Impish,170,0,170,0,170,0
+Vespiquen,Custap Berry,Attack Order,U-turn,Aerial Ace,Destiny Bond,Brave,252,252,0,0,0,0
+Floatzel,Binding Band,Aqua Tail,Protect,Pursuit,Whirlpool,Naive,0,252,0,0,0,252
+Floatzel,Flame Orb,Aqua Jet,Switcheroo,Pursuit,Crunch,Hasty,0,252,0,0,0,252
+Floatzel,Damp Rock,Surf,Ice Beam,Focus Blast,Rain Dance,Hasty,0,0,0,252,0,252
+Floatzel,Life Orb,Waterfall,Aqua Jet,Low Kick,Protect,Hasty,0,252,0,0,0,252
+Gastrodon,Damp Rock,Rain Dance,Sludge Bomb,Muddy Water,Counter,Gentle,0,0,0,252,252,0
+Gastrodon,Rindo Berry,Waterfall,Amnesia,Curse,Yawn,Careful,0,170,170,0,170,0
+Gastrodon,Leftovers,Sandstorm,Earth Power,Surf,Recover,Quiet,0,0,252,252,0,0
+Gastrodon,Leftovers,Amnesia,Curse,Earthquake,Waterfall,Bold,0,0,252,0,252,0
+Ambipom,King's Rock,Fake Out,Fling,Thief,U-turn,Naive,0,252,0,0,0,252
+Ambipom,Focus Sash,Grass Knot,Thunderbolt,Nasty Plot,Counter,Timid,0,0,0,252,0,252
+Ambipom,Life Orb,Fake Out,Double Hit,Payback,Brick Break,Jolly,0,252,0,0,0,252
+Ambipom,King's Rock,Fling,Taunt,Return,Payback,Jolly,0,252,0,0,0,252
+Drifblim,Salac Berry,Calm Mind,Stockpile,Ominous Wind,Baton Pass,Bold,0,0,252,0,252,0
+Drifblim,Wide Lens,Hex,Thunderbolt,Dream Eater,Hypnosis,Mild,0,0,0,252,0,252
+Drifblim,Wise Glasses,Shadow Ball,Thunderbolt,Icy Wind,Destiny Bond,Timid,0,0,252,0,0,252
+Drifblim,Custap Berry,Shadow Ball,Thunderbolt,Hypnosis,Destiny Bond,Bold,0,0,0,0,252,252
+Lopunny,Toxic Orb,Fake Out,Encore,Fling,Dizzy Punch,Naive,252,0,0,0,0,252
+Lopunny,Liechi Berry,Charm,Focus Punch,Substitute,Thunder Punch,Jolly,0,252,0,0,0,252
+Lopunny,Chople Berry,Encore,Fake Out,Focus Punch,Mirror Coat,Jolly,252,0,0,0,0,252
+Lopunny,Flame Orb,Switcheroo,Mirror Coat,Protect,Dig,Jolly,252,0,0,0,0,252
+Mismagius,Colbur Berry,Taunt,Protect,Imprison,Shadow Ball,Naive,252,0,0,0,0,252
+Mismagius,Kasib Berry,Shadow Ball,Wonder Room,Grudge,Pain Split,Timid,252,0,0,0,252,0
+Mismagius,Sitrus Berry,Icy Wind,Shadow Ball,Thunderbolt,Destiny Bond,Timid,0,0,0,252,0,252
+Mismagius,Bright Powder,Power Gem,Protect,Perish Song,Mean Look,Bold,252,0,252,0,0,0
+Honchkrow,Kee Berry,Psychic,Dark Pulse,Protect,Nasty Plot,Quiet,0,0,170,170,170,0
+Honchkrow,Black Glasses,Sucker Punch,Taunt,Pursuit,Protect,Brave,0,252,0,0,252,0
+Honchkrow,Life Orb,Air Cutter,Dark Pulse,Snatch,Shadow Ball,Modest,252,0,0,252,0,0
+Honchkrow,Life Orb,Night Slash,Drill Peck,Sucker Punch,Thunder Wave,Adamant,252,252,0,0,0,0
+Skuntank,Shuca Berry,Flamethrower,Night Slash,Incinerate,Memento,Naughty,0,252,0,0,0,252
+Skuntank,Poison Barb,Pursuit,Foul Play,Poison Jab,Taunt,Adamant,0,252,0,0,0,252
+Skuntank,Life Orb,Taunt,Sucker Punch,Foul Play,Poison Jab,Jolly,0,252,0,0,0,252
+Skuntank,Custap Berry,Night Slash,Poison Jab,Fire Blast,Explosion,Brave,0,170,170,0,170,0
+Bronzong,Sitrus Berry,Hypnosis,Rain Dance,Gyro Ball,Trick Room,Impish,170,0,170,0,170,0
+Bronzong,Damp Rock,Rain Dance,Light Screen,Charge Beam,Grass Knot,Quiet,252,0,0,252,0,0
+Bronzong,Quick Claw,Iron Head,Zen Headbutt,Earthquake,Explosion,Adamant,252,252,0,0,0,0
+Bronzong,Lum Berry,Safeguard,Rock Slide,Zen Headbutt,Trick Room,Brave,252,252,0,0,0,0
+Spiritomb,Sitrus Berry,Sucker Punch,Pain Split,Toxic,Grudge,Calm,252,0,0,0,252,0
+Spiritomb,Quick Claw,Shadow Sneak,Sucker Punch,Will-O-Wisp,Taunt,Brave,252,252,0,0,0,0
+Spiritomb,Leftovers,Will-O-Wisp,Shadow Sneak,Swagger,Psych Up,Careful,252,0,0,0,252,0
+Spiritomb,Custap Berry,Will-O-Wisp,Sucker Punch,Substitute,Pain Split,Careful,252,0,0,0,252,0
+Garchomp,Lax Incense,Earthquake,Protect,Sandstorm,Sand Tomb,Jolly,252,0,0,0,0,252
+Garchomp,Snowball,Fire Blast,Earth Power,Surf,Sandstorm,Hasty,0,0,0,252,0,252
+Garchomp,Choice Scarf,Outrage,Earthquake,Fire Fang,Crunch,Adamant,0,252,0,0,0,252
+Garchomp,Focus Sash,Swords Dance,Stone Edge,Earthquake,Dragon Claw,Jolly,0,252,0,0,0,252
+Lucario,Black Belt,Metal Sound,Dark Pulse,Aura Sphere,Heal Pulse,Modest,0,0,0,252,0,252
+Lucario,Focus Sash,Close Combat,Hone Claws,Endure,Reversal,Jolly,0,252,0,0,0,252
+Lucario,Muscle Band,Close Combat,Earthquake,Blaze Kick,Shadow Claw,Jolly,0,252,0,0,0,252
+Lucario,Weakness Policy,Aura Sphere,Dragon Pulse,Stone Edge,Extreme Speed,Hardy,0,170,0,170,0,170
+Hippowdon,Soft Sand,Earthquake,Crunch,Yawn,Whirlwind,Impish,0,252,252,0,0,0
+Hippowdon,Sitrus Berry,Crunch,Rock Slide,Protect,Curse,Lonely,252,252,0,0,0,0
+Hippowdon,Sitrus Berry,Earthquake,Crunch,Slack Off,Yawn,Adamant,0,252,0,0,252,0
+Hippowdon,Chesto Berry,Curse,Rest,Earthquake,Crunch,Sassy,252,0,0,0,252,0
+Drapion,Scope Lens,Night Slash,Taunt,Toxic Spikes,X-Scissor,Bold,252,0,252,0,0,0
+Drapion,Shuca Berry,Cross Poison,Crunch,Scary Face,Screech,Naive,0,252,0,0,0,252
+Drapion,Scope Lens,Cross Poison,Night Slash,Fire Fang,Earthquake,Jolly,0,252,0,0,0,252
+Drapion,Razor Claw,Cross Poison,Night Slash,Earthquake,Swords Dance,Careful,252,252,0,0,0,0
+Toxicroak,Payapa Berry,Fake Out,Brick Break,Sucker Punch,Taunt,Lonely,0,252,0,0,0,252
+Toxicroak,Petaya Berry,Focus Blast,Sludge Bomb,Substitute,Protect,Modest,0,0,0,252,0,252
+Toxicroak,Focus Sash,Sludge Bomb,Focus Blast,Shadow Ball,Dark Pulse,Modest,0,0,0,252,0,252
+Toxicroak,Wide Lens,Cross Chop,Sucker Punch,Gunk Shot,Taunt,Adamant,0,252,0,0,0,252
+Abomasnow,Leftovers,Frost Breath,Icy Wind,Leech Seed,Ingrain,Impish,170,0,170,0,170,0
+Abomasnow,Miracle Seed,Wood Hammer,Brick Break,Double Team,Blizzard,Lonely,170,170,0,170,0,0
+Abomasnow,Focus Sash,Blizzard,Wood Hammer,Focus Blast,Ice Shard,Quiet,252,0,0,252,0,0
+Abomasnow,Occa Berry,Blizzard,Focus Blast,Protect,Ice Shard,Quiet,252,0,0,252,0,0
+Weavile,Razor Fang,Fake Out,Taunt,Night Slash,Fling,Hasty,0,252,0,0,0,252
+Weavile,Never-Melt Ice,Ice Shard,Ice Punch,Torment,Protect,Jolly,0,252,0,0,0,252
+Weavile,Focus Sash,Fake Out,Ice Punch,Night Slash,Protect,Jolly,0,252,0,0,0,252
+Weavile,Focus Sash,Taunt,Ice Punch,Night Slash,Fake Out,Jolly,0,252,0,0,0,252
+Magnezone,Magnet,Metal Sound,Flash Cannon,Thunderbolt,Magnet Rise,Rash,252,0,0,252,0,0
+Magnezone,Shuca Berry,Charge Beam,Thunder Wave,Flash Cannon,Mirror Coat,Quiet,252,0,0,252,0,0
+Magnezone,Bright Powder,Charge Beam,Flash Cannon,Magnet Rise,Thunder Wave,Modest,0,0,252,252,0,0
+Magnezone,Assault Vest,Thunderbolt,Flash Cannon,Tri Attack,Volt Switch,Modest,0,0,0,252,252,0
+Lickilicky,Kee Berry,Thunderbolt,Ice Beam,Me First,Psych Up,Naive,170,0,170,170,0,0
+Lickilicky,Chople Berry,Gyro Ball,Rest,Curse,Sleep Talk,Adamant,127,127,127,0,127,0
+Lickilicky,Leftovers,Return,Gyro Ball,Curse,Rest,Careful,252,0,0,0,252,0
+Lickilicky,Lax Incense,Body Slam,Power Whip,Earthquake,Explosion,Adamant,252,252,0,0,0,0
+Rhyperior,Zoom Lens,Payback,Rock Blast,Stone Edge,Protect,Brave,170,170,0,0,170,0
+Rhyperior,Hard Stone,Rock Wrecker,Rock Polish,Curse,Curse,Lonely,0,252,0,0,0,252
+Rhyperior,Focus Sash,Horn Drill,Avalanche,Payback,Counter,Impish,252,0,252,0,0,0
+Rhyperior,Wide Lens,Rock Slide,Hammer Arm,Earthquake,Protect,Brave,252,252,0,0,0,0
+Tangrowth,Big Root,Leech Seed,Ingrain,Giga Drain,Toxic,Bold,170,0,170,0,170,0
+Tangrowth,Yache Berry,Wring Out,Tickle,Power Whip,Bulldoze,Naughty,0,252,0,0,0,252
+Tangrowth,Heat Rock,Sunny Day,Solar Beam,Synthesis,Wring Out,Modest,0,0,252,252,0,0
+Tangrowth,Lax Incense,Power Whip,Earthquake,Aerial Ace,Brick Break,Adamant,0,252,252,0,0,0
+Electivire,Expert Belt,Low Kick,Dig,Rock Slide,Screech,Naughty,170,170,0,0,0,170
+Electivire,Shuca Berry,Fire Punch,Electro Ball,Ice Punch,Protect,Adamant,170,170,0,0,0,170
+Electivire,Air Balloon,Thunderbolt,Psychic,Focus Blast,Signal Beam,Modest,0,0,0,252,0,252
+Electivire,Shuca Berry,Thunder Punch,Fire Punch,Ice Punch,Earthquake,Jolly,0,252,0,0,0,252
+Magmortar,Passho Berry,Flame Charge,Earthquake,Confuse Ray,Barrier,Adamant,252,252,0,0,0,0
+Magmortar,Wide Lens,Fire Blast,Flame Burst,Focus Blast,Taunt,Modest,0,0,0,252,0,252
+Magmortar,Passho Berry,Flare Blitz,Thunder Punch,Earthquake,Brick Break,Jolly,0,252,0,0,0,252
+Magmortar,White Herb,Overheat,Psychic,Focus Blast,Protect,Timid,0,0,0,252,0,252
+Togekiss,Sitrus Berry,Encore,Follow Me,Reflect,Dazzling Gleam,Calm,252,0,0,0,252,0
+Togekiss,Liechi Berry,Extreme Speed,Aerial Ace,Steel Wing,Brick Break,Brave,252,252,0,0,0,0
+Togekiss,King's Rock,Grass Knot,Thunder Wave,Air Slash,Shadow Ball,Timid,0,0,0,252,0,252
+Togekiss,Expert Belt,Aura Sphere,Air Slash,Heat Wave,Dazzling Gleam,Modest,0,0,0,252,0,252
+Yanmega,Cheri Berry,Air Slash,Bug Buzz,Detect,U-turn,Rash,0,0,0,252,252,0
+Yanmega,Sitrus Berry,Psychic,Bug Buzz,Swagger,Substitute,Modest,252,0,0,252,0,0
+Yanmega,Lum Berry,Silver Wind,Air Slash,Detect,Giga Drain,Modest,0,0,0,252,0,252
+Yanmega,King's Rock,Bug Buzz,Air Slash,Detect,Shadow Ball,Modest,0,0,0,252,0,252
+Leafeon,Scope Lens,X-Scissor,Leaf Blade,Swords Dance,Grass Whistle,Impish,252,0,0,0,0,252
+Leafeon,Liechi Berry,Leaf Blade,Giga Impact,Substitute,Yawn,Naive,0,252,0,0,0,252
+Leafeon,Heat Rock,Sunny Day,Leaf Blade,X-Scissor,Synthesis,Adamant,0,252,252,0,0,0
+Leafeon,Quick Claw,Leaf Blade,X-Scissor,Aerial Ace,Detect,Adamant,0,252,252,0,0,0
+Glaceon,Quick Claw,Ice Shard,Blizzard,Mirror Coat,Helping Hand,Rash,252,0,0,252,0,0
+Glaceon,Chesto Berry,Frost Breath,Shadow Ball,Rest,Barrier,Bold,252,0,252,0,0,0
+Glaceon,Focus Sash,Hail,Blizzard,Mirror Coat,Hyper Beam,Modest,0,0,252,252,0,0
+Glaceon,Bright Powder,Blizzard,Shadow Ball,Signal Beam,Detect,Modest,0,0,252,252,0,0
+Gliscor,Razor Fang,Acrobatics,Fling,U-turn,Swords Dance,Naughty,0,252,0,0,0,252
+Gliscor,Liechi Berry,Agility,Acrobatics,Swords Dance,Baton Pass,Impish,252,0,252,0,0,0
+Gliscor,Expert Belt,Aerial Ace,Earthquake,X-Scissor,Stone Edge,Adamant,0,252,252,0,0,0
+Gliscor,Focus Sash,Earthquake,Acrobatics,U-turn,Counter,Jolly,252,0,0,0,0,252
+Mamoswine,Passho Berry,Double Hit,Earthquake,Ice Shard,Stealth Rock,Adamant,0,170,0,0,170,170
+Mamoswine,Zoom Lens,Stone Edge,Bulldoze,Blizzard,Ice Fang,Brave,0,170,170,0,170,0
+Mamoswine,Lax Incense,Hail,Earthquake,Superpower,Fissure,Adamant,252,252,0,0,0,0
+Mamoswine,Life Orb,Earthquake,Ice Fang,Double-Edge,Stone Edge,Adamant,252,252,0,0,0,0
+Porygon-Z,Wise Glasses,Psychic,Shadow Ball,Thunderbolt,Thunder Wave,Modest,0,0,0,252,0,252
+Porygon-Z,Choice Specs,Hyper Beam,Curse,Curse,Curse,Modest,0,0,0,252,0,252
+Porygon-Z,Expert Belt,Psychic,Ice Beam,Signal Beam,Charge Beam,Modest,252,0,0,252,0,0
+Porygon-Z,Sitrus Berry,Tri Attack,Thunderbolt,Shadow Ball,Recover,Timid,0,0,0,252,0,252
+Gallade,Expert Belt,Shadow Sneak,Brick Break,Psycho Cut,Swords Dance,Hasty,0,252,0,0,0,252
+Gallade,Scope Lens,Psycho Cut,Leaf Blade,Slash,Protect,Jolly,0,252,0,0,0,252
+Gallade,Scope Lens,Psycho Cut,Stone Edge,Night Slash,X-Scissor,Adamant,0,252,0,0,252,0
+Gallade,Lum Berry,Psycho Cut,Close Combat,Heal Pulse,Ally Switch,Jolly,0,252,0,0,0,252
+Probopass,Cheri Berry,Smack Down,Volt Switch,Thunder Wave,Magnet Rise,Calm,252,0,0,0,252,0
+Probopass,Sitrus Berry,Block,Iron Defense,Flash Cannon,Discharge,Bold,252,0,252,0,0,0
+Probopass,Scope Lens,Stone Edge,Iron Head,Earthquake,Explosion,Adamant,0,252,252,0,0,0
+Probopass,Life Orb,Flash Cannon,Power Gem,Earth Power,Thunderbolt,Modest,0,0,0,252,252,0
+Dusknoir,Leftovers,Disable,Will-O-Wisp,Pain Split,Mean Look,Bold,252,0,252,0,0,0
+Dusknoir,Iron Ball,Shadow Sneak,Fire Punch,Fling,Trick Room,Brave,252,252,0,0,0,0
+Dusknoir,Leftovers,Toxic,Will-O-Wisp,Protect,Double Team,Sassy,252,0,0,0,252,0
+Dusknoir,Lum Berry,Shadow Sneak,Pain Split,Destiny Bond,Trick Room,Relaxed,252,0,0,0,252,0
+Froslass,Colbur Berry,Hail,Ice Beam,Ominous Wind,Thunderbolt,Timid,0,0,0,252,0,252
+Froslass,Kasib Berry,Ice Shard,Thunder Wave,Hex,Taunt,Lonely,0,252,0,0,0,252
+Froslass,Icy Rock,Hail,Blizzard,Ice Shard,Shadow Ball,Timid,0,0,0,252,0,252
+Froslass,Focus Sash,Blizzard,Icy Wind,Shadow Ball,Destiny Bond,Timid,0,0,0,252,0,252
+Heatran,Focus Sash,Lava Plume,Earth Power,Flash Cannon,Dark Pulse,Modest,252,0,0,252,0,0
+Heatran,White Herb,Overheat,Will-O-Wisp,Flash Cannon,Protect,Modest,252,0,0,252,0,0
+Heatran,Shuca Berry,Sunny Day,Fire Blast,Solar Beam,Earth Power,Modest,252,0,0,252,0,0
+Heatran,Choice Scarf,Magma Storm,Earth Power,Dragon Pulse,Flash Cannon,Timid,0,0,0,252,0,252
+Regigigas,Bright Powder,Confuse Ray,Double Team,Drain Punch,Payback,Adamant,252,252,0,0,0,0
+Regigigas,Zoom Lens,Thunder,Toxic,Focus Blast,Confuse Ray,Quiet,252,0,0,252,0,0
+Regigigas,Leftovers,Confuse Ray,Drain Punch,Thunder Wave,Rock Slide,Adamant,252,252,0,0,0,0
+Regigigas,Leftovers,Wide Guard,Double Team,Confuse Ray,Toxic,Careful,252,0,252,0,0,0
+Cresselia,Chesto Berry,Calm Mind,Psychic,Shadow Ball,Rest,Bold,252,0,252,0,0,0
+Cresselia,Leftovers,Double Team,Moonlight,Toxic,Protect,Bold,252,0,0,0,252,0
+Cresselia,Lum Berry,Icy Wind,Round,Helping Hand,Swagger,Bold,252,0,0,0,252,0
+Cresselia,Iron Ball,Psychic,Trick,Moonblast,Trick Room,Quiet,0,0,252,252,0,0
+Serperior,Lum Berry,Attract,Leaf Tornado,Dragon Tail,Gastro Acid,Jolly,0,0,170,0,170,170
+Serperior,Sitrus Berry,Leaf Tornado,Hidden Power,Mirror Coat,Captivate,Sassy,170,0,0,170,170,0
+Serperior,Bright Powder,Leaf Storm,Substitute,Hyper Beam,Toxic,Calm,170,0,170,0,170,0
+Serperior,Choice Specs,Leaf Storm,Curse,Curse,Curse,Modest,0,0,0,252,0,252
+Emboar,Chesto Berry,Gyro Ball,Curse,Rest,Sleep Talk,Careful,252,0,0,0,252,0
+Emboar,Quick Claw,Yawn,Wild Charge,Bulldoze,Heat Crash,Brave,0,170,170,0,170,0
+Emboar,Quick Claw,Flare Blitz,Brick Break,Flame Charge,Earthquake,Adamant,0,170,170,0,170,0
+Emboar,Salac Berry,Substitute,Flamethrower,Focus Blast,Scald,Timid,0,0,0,252,0,252
+Samurott,Splash Plate,Retaliate,Razor Shell,Assurance,Encore,Mild,252,252,0,0,0,0
+Samurott,Zoom Lens,Blizzard,Giga Impact,Detect,Hydro Pump,Quiet,0,252,0,252,0,0
+Samurott,Custap Berry,Aerial Ace,Waterfall,X-Scissor,Aqua Jet,Adamant,0,170,170,0,170,0
+Samurott,Salac Berry,Hydro Pump,Ice Beam,Grass Knot,Protect,Modest,0,0,170,170,170,0
+Musharna,Zoom Lens,Hypnosis,Dream Eater,Calm Mind,Helping Hand,Mild,0,0,170,170,170,0
+Musharna,Lum Berry,Shadow Ball,Energy Ball,Psychic,Trick Room,Bold,0,0,252,252,0,0
+Musharna,Scope Lens,Psychic,Shadow Ball,Energy Ball,Yawn,Modest,0,0,252,252,0,0
+Musharna,Chesto Berry,Stored Power,Calm Mind,Shadow Ball,Rest,Relaxed,0,0,252,0,252,0
+Unfezant,Enigma Berry,Aerial Ace,U-turn,Razor Wind,Tailwind,Jolly,170,170,170,0,0,0
+Unfezant,Power Herb,Giga Impact,Quick Attack,Hypnosis,Sky Attack,Jolly,0,252,0,0,0,252
+Unfezant,Power Herb,Sky Attack,Return,Detect,U-turn,Jolly,0,252,0,0,0,252
+Unfezant,Bright Powder,Detect,Feather Dance,Toxic,Fly,Impish,252,0,0,0,252,0
+Zebstrika,Shuca Berry,Swagger,Volt Switch,Wild Charge,Pursuit,Naughty,252,252,0,0,0,0
+Zebstrika,Magnet,Discharge,Thunder Wave,Thunder,Rain Dance,Timid,0,0,0,252,0,252
+Zebstrika,Air Balloon,Flame Charge,Toxic,Wild Charge,Volt Switch,Jolly,0,252,0,0,0,252
+Zebstrika,Focus Sash,Me First,Wild Charge,Thunder Wave,Volt Switch,Jolly,0,252,0,0,0,252
+Gigalith,Rawst Berry,Bulldoze,Rock Blast,Gravity,Curse,Naughty,170,170,170,0,0,0
+Gigalith,Hard Stone,Iron Defense,Sandstorm,Lock-On,Rock Blast,Naughty,252,0,252,0,0,0
+Gigalith,Custap Berry,Stone Edge,Earthquake,Sandstorm,Explosion,Adamant,252,252,0,0,0,0
+Gigalith,Leftovers,Rock Slide,Stealth Rock,Curse,Earthquake,Quiet,252,0,0,0,252,0
+Excadrill,Soft Sand,Hone Claws,Rock Slide,Drill Run,Iron Defense,Naughty,0,252,252,0,0,0
+Excadrill,Chople Berry,Dig,Metal Sound,Metal Claw,Swords Dance,Adamant,0,252,252,0,0,0
+Excadrill,Bright Powder,Sandstorm,Earthquake,Rock Slide,Poison Jab,Adamant,0,170,170,0,170,0
+Excadrill,Life Orb,Earthquake,Aerial Ace,Poison Jab,Rock Slide,Adamant,0,170,170,0,170,0
+Conkeldurr,Black Belt,Rock Slide,Force Palm,Smelling Salts,Bulk Up,Bold,170,0,170,0,170,0
+Conkeldurr,Iron Ball,Mach Punch,Hammer Arm,Bulk Up,Fling,Brave,0,252,0,0,252,0
+Conkeldurr,Sitrus Berry,Bulk Up,Drain Punch,Payback,Stone Edge,Adamant,0,252,0,0,252,0
+Conkeldurr,Iron Ball,Fling,Rock Slide,Superpower,Mach Punch,Brave,0,252,0,0,252,0
+Seismitoad,Chesto Berry,Round,Rest,Water Pulse,Sludge Wave,Rash,0,0,170,170,170,0
+Seismitoad,Iron Ball,Fling,Rock Slide,Poison Jab,Earthquake,Brave,0,252,0,0,252,0
+Seismitoad,Damp Rock,Rain Dance,Muddy Water,Earth Power,Sludge Bomb,Timid,0,0,0,252,0,252
+Seismitoad,Maranga Berry,Brick Break,Poison Jab,Dig,Payback,Jolly,0,252,0,0,0,252
+Throh,Payapa Berry,Protect,Toxic,Circle Throw,Wide Guard,Impish,0,252,252,0,0,0
+Throh,Expert Belt,Revenge,Storm Throw,Protect,Seismic Toss,Brave,0,252,252,0,0,0
+Throh,Expert Belt,Earthquake,Storm Throw,Payback,Rock Slide,Adamant,0,170,170,0,170,0
+Throh,Flame Orb,Protect,Earthquake,Storm Throw,Payback,Brave,0,252,0,0,252,0
+Sawk,Black Belt,Low Sweep,Quick Guard,Retaliate,Taunt,Naughty,0,252,0,0,0,252
+Sawk,Focus Sash,Earthquake,Payback,Endure,Reversal,Naughty,0,252,0,0,0,252
+Sawk,Expert Belt,Close Combat,Payback,Low Sweep,Earthquake,Jolly,0,252,0,0,0,252
+Sawk,Life Orb,Close Combat,Earthquake,Stone Edge,Taunt,Adamant,0,252,0,0,0,252
+Lilligant,Persim Berry,Charm,Sleep Powder,Petal Dance,Healing Wish,Timid,0,0,0,252,0,252
+Lilligant,Big Root,Ingrain,Leech Seed,Toxic,Protect,Bold,170,0,170,0,170,0
+Lilligant,Leftovers,Quiver Dance,Energy Ball,Leech Seed,Protect,Bold,252,0,252,0,0,0
+Lilligant,Lum Berry,Solar Beam,Teeter Dance,Charm,Leech Seed,Bold,127,0,127,127,0,127
+Krookodile,Black Glasses,Crunch,Bulldoze,Taunt,Counter,Naughty,0,170,170,0,170,0
+Krookodile,Roseli Berry,Smack Down,Earthquake,Pursuit,Embargo,Naughty,0,252,252,0,0,0
+Krookodile,Roseli Berry,Earthquake,Crunch,Stone Edge,Dragon Tail,Adamant,0,252,0,0,252,0
+Krookodile,Liechi Berry,Earthquake,Pursuit,Low Sweep,Rock Slide,Jolly,0,252,0,0,0,252
+Darmanitan,Leftovers,Fire Punch,Psychic,Protect,Will-O-Wisp,Naive,252,0,0,0,0,252
+Darmanitan,Luminous Moss,Psychic,Heat Wave,Round,Confide,Calm,252,0,0,0,252,0
+Darmanitan,Assault Vest,Psychic,Earthquake,Flare Blitz,Overheat,Sassy,0,0,252,0,252,0
+Darmanitan,Choice Scarf,Flare Blitz,Stone Edge,U-turn,Superpower,Impish,0,252,0,0,0,252
+Scrafty,Liechi Berry,Fake Out,Bulk Up,Focus Punch,Substitute,Naughty,252,252,0,0,0,0
+Scrafty,Coba Berry,High Jump Kick,Rock Slide,Taunt,Dragon Dance,Jolly,252,0,0,0,0,252
+Scrafty,Muscle Band,Substitute,Payback,High Jump Kick,Focus Punch,Adamant,252,252,0,0,0,0
+Scrafty,Leftovers,Bulk Up,Payback,Protect,Drain Punch,Careful,252,0,0,0,252,0
+Cofagrigus,Chesto Berry,Night Shade,Will-O-Wisp,Mean Look,Rest,Sassy,252,0,0,0,252,0
+Cofagrigus,Spell Tag,Shadow Ball,Energy Ball,Will-O-Wisp,Nasty Plot,Quiet,252,0,0,252,0,0
+Cofagrigus,Maranga Berry,Will-O-Wisp,Shadow Ball,Destiny Bond,Trick Room,Quiet,252,0,0,252,0,0
+Cofagrigus,Leftovers,Will-O-Wisp,Toxic,Hex,Calm Mind,Bold,252,0,0,0,252,0
+Carracosta,Sitrus Berry,Aqua Tail,Rock Slide,Shell Smash,Iron Defense,Naughty,252,252,0,0,0,0
+Carracosta,Wide Lens,Rock Slide,Swagger,Blizzard,Hydro Pump,Rash,252,0,0,252,0,0
+Carracosta,Damp Rock,Rain Dance,Waterfall,Rock Slide,Earthquake,Adamant,0,252,0,0,0,252
+Carracosta,Weakness Policy,Waterfall,Rock Slide,Aqua Jet,Earthquake,Adamant,0,252,0,0,0,252
+Archeops,Sitrus Berry,Quick Attack,Acrobatics,Crunch,U-turn,Jolly,0,252,0,0,0,252
+Archeops,Enigma Berry,Earthquake,Earth Power,Endeavor,Ancient Power,Mild,0,0,0,252,0,252
+Archeops,Choice Band,Aerial Ace,Earthquake,Head Smash,U-turn,Jolly,0,252,0,0,0,252
+Archeops,Sitrus Berry,Rock Slide,Earthquake,Aerial Ace,Protect,Jolly,0,252,0,0,0,252
+Zoroark,Focus Sash,Night Slash,Shadow Claw,Taunt,Counter,Naive,0,252,0,0,0,252
+Zoroark,Expert Belt,Grass Knot,Shadow Ball,Flamethrower,Nasty Plot,Jolly,0,0,0,252,0,252
+Zoroark,Sitrus Berry,Swords Dance,Night Slash,U-turn,Sucker Punch,Jolly,0,252,0,0,0,252
+Zoroark,Focus Band,Protect,Counter,Dark Pulse,Focus Blast,Timid,0,0,0,252,0,252
+Gothitelle,Chesto Berry,Fake Tears,Psychic,Rest,Calm Mind,Sassy,170,0,170,0,0,170
+Gothitelle,TwistedSpoon,Psyshock,Miracle Eye,Mirror Coat,Tickle,Modest,170,0,170,170,0,0
+Gothitelle,Kee Berry,Charm,Safeguard,Psychic,Charge Beam,Modest,252,0,0,252,0,0
+Gothitelle,Bright Powder,Substitute,Flatter,Psych Up,Psychic,Modest,252,0,0,252,0,0
+Reuniclus,Kee Berry,Psychic,Energy Ball,Recover,Wonder Room,Bold,170,0,170,170,0,0
+Reuniclus,King's Rock,Rock Slide,Explosion,Gyro Ball,Trick Room,Brave,0,170,170,0,170,0
+Reuniclus,Colbur Berry,Calm Mind,Psychic,Focus Blast,Shadow Ball,Quiet,0,0,252,252,0,0
+Reuniclus,Toxic Orb,Trick,Psychic,Focus Blast,Recover,Relaxed,0,0,252,0,252,0
+Vanilluxe,Never-Melt Ice,Ice Beam,Frost Breath,Mirror Coat,Icy Wind,Calm,170,0,0,170,170,0
+Vanilluxe,Occa Berry,Avalanche,Ice Shard,Natural Gift,Giga Impact,Lonely,252,252,0,0,0,0
+Vanilluxe,Leftovers,Hail,Blizzard,Flash Cannon,Sheer Cold,Modest,252,0,0,252,0,0
+Vanilluxe,Maranga Berry,Taunt,Ice Beam,Acid Armor,Mirror Coat,Calm,252,0,0,0,252,0
+Escavalier,Liechi Berry,Megahorn,Quick Guard,Swords Dance,Reversal,Brave,252,252,0,0,0,0
+Escavalier,Quick Claw,Pursuit,Counter,X-Scissor,Swords Dance,Naughty,252,252,0,0,0,0
+Escavalier,Life Orb,Megahorn,Iron Defense,Poison Jab,Iron Head,Brave,252,252,0,0,0,0
+Escavalier,Custap Berry,Megahorn,Iron Head,Swagger,Reversal,Adamant,252,252,0,0,0,0
+Ferrothorn,Leftovers,Iron Head,Thunder Wave,Sandstorm,Ingrain,Impish,252,0,252,0,0,0
+Ferrothorn,Chesto Berry,Rest,Payback,Gyro Ball,Curse,Careful,252,0,0,0,252,0
+Ferrothorn,Custap Berry,Protect,Payback,Explosion,Gyro Ball,Brave,252,252,0,0,0,0
+Ferrothorn,Leftovers,Curse,Rock Smash,Gyro Ball,Ingrain,Sassy,252,0,0,0,252,0
+Klinklang,Shuca Berry,Gear Grind,Thunder Wave,Screech,Volt Switch,Impish,252,0,0,0,0,252
+Klinklang,White Herb,Charge Beam,Metal Sound,Flash Cannon,Autotomize,Mild,0,0,0,252,0,252
+Klinklang,Occa Berry,Shift Gear,Gear Grind,Volt Switch,Giga Impact,Adamant,0,252,0,0,0,252
+Klinklang,Leftovers,Flash Cannon,Thunderbolt,Protect,Toxic,Modest,0,0,0,252,0,252
+Eelektross,Magnet,Discharge,Gastro Acid,Thunderbolt,Thunder Wave,Quiet,252,0,0,252,0,0
+Eelektross,Expert Belt,Crunch,Wild Charge,Brick Break,Coil,Naughty,252,252,0,0,0,0
+Eelektross,Assault Vest,Brick Break,U-turn,Grass Knot,Wild Charge,Brave,252,252,0,0,0,0
+Eelektross,Leftovers,Charge Beam,Grass Knot,Flamethrower,Protect,Bold,252,0,0,0,252,0
+Chandelure,Spell Tag,Flamethrower,Confuse Ray,Will-O-Wisp,Hex,Modest,170,0,0,170,0,170
+Chandelure,Chesto Berry,Energy Ball,Rest,Heat Wave,Will-O-Wisp,Timid,252,0,0,0,0,252
+Chandelure,White Herb,Overheat,Shadow Ball,Protect,Will-O-Wisp,Modest,252,0,0,252,0,0
+Chandelure,Leftovers,Calm Mind,Will-O-Wisp,Shadow Ball,Heat Wave,Bold,252,0,0,0,252,0
+Haxorus,Haban Berry,Dual Chop,Earthquake,Roar,Taunt,Hasty,0,252,0,0,0,252
+Haxorus,Persim Berry,Outrage,Rock Slide,Counter,Dragon Dance,Naughty,170,0,170,0,0,170
+Haxorus,Choice Band,Outrage,Earthquake,Dragon Claw,Rock Slide,Jolly,0,252,0,0,0,252
+Haxorus,Yache Berry,Dragon Dance,Dragon Claw,Dragon Tail,Earthquake,Jolly,0,252,0,0,0,252
+Beartic,Sitrus Berry,Shadow Claw,Stone Edge,Avalanche,Bulk Up,Brave,0,252,0,0,252,0
+Beartic,Lax Incense,Hail,Icy Wind,Grass Knot,Blizzard,Rash,252,0,0,252,0,0
+Beartic,Sitrus Berry,Swords Dance,Avalanche,Rock Slide,Brick Break,Adamant,0,252,252,0,0,0
+Beartic,Assault Vest,Icy Wind,Icicle Crash,Rock Slide,Brick Break,Jolly,0,252,0,0,0,252
+Cryogonal,Charti Berry,Icy Wind,Ice Beam,Confuse Ray,Light Screen,Timid,0,0,252,0,0,252
+Cryogonal,Occa Berry,Ice Shard,Slash,Poison Jab,Haze,Hasty,0,252,0,0,0,252
+Cryogonal,Occa Berry,Icy Wind,Flash Cannon,Blizzard,Sheer Cold,Timid,0,0,0,252,0,252
+Cryogonal,Focus Sash,Hail,Icy Wind,Blizzard,Explosion,Naive,0,0,0,252,0,252
+Accelgor,Focus Sash,Encore,Bug Buzz,Giga Drain,Me First,Hasty,0,0,0,252,0,252
+Accelgor,Weakness Policy,Energy Ball,Sludge Bomb,Bug Buzz,Endure,Modest,0,0,0,252,0,252
+Accelgor,Focus Sash,U-turn,Bug Buzz,Focus Blast,Final Gambit,Timid,252,0,0,0,0,252
+Accelgor,Focus Sash,Bug Buzz,Encore,Focus Blast,Protect,Timid,0,0,0,252,0,252
+Mienshao,Salac Berry,U-turn,Endure,Calm Mind,Baton Pass,Naive,252,0,0,0,0,252
+Mienshao,King's Rock,Fake Out,Fling,Acrobatics,High Jump Kick,Jolly,0,252,0,0,0,252
+Mienshao,Focus Sash,Low Kick,Fake Out,High Jump Kick,U-turn,Jolly,0,252,0,0,0,252
+Mienshao,Muscle Band,Feint,Fake Out,High Jump Kick,Wide Guard,Impish,252,252,0,0,0,0
+Druddigon,Roseli Berry,Crunch,Scary Face,Glare,Dragon Tail,Bold,0,252,252,0,0,0
+Druddigon,Scope Lens,Dragon Claw,Night Slash,Slash,Hone Claws,Lonely,170,0,170,0,170,0
+Druddigon,Quick Claw,Crunch,Dragon Claw,Earthquake,Rock Slide,Adamant,252,252,0,0,0,0
+Druddigon,Choice Band,Outrage,Earthquake,Superpower,Dragon Tail,Adamant,252,252,0,0,0,0
+Golurk,Muscle Band,Shadow Punch,Iron Defense,Bulldoze,Heavy Slam,Lonely,252,0,0,0,252,0
+Golurk,Wide Lens,Hammer Arm,Rock Slide,Curse,Gyro Ball,Brave,0,252,0,0,252,0
+Golurk,Lum Berry,Dynamic Punch,Shadow Punch,Earthquake,Rock Slide,Adamant,252,252,0,0,0,0
+Golurk,Iron Ball,Hammer Arm,Earthquake,Shadow Punch,Fling,Brave,252,252,0,0,0,0
+Bisharp,Sitrus Berry,Night Slash,Metal Claw,Taunt,Metal Burst,Lax,252,0,252,0,0,0
+Bisharp,Chople Berry,Aerial Ace,Low Sweep,Iron Head,Scary Face,Adamant,252,252,0,0,0,0
+Bisharp,Chople Berry,Iron Head,Night Slash,Low Sweep,Sucker Punch,Jolly,0,252,0,0,0,252
+Bisharp,Focus Sash,Taunt,Sucker Punch,Rock Smash,Iron Head,Adamant,252,252,0,0,0,0
+Bouffalant,Silk Scarf,Head Charge,Pursuit,Scary Face,Aerial Ace,Adamant,252,252,0,0,0,0
+Bouffalant,Chople Berry,Pursuit,Revenge,Retaliate,Swagger,Brave,252,252,0,0,0,0
+Bouffalant,Sitrus Berry,Swords Dance,Earthquake,Head Charge,Payback,Adamant,252,252,0,0,0,0
+Bouffalant,Life Orb,Earthquake,Head Charge,Payback,Protect,Adamant,252,252,0,0,0,0
+Braviary,King's Rock,Rock Slide,Air Slash,Tailwind,Sky Drop,Adamant,0,170,170,0,170,0
+Braviary,Persim Berry,Thrash,Bulk Up,Superpower,Pluck,Naughty,0,252,0,0,0,252
+Braviary,Choice Scarf,Brave Bird,Return,U-turn,Rock Slide,Adamant,0,252,0,0,0,252
+Braviary,Wacan Berry,Brave Bird,Tailwind,Superpower,Giga Impact,Adamant,0,252,0,0,0,252
+Mandibuzz,Wacan Berry,Taunt,Flatter,Roost,Toxic,Calm,0,0,0,0,252,252
+Mandibuzz,Roseli Berry,Dark Pulse,Air Slash,Shadow Ball,Nasty Plot,Mild,0,0,0,252,0,252
+Mandibuzz,Sitrus Berry,Nasty Plot,Dark Pulse,Air Slash,Incinerate,Modest,170,0,170,0,170,0
+Mandibuzz,Leftovers,Substitute,Swagger,Punishment,Roost,Careful,170,0,170,0,170,0
+Durant,Sitrus Berry,Crunch,Dig,Bug Bite,Metal Sound,Naive,170,170,0,0,0,170
+Durant,Power Herb,Dig,Iron Defense,Agility,Baton Pass,Impish,0,0,252,0,0,252
+Durant,Occa Berry,X-Scissor,Iron Head,Rock Slide,Shadow Claw,Jolly,0,252,0,0,0,252
+Durant,Focus Sash,Entrainment,X-Scissor,Iron Head,Protect,Jolly,252,0,0,0,0,252
+Hydreigon,Dragon Fang,Dragon Pulse,Earth Power,Surf,Dragon Tail,Rash,0,252,0,0,0,252
+Hydreigon,Wide Lens,Focus Blast,Fire Blast,Dragon Rush,Work Up,Mild,0,170,0,170,0,170
+Hydreigon,White Herb,Draco Meteor,Taunt,Earth Power,Flamethrower,Timid,0,0,0,252,0,252
+Hydreigon,Roseli Berry,Dragon Rush,Earthquake,Crunch,Dragon Tail,Jolly,0,252,0,0,0,252
+Volcarona,Power Herb,Fire Spin,Heat Wave,Solar Beam,Whirlwind,Modest,252,0,0,0,0,252
+Volcarona,Lum Berry,Bug Buzz,Flamethrower,Protect,Calm Mind,Timid,0,0,0,252,0,252
+Volcarona,White Herb,Overheat,Quiver Dance,Bug Buzz,Protect,Bold,252,0,252,0,0,0
+Volcarona,Leftovers,Hurricane,Quiver Dance,Bug Buzz,Heat Wave,Bold,252,0,252,0,0,0
+Cobalion,Chesto Berry,Focus Blast,Flash Cannon,Calm Mind,Rest,Bold,252,0,0,0,252,0
+Cobalion,Maranga Berry,Metal Burst,Sacred Sword,Quick Attack,Iron Head,Brave,252,252,0,0,0,0
+Cobalion,Lax Incense,Swagger,Substitute,Psych Up,Iron Head,Jolly,0,252,0,0,0,252
+Cobalion,Life Orb,Iron Head,Close Combat,Quick Guard,Protect,Jolly,0,252,0,0,0,252
+Terrakion,Expert Belt,Close Combat,Earthquake,Stone Edge,Aerial Ace,Jolly,0,252,0,0,0,252
+Terrakion,Choice Scarf,Sacred Sword,Earthquake,Stone Edge,Aerial Ace,Adamant,0,252,0,0,0,252
+Terrakion,Sitrus Berry,Swords Dance,Sacred Sword,Earthquake,Rock Slide,Jolly,0,252,0,0,0,252
+Terrakion,King's Rock,Bulldoze,Rock Slide,Earthquake,Sacred Sword,Jolly,0,252,0,0,0,252
+Virizion,Salac Berry,Sacred Sword,Leaf Blade,Taunt,Stone Edge,Jolly,0,252,0,0,0,252
+Virizion,Sitrus Berry,Energy Ball,Focus Blast,Calm Mind,Toxic,Timid,0,0,252,0,0,252
+Virizion,Coba Berry,Leaf Blade,Stone Edge,Sacred Sword,Protect,Jolly,0,252,0,0,0,252
+Virizion,Chesto Berry,Leaf Blade,Swords Dance,Sacred Sword,Rest,Impish,252,0,252,0,0,0
+Tornadus,Life Orb,Hurricane,Grass Knot,Focus Blast,Dark Pulse,Timid,0,0,0,252,0,252
+Tornadus,Yache Berry,Substitute,Double Team,Focus Blast,Hurricane,Modest,252,0,0,252,0,0
+Tornadus,Chesto Berry,Rest,Air Slash,Dark Pulse,Focus Blast,Bold,252,0,0,0,252,0
+Tornadus,Damp Rock,Hurricane,Focus Blast,Taunt,Rain Dance,Timid,0,0,0,252,0,252
+Thundurus,Chesto Berry,Thunderbolt,Protect,Toxic,Rest,Bold,252,0,0,0,252,0
+Thundurus,Choice Specs,Thunderbolt,Dark Pulse,Focus Blast,Grass Knot,Timid,0,0,0,252,0,252
+Thundurus,Sitrus Berry,Wild Charge,U-turn,Crunch,Sky Drop,Jolly,0,252,0,0,0,252
+Thundurus,Magnet,Discharge,Focus Blast,Volt Switch,Taunt,Timid,0,0,0,252,0,252
+Landorus,Apicot Berry,Rest,Sleep Talk,Smack Down,Fissure,Careful,0,0,252,0,252,0
+Landorus,Choice Scarf,Earth Power,Extrasensory,Focus Blast,Grass Knot,Modest,0,0,0,252,0,252
+Landorus,Smooth Rock,Sandstorm,Earthquake,Rock Slide,Protect,Jolly,0,252,0,0,0,252
+Landorus,White Herb,Hammer Arm,Earthquake,Explosion,U-turn,Adamant,0,252,252,0,0,0
+Chesnaught,Leftovers,Taunt,Spiky Shield,Feint,Wood Hammer,Adamant,0,252,252,0,0,0
+Chesnaught,Expert Belt,Dragon Claw,Seed Bomb,Earthquake,Brick Break,Adamant,0,252,252,0,0,0
+Chesnaught,Life Orb,Focus Blast,Energy Ball,Sludge Bomb,Round,Modest,0,0,252,252,0,0
+Chesnaught,White Herb,Wood Hammer,Hammer Arm,Earthquake,Stone Edge,Adamant,0,252,252,0,0,0
+Delphox,Petaya Berry,Confide,Psychic,Flamethrower,Round,Timid,0,0,0,252,0,252
+Delphox,Flame Orb,Role Play,Switcheroo,Mystical Fire,Shadow Ball,Modest,0,0,0,252,0,252
+Delphox,Heat Rock,Sunny Day,Solar Beam,Fire Blast,Psychic,Timid,0,0,0,252,0,252
+Delphox,White Herb,Overheat,Psychic,Shadow Ball,Psyshock,Modest,0,0,0,252,0,252
+Greninja,Leftovers,Mat Block,Spikes,Scald,Toxic,Calm,0,0,252,0,252,0
+Greninja,Damp Rock,Rain Dance,Surf,Round,Ice Beam,Timid,0,0,0,252,0,252
+Greninja,King's Rock,Water Shuriken,Rock Slide,Grass Knot,U-turn,Jolly,0,252,0,0,0,252
+Greninja,Wide Lens,Hydro Pump,Dark Pulse,Blizzard,Extrasensory,Modest,0,0,0,252,0,252
+Talonflame,Charti Berry,Round,Me First,Will-O-Wisp,Flamethrower,Timid,0,0,0,252,0,252
+Talonflame,Heat Rock,Round,Fire Blast,Sunny Day,Solar Beam,Timid,0,0,0,252,0,252
+Talonflame,Focus Sash,Swords Dance,Quick Attack,Flail,Acrobatics,Jolly,0,0,252,0,0,252
+Talonflame,Sitrus Berry,Brave Bird,Flare Blitz,Quick Attack,Swords Dance,Adamant,0,252,0,0,0,252
+Pyroar,King's Rock,Flamethrower,Hyper Voice,Snarl,Noble Roar,Timid,0,0,0,252,0,252
+Pyroar,Heat Rock,Sunny Day,Hyper Voice,Fire Blast,Solar Beam,Timid,0,0,0,252,0,252
+Pyroar,Lum Berry,Return,Fire Fang,Wild Charge,Crunch,Adamant,0,252,0,0,0,252
+Pyroar,White Herb,Overheat,Hyper Voice,Dark Pulse,Round,Modest,0,0,0,252,0,252
+Florges,Babiri Berry,Flower Shield,Dazzling Gleam,Energy Ball,Wish,Sassy,0,0,252,0,252,0
+Florges,Kebia Berry,Misty Terrain,Grassy Terrain,Nature Power,Round,Quiet,0,0,0,252,252,0
+Florges,Kebia Berry,Calm Mind,Grass Knot,Psychic,Moonblast,Modest,0,0,0,252,252,0
+Florges,Lum Berry,Round,Petal Dance,Psychic,Moonblast,Modest,0,0,0,252,252,0
+Gogoat,Choice Band,Earthquake,Leaf Blade,Wild Charge,Brick Break,Adamant,0,252,0,0,0,252
+Gogoat,Yache Berry,Substitute,Horn Leech,Bulk Up,Payback,Impish,0,0,252,0,252,0
+Gogoat,Occa Berry,Surf,Energy Ball,Rock Slide,Grass Knot,Quiet,0,252,0,252,0,0
+Gogoat,Big Root,Horn Leech,Leech Seed,Protect,Payback,Sassy,252,252,0,0,0,0
+Aromatisse,Lax Incense,Charm,Sweet Kiss,Attract,Draining Kiss,Calm,252,0,0,0,252,0
+Aromatisse,Assault Vest,Round,Psychic,Energy Ball,Dazzling Gleam,Calm,0,0,0,252,252,0
+Aromatisse,Expert Belt,Flash Cannon,Thunder,Psyshock,Moonblast,Modest,0,0,0,252,252,0
+Aromatisse,Leftovers,Aromatic Mist,Dazzling Gleam,Heal Pulse,Trick Room,Sassy,252,0,0,0,252,0
+Slurpuff,Big Root,Draining Kiss,Cotton Guard,Play Nice,Confide,Modest,252,0,0,252,0,0
+Slurpuff,Petaya Berry,Fake Tears,Flamethrower,Dazzling Gleam,Round,Quiet,0,0,0,252,252,0
+Slurpuff,Kee Berry,Endeavor,Play Rough,Facade,Cotton Guard,Adamant,0,252,0,0,252,0
+Slurpuff,Expert Belt,Dazzling Gleam,Energy Ball,Thunderbolt,Flamethrower,Modest,0,0,0,252,0,252
+Barbaracle,Bright Powder,Stone Edge,Razor Shell,Shell Smash,Double Team,Adamant,0,252,0,0,0,252
+Barbaracle,Wise Glasses,Ancient Power,Blizzard,Surf,Focus Blast,Modest,0,0,252,252,0,0
+Barbaracle,Expert Belt,Dragon Claw,Earthquake,X-Scissor,Night Slash,Adamant,0,252,252,0,0,0
+Barbaracle,Razor Claw,Stone Edge,Razor Shell,Cross Chop,Shadow Claw,Adamant,0,252,252,0,0,0
+Clawitzer,Bright Powder,Heal Pulse,Muddy Water,Double Team,Confide,Calm,0,0,252,0,252,0
+Clawitzer,Petaya Berry,Flash Cannon,Scald,Sludge Wave,Round,Modest,0,0,0,252,252,0
+Clawitzer,Focus Sash,Crabhammer,Return,U-turn,Flail,Jolly,0,252,0,0,0,252
+Clawitzer,Choice Specs,Water Pulse,Dark Pulse,Dragon Pulse,Aura Sphere,Modest,0,0,0,252,0,252
+Tyrantrum,Lax Incense,Stealth Rock,Dragon Tail,Double Team,Earthquake,Relaxed,0,0,252,0,252,0
+Tyrantrum,Leftovers,Crunch,Charm,Sandstorm,Dragon Claw,Impish,0,0,252,0,252,0
+Tyrantrum,Wide Lens,Horn Drill,Stone Edge,Rest,Sleep Talk,Impish,252,0,252,0,0,0
+Tyrantrum,Choice Band,Crunch,Dragon Claw,Earthquake,Head Smash,Adamant,0,252,0,0,0,252
+Aurorus,Sitrus Berry,Substitute,Thunder Wave,Round,Thunderbolt,Calm,252,0,0,0,252,0
+Aurorus,Leftovers,Ancient Power,Hail,Sandstorm,Freeze-Dry,Calm,252,0,0,0,252,0
+Aurorus,Expert Belt,Giga Impact,Earthquake,Stone Edge,Frost Breath,Adamant,0,252,0,0,252,0
+Aurorus,Life Orb,Hyper Beam,Flash Cannon,Thunder,Psychic,Modest,0,0,0,252,252,0
+Sylveon,Leftovers,Misty Terrain,Tail Whip,Helping Hand,Dazzling Gleam,Calm,252,0,0,0,252,0
+Sylveon,Ganlon Berry,Baton Pass,Calm Mind,Psych Up,Moonblast,Calm,0,0,252,0,252,0
+Sylveon,Razor Claw,Moonblast,Shadow Ball,Round,Psyshock,Modest,0,0,0,252,252,0
+Sylveon,Big Root,Draining Kiss,Baby-Doll Eyes,Psyshock,Misty Terrain,Modest,0,0,0,252,252,0
+Hawlucha,Salac Berry,Acrobatics,High Jump Kick,Feather Dance,Taunt,Jolly,0,252,0,0,0,252
+Hawlucha,Leftovers,Toxic,Bounce,Dig,Protect,Careful,0,0,252,0,252,0
+Hawlucha,Liechi Berry,Swords Dance,Flying Press,Acrobatics,Steel Wing,Adamant,0,252,0,0,0,252
+Hawlucha,Power Herb,Sky Attack,Flying Press,U-turn,Stone Edge,Jolly,0,252,0,0,0,252
+Carbink,Light Clay,Reflect,Light Screen,Safeguard,Dazzling Gleam,Calm,0,0,252,0,252,0
+Carbink,Smooth Rock,Toxic,Protect,Sandstorm,Power Gem,Bold,0,0,252,0,252,0
+Carbink,Iron Ball,Trick Room,Gyro Ball,Dazzling Gleam,Power Gem,Quiet,0,0,0,252,252,0
+Carbink,Scope Lens,Explosion,Psychic,Moonblast,Power Gem,Quiet,0,252,0,252,0,0
+Goodra,Lax Incense,Substitute,Muddy Water,Dragon Pulse,Sludge Wave,Modest,0,0,0,252,252,0
+Goodra,Lum Berry,Aqua Tail,Body Slam,Earthquake,Outrage,Careful,0,252,0,0,252,0
+Goodra,Damp Rock,Dragon Pulse,Rain Dance,Thunder,Muddy Water,Modest,0,0,0,252,252,0
+Goodra,White Herb,Draco Meteor,Thunder,Blizzard,Fire Blast,Modest,0,0,0,252,252,0
+Trevenant,Wise Glasses,Psychic,Shadow Ball,Energy Ball,Round,Modest,0,0,0,252,252,0
+Trevenant,Leftovers,Toxic,Ingrain,Protect,Phantom Force,Careful,0,0,252,0,252,0
+Trevenant,Choice Band,Horn Leech,Shadow Claw,Earthquake,X-Scissor,Adamant,252,252,0,0,0,0
+Trevenant,Iron Ball,Trick Room,Focus Blast,Energy Ball,Shadow Ball,Quiet,0,0,252,252,0,0
+Gourgeist,Sitrus Berry,Will-O-Wisp,Trick-or-Treat,Pain Split,Phantom Force,Impish,252,0,252,0,0,0
+Gourgeist,Iron Ball,Trick Room,Gyro Ball,Seed Bomb,Explosion,Impish,170,0,170,0,170,0
+Gourgeist,Wise Glasses,Shadow Ball,Sludge Bomb,Energy Ball,Flamethrower,Modest,0,0,252,252,0,0
+Gourgeist,Life Orb,Trick-or-Treat,Phantom Force,Seed Bomb,Rock Slide,Adamant,252,252,0,0,0,0
+Avalugg,Leftovers,Avalanche,Confide,Protect,Toxic,Relaxed,252,0,252,0,0,0
+Avalugg,Apicot Berry,Rest,Curse,Frost Breath,Skull Bash,Careful,0,0,252,0,252,0
+Avalugg,Icy Rock,Hail,Blizzard,Recover,Flash Cannon,Bold,0,0,252,0,252,0
+Avalugg,Iron Ball,Stone Edge,Avalanche,Gyro Ball,Earthquake,Brave,0,252,252,0,0,0
+Noivern,Yache Berry,Super Fang,Boomburst,Round,Torment,Timid,0,0,0,252,0,252
+Noivern,Roseli Berry,Dragon Claw,Wild Charge,X-Scissor,Acrobatics,Adamant,0,252,0,0,0,252
+Noivern,Razor Fang,Air Slash,Dragon Pulse,Flamethrower,Psychic,Modest,0,0,0,252,0,252
+Noivern,Wide Lens,Dragon Pulse,Hurricane,Flamethrower,Focus Blast,Modest,0,0,0,252,0,252

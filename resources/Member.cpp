@@ -25,7 +25,7 @@ Member::Member(QWidget *parent) :
     Move *move3 = ui->move3;
     Move *move4 = ui->move4;
 
-    move1->setMove("Ice Beam");
+    move1->setMove("Sludge");
     move1->applyCss();
     move2->applyCss();
     move3->applyCss();

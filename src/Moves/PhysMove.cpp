@@ -7,28 +7,15 @@
 #include <QSqlError>
 #include <QVariant>
 #include <iostream>
-#include "Move.h"
+#include "PhysMove.h"
 
-Move::Move(const std::string &name) {
-    QSqlDatabase db = QSqlDatabase::database();
-    QSqlQuery query;
-    query.prepare("Select * from Moves Where name = :name");
-    query.bindValue(":name", QVariant(QString::fromStdString(name)));
-    if (!query.exec()) {
-        std::cerr << query.lastError().text().toStdString() << std::endl;
-    }
-    query.next();
+PhysMove::PhysMove(const std::string &name) : IMove(name) {}
 
-    this->name = name;
-    this->effect = query.value("effect").toString().toStdString();
-    this->power = query.value("power").toInt();
-    this->acc = query.value("accuracy").toInt();
-    this->type = query.value("type").toString().toStdString();
+PhysMove::PhysMove(const QSqlRecord &query) : IMove(query) {}
 
-}
+PhysMove::~PhysMove() = default;
 
-Move::~Move() = default;
-
-std::vector<int> Move::calcDamage(Mon attacker, Mon defender) {
-
+std::vector<int> PhysMove::calcDamage(Mon* attacker, Mon* defender) const {
+    int baseD = IMove::normInitDamage(attacker->level, attacker->getModAtk(), attacker->getModDef());
+    return IMove::applyModifiers(baseD, attacker, defender);
 }

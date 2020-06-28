@@ -2,15 +2,15 @@
 // Created by shotg on 5/28/2020.
 //
 
-#ifndef BATTLETOWERMANAGER_UI_MOVE_H
-#define BATTLETOWERMANAGER_UI_MOVE_H
+#ifndef BATTLETOWERMANAGER_UMOVE_H
+#define BATTLETOWERMANAGER_UMOVE_H
 
 
 #include <QtWidgets/QWidget>
-#include "ui_Move.h"
+#include "ui_UMove.h"
 
 namespace Ui{
-    class Ui_Move;
+    class UMove;
 }
 class Move : public QWidget {
     Q_OBJECT
@@ -23,7 +23,7 @@ public:
     void setFixedSize(int x, int y);
     void updateFontSize();
 private:
-    Ui::Ui_Move *ui;
+    Ui::UMove *ui;
     QLabel* moveName;
     QLabel* power;
     QLabel* acc;
@@ -31,4 +31,4 @@ private:
 };
 
 
-#endif //BATTLETOWERMANAGER_UI_MOVE_H
+#endif //BATTLETOWERMANAGER_UMOVE_H

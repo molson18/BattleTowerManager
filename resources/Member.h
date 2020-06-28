@@ -16,7 +16,7 @@
 #include <QtWidgets/QProgressBar>
 //#include <cstdlib>
 #include <cmath>
-#include "Move.h"
+#include "UMove.h"
 
 using namespace std;
 

@@ -2,25 +2,22 @@
 // Created by Matthew Olson on 6/13/20.
 //
 
-#ifndef BATTLETOWERMANAGER_MOVE_H
-#define BATTLETOWERMANAGER_MOVE_H
+#ifndef BATTLETOWERMANAGER_PHYSMOVE_H
+#define BATTLETOWERMANAGER_PHYSMOVE_H
+#include "../IMove.h"
 #include <string>
 #include <vector>
-#include <src/Mon.h>
+#include "src/Mon.h"
 
 
-class Move {
+class PhysMove : public IMove {
 public:
-    Move(const std::string &name);
-    ~Move();
-    std::vector<int> calcDamage(Mon attacker, Mon defender);
+    explicit PhysMove(const std::string &name);
+    explicit PhysMove(const QSqlRecord &query);
+    ~PhysMove();
+    std::vector<int> calcDamage(Mon* attacker, Mon* defender) const;
 private:
-    std::string name;
-    std::string effect;
-    std::string type;
-    int power;
-    int acc;
 };
 
 
-#endif //BATTLETOWERMANAGER_MOVE_H
+#endif //BATTLETOWERMANAGER_PHYSMOVE_H

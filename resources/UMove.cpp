@@ -7,12 +7,12 @@
 #include <iostream>
 #include <QtCore/QFile>
 #include <cmath>
-#include "Ui_Move.h"
-#include "ui_Move.h"
+#include "UMove.h"
+#include "UMove.h"
 
 Move::Move(QWidget* parent) :
     QWidget(parent),
-    ui(new Ui::Ui_Move) {
+    ui(new Ui::UMove) {
     ui->setupUi(this);
 
     this->moveName = ui->moveName;
@@ -44,7 +44,7 @@ void Move::setMove(const std::string &move) {
 }
 
 void Move::applyCss() {
-    QFile memberStyle("../css/Ui_Move.css");
+    QFile memberStyle("../css/UMove.css");
     memberStyle.open(QFile::ReadOnly);
     QString style = memberStyle.readAll();
     this->setStyleSheet(style);

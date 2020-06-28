@@ -6,11 +6,13 @@
 #define BATTLETOWERMANAGER_STATUSMOVE_H
 
 
+#include "src/IMove.h"
 
-class StatusMove {
-
+class StatusMove : public IMove {
+public:
+    StatusMove(const QSqlRecord &query);
+    std::vector<int> calcDamage(Mon *attacker, Mon *defender) const;
 };
-
 
 
 #endif //BATTLETOWERMANAGER_STATUSMOVE_H

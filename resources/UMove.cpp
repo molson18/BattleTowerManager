@@ -7,12 +7,12 @@
 #include <iostream>
 #include <QtCore/QFile>
 #include <cmath>
-#include "Move.h"
+#include "Ui_Move.h"
 #include "ui_Move.h"
 
 Move::Move(QWidget* parent) :
     QWidget(parent),
-    ui(new Ui::Move) {
+    ui(new Ui::Ui_Move) {
     ui->setupUi(this);
 
     this->moveName = ui->moveName;
@@ -27,7 +27,7 @@ Move::~Move() {
     delete ui;
 }
 
-void Move::setMove(std::string move) {
+void Move::setMove(const std::string &move) {
 
     QSqlDatabase db = QSqlDatabase::database();
     QSqlQuery query;
@@ -41,11 +41,10 @@ void Move::setMove(std::string move) {
     this->bg->setObjectName(type);
     this->power->setText(query.value(2).toString());
     this->acc->setText(query.value(3).toString());
-
 }
 
 void Move::applyCss() {
-    QFile memberStyle("../css/Move.css");
+    QFile memberStyle("../css/Ui_Move.css");
     memberStyle.open(QFile::ReadOnly);
     QString style = memberStyle.readAll();
     this->setStyleSheet(style);

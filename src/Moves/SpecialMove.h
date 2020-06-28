@@ -1,0 +1,14 @@
+//
+// Created by Matthew Olson on 6/26/20.
+//
+
+#ifndef BATTLETOWERMANAGER_SPECIALMOVE_H
+#define BATTLETOWERMANAGER_SPECIALMOVE_H
+
+
+class SpecialMove {
+
+};
+
+
+#endif //BATTLETOWERMANAGER_SPECIALMOVE_H
